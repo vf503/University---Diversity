@@ -1,0 +1,3041 @@
+﻿[
+  {
+    "id": "0f9364f1992a4f40ad76435f279a79f6",
+    "text": "50人论坛",
+    "href": "Level2GroupLite.aspx?id=0f9364f1992a4f40ad76435f279a79f6",
+    "nodes": [
+      {
+        "id": "78a3cdacfc854aec9a57ef75d1709db5",
+        "text": "2016年度",
+        "href": "Level3GroupLite.aspx?id=78a3cdacfc854aec9a57ef75d1709db5"
+      },
+      {
+        "id": "d56a50a3d18640f4b72b4139991b2471",
+        "text": "2015年度",
+        "href": "Level3GroupLite.aspx?id=d56a50a3d18640f4b72b4139991b2471"
+      },
+      {
+        "id": "3c8eb522c0194e83ac9b88730af9d91d",
+        "text": "2014年度",
+        "href": "Level3GroupLite.aspx?id=3c8eb522c0194e83ac9b88730af9d91d"
+      }
+    ]
+  },
+  {
+    "id": "935d0912145e4d13a4889fe6c995f9d1",
+    "text": "可持续发展",
+    "href": "Level2GroupLite.aspx?id=935d0912145e4d13a4889fe6c995f9d1",
+    "nodes": [
+      {
+        "id": "7586a17fb0384abd9c53270574cdd55b",
+        "text": "高层报告",
+        "href": "Level3GroupLite.aspx?id=7586a17fb0384abd9c53270574cdd55b"
+      },
+      {
+        "id": "f386101355be459cb3559524d1c1f91b",
+        "text": "国家信息中心博士后论坛",
+        "href": "Level3GroupLite.aspx?id=f386101355be459cb3559524d1c1f91b"
+      },
+      {
+        "id": "eb59158f20d8489babffdd4ef44682c5",
+        "text": "政策热点",
+        "href": "Level3GroupLite.aspx?id=eb59158f20d8489babffdd4ef44682c5"
+      }
+    ]
+  },
+  {
+    "id": "64f5f7081c6746039023082c712214f8",
+    "text": "宏观经济类论坛",
+    "href": "Level2GroupLite.aspx?id=64f5f7081c6746039023082c712214f8",
+    "nodes": [
+      {
+        "id": "64b8e4660a0a416fbd163790eca6765c",
+        "text": "经济每月谈",
+        "href": "Level3GroupLite.aspx?id=64b8e4660a0a416fbd163790eca6765c"
+      },
+      {
+        "id": "4fdaab1fae4c4d1b8ef063fbe7b02472",
+        "text": "CMRC中国经济观察",
+        "href": "Level3GroupLite.aspx?id=4fdaab1fae4c4d1b8ef063fbe7b02472"
+      },
+      {
+        "id": "03b97afe850248e38ad4394341f8a679",
+        "text": "中国宏观经济论坛",
+        "href": "Level3GroupLite.aspx?id=03b97afe850248e38ad4394341f8a679"
+      },
+      {
+        "id": "198d1544f47447b5b7ebab9f732f6dcb",
+        "text": "中国经济前瞻论坛",
+        "href": "Level3GroupLite.aspx?id=198d1544f47447b5b7ebab9f732f6dcb"
+      },
+      {
+        "id": "0ddd29cc3b56444485ed5fc642b84461",
+        "text": "中国经济年会",
+        "href": "Level3GroupLite.aspx?id=0ddd29cc3b56444485ed5fc642b84461"
+      },
+      {
+        "id": "471d1fa0b0e34d8abd5f608fcf231d5d",
+        "text": "中国财经领袖年会",
+        "href": "Level3GroupLite.aspx?id=471d1fa0b0e34d8abd5f608fcf231d5d"
+      },
+      {
+        "id": "c6cdeaf681fd42daaa57898f93be1725",
+        "text": "网易经济学家年会",
+        "href": "Level3GroupLite.aspx?id=c6cdeaf681fd42daaa57898f93be1725"
+      },
+      {
+        "id": "f840888608cc4390a3834ec5938f6cb6",
+        "text": "《财经》年会",
+        "href": "Level3GroupLite.aspx?id=f840888608cc4390a3834ec5938f6cb6"
+      },
+      {
+        "id": "898e55aaec3645ed998f9f296f2e30e2",
+        "text": "搜狐财经变革力峰会",
+        "href": "Level3GroupLite.aspx?id=898e55aaec3645ed998f9f296f2e30e2"
+      },
+      {
+        "id": "120e2b9366074efdb75c67e9a26f708d",
+        "text": "新浪金麒麟论坛",
+        "href": "Level3GroupLite.aspx?id=120e2b9366074efdb75c67e9a26f708d"
+      },
+      {
+        "id": "14073c0fbafe492aa2726a2034b1d454",
+        "text": "经济发展及经济改革类论坛",
+        "href": "Level2GroupLite.aspx?id=14073c0fbafe492aa2726a2034b1d454",
+        "nodes": [
+          {
+            "id": "c2e1bc8b6c724495af76239a6bdfdbef",
+            "text": "中国法治经济论坛",
+            "href": "Level3GroupLite.aspx?id=c2e1bc8b6c724495af76239a6bdfdbef"
+          },
+          {
+            "id": "e2d7ea8ed7274020b8f2a729bd771b97",
+            "text": "中国经济安全论坛",
+            "href": "Level3GroupLite.aspx?id=e2d7ea8ed7274020b8f2a729bd771b97"
+          },
+          {
+            "id": "124e9d07f11740e88ae4759c03f58005",
+            "text": "中国经济增长与经济安全战略论坛",
+            "href": "Level3GroupLite.aspx?id=124e9d07f11740e88ae4759c03f58005"
+          },
+          {
+            "id": "6ea02ed09d0d41c2838072368ce5a34a",
+            "text": "中国全面小康论坛",
+            "href": "Level3GroupLite.aspx?id=6ea02ed09d0d41c2838072368ce5a34a"
+          },
+          {
+            "id": "49ec479ab1e64d80b3e968efeefc1079",
+            "text": "人口红利与社会经济发展国际研讨会",
+            "href": "Level3GroupLite.aspx?id=49ec479ab1e64d80b3e968efeefc1079"
+          },
+          {
+            "id": "c1528d767265403c9de6a378ef84e221",
+            "text": "北大《深化改革与中国经济长期发展》讨论会",
+            "href": "Level3GroupLite.aspx?id=c1528d767265403c9de6a378ef84e221"
+          },
+          {
+            "id": "7512503060234f97a2ebec6253a26df4",
+            "text": "中国未来发展研讨会",
+            "href": "Level3GroupLite.aspx?id=7512503060234f97a2ebec6253a26df4"
+          },
+          {
+            "id": "98fb686824e846d090c00b4058ea9434",
+            "text": "中国经济改革发展论坛",
+            "href": "Level3GroupLite.aspx?id=98fb686824e846d090c00b4058ea9434"
+          },
+          {
+            "id": "216fa0be145e4d33b7d3cb3262abcaef",
+            "text": "中国新常态经济发展高层论坛",
+            "href": "Level3GroupLite.aspx?id=216fa0be145e4d33b7d3cb3262abcaef"
+          },
+          {
+            "id": "e314524e7d44417aa2fd6fe062400ce8",
+            "text": "中国未来五年的增长与改革论坛",
+            "href": "Level3GroupLite.aspx?id=e314524e7d44417aa2fd6fe062400ce8"
+          },
+          {
+            "id": "279269369048401ea82e39c3b3728faf",
+            "text": "中国改革论坛",
+            "href": "Level3GroupLite.aspx?id=279269369048401ea82e39c3b3728faf"
+          },
+          {
+            "id": "86e5a3140b234cf29b64b6af52896a10",
+            "text": "搜狐财经年会",
+            "href": "Level3GroupLite.aspx?id=86e5a3140b234cf29b64b6af52896a10"
+          },
+          {
+            "id": "4660ff47988541939a5991b69c0ec66c",
+            "text": "北京大学经济发展论坛",
+            "href": "Level3GroupLite.aspx?id=4660ff47988541939a5991b69c0ec66c"
+          },
+          {
+            "id": "5def320eb07742f5824149644633f1fc",
+            "text": "中国经济学前沿论坛",
+            "href": "Level3GroupLite.aspx?id=5def320eb07742f5824149644633f1fc"
+          },
+          {
+            "id": "719e02f1a1414dd9912e0b797570e50e",
+            "text": "北大经济国富论坛",
+            "href": "Level3GroupLite.aspx?id=719e02f1a1414dd9912e0b797570e50e"
+          },
+          {
+            "id": "e385c82b67c94667988b6e1c6f60487a",
+            "text": "财新峰会",
+            "href": "Level3GroupLite.aspx?id=e385c82b67c94667988b6e1c6f60487a"
+          }
+        ]
+      },
+      {
+        "id": "510059689d7b4fcab970c29a080b2bf0",
+        "text": "国有经济发展论坛",
+        "href": "Level2GroupLite.aspx?id=510059689d7b4fcab970c29a080b2bf0",
+        "nodes": [
+          {
+            "id": "21fca424243e48de89c66ddfb426c0ee",
+            "text": "中央企业供给侧改革研讨会",
+            "href": "Level3GroupLite.aspx?id=21fca424243e48de89c66ddfb426c0ee"
+          },
+          {
+            "id": "7e5a3ab14b634d38984f2af2c855a262",
+            "text": "中国国有经济发展论坛",
+            "href": "Level3GroupLite.aspx?id=7e5a3ab14b634d38984f2af2c855a262"
+          },
+          {
+            "id": "fa3e9872130a4200a9d38d2887b8155d",
+            "text": "财经智库座谈会",
+            "href": "Level3GroupLite.aspx?id=fa3e9872130a4200a9d38d2887b8155d"
+          },
+          {
+            "id": "43038f38e5d7417eb310aee19f0020ad",
+            "text": "中央企业非主营业务兼并重组工作研讨会",
+            "href": "Level3GroupLite.aspx?id=43038f38e5d7417eb310aee19f0020ad"
+          },
+          {
+            "id": "f9203b0d893c401c8c31e0a1180f24cd",
+            "text": "大国时代经济报告会",
+            "href": "Level3GroupLite.aspx?id=f9203b0d893c401c8c31e0a1180f24cd"
+          }
+        ]
+      },
+      {
+        "id": "09615a71b52d49e59f943f1d104ab41b",
+        "text": "公共财政论坛",
+        "href": "Level2GroupLite.aspx?id=09615a71b52d49e59f943f1d104ab41b",
+        "nodes": [
+          {
+            "id": "523b474327e74b3cb5da8da6682df782",
+            "text": "中国公共财政论坛",
+            "href": "Level3GroupLite.aspx?id=523b474327e74b3cb5da8da6682df782"
+          },
+          {
+            "id": "94f6e6d6ac22403b8b5ead2cbec77880",
+            "text": "国家治理与财政学基础理论创新研讨会",
+            "href": "Level3GroupLite.aspx?id=94f6e6d6ac22403b8b5ead2cbec77880"
+          },
+          {
+            "id": "6e81d400684a44cca7acca974083c348",
+            "text": "PPP政策研究与创新发展高峰论坛",
+            "href": "Level3GroupLite.aspx?id=6e81d400684a44cca7acca974083c348"
+          },
+          {
+            "id": "614947e201fd4c9393de740137b06c83",
+            "text": "国民收入分配与企业薪酬制度高峰论坛",
+            "href": "Level3GroupLite.aspx?id=614947e201fd4c9393de740137b06c83"
+          },
+          {
+            "id": "5795fbeb6b504bb0b67296f5a88ce1d8",
+            "text": "高顿国际税务峰会",
+            "href": "Level3GroupLite.aspx?id=5795fbeb6b504bb0b67296f5a88ce1d8"
+          },
+          {
+            "id": "f0b36c9fc5ad41d7a39db3d2edd6d5f4",
+            "text": "公共财政政策与体制",
+            "href": "Level3GroupLite.aspx?id=f0b36c9fc5ad41d7a39db3d2edd6d5f4"
+          },
+          {
+            "id": "d305a17dc2d546afbc831a466d781572",
+            "text": "中国政府债务管理与资产价格风险国际研讨会",
+            "href": "Level3GroupLite.aspx?id=d305a17dc2d546afbc831a466d781572"
+          }
+        ]
+      },
+      {
+        "id": "ce043449dbe14ea6ac2193f27cb1d545",
+        "text": "国际贸易类论坛",
+        "href": "Level2GroupLite.aspx?id=ce043449dbe14ea6ac2193f27cb1d545",
+        "nodes": [
+          {
+            "id": "948e0c77f66945b9ab4c09c15ab9cd54",
+            "text": "中国国际商务发展论坛",
+            "href": "Level3GroupLite.aspx?id=948e0c77f66945b9ab4c09c15ab9cd54"
+          },
+          {
+            "id": "77038ad3378d4bd4ada32c223f20b9ef",
+            "text": "中国外贸形势报告会",
+            "href": "Level3GroupLite.aspx?id=77038ad3378d4bd4ada32c223f20b9ef"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "320754fe8e544ea5beb0951f4f1be18c",
+    "text": "国际经济类论坛",
+    "href": "Level2GroupLite.aspx?id=320754fe8e544ea5beb0951f4f1be18c",
+    "nodes": [
+      {
+        "id": "6e36b3b886ec44bab2b9e498f3baf75c",
+        "text": "全球经济预测",
+        "href": "Level2GroupLite.aspx?id=6e36b3b886ec44bab2b9e498f3baf75c",
+        "nodes": [
+          {
+            "id": "ea702e1ea1534e2a980b864b1d675937",
+            "text": "全球宏观经济预测年会",
+            "href": "Level3GroupLite.aspx?id=ea702e1ea1534e2a980b864b1d675937"
+          }
+        ]
+      },
+      {
+        "id": "56e23dbb63324430817626912b1697f4",
+        "text": "中国与世界经济",
+        "href": "Level2GroupLite.aspx?id=56e23dbb63324430817626912b1697f4",
+        "nodes": [
+          {
+            "id": "1c4c405d65b24d1bb8ea25e5d9f81616",
+            "text": "全面提高开放型经济水平学术研讨会",
+            "href": "Level3GroupLite.aspx?id=1c4c405d65b24d1bb8ea25e5d9f81616"
+          },
+          {
+            "id": "c2781120a76d439ea5a193bab40e6a67",
+            "text": "全球价值链与经济结构调整国际研讨会",
+            "href": "Level3GroupLite.aspx?id=c2781120a76d439ea5a193bab40e6a67"
+          },
+          {
+            "id": "a430492a6ef3475691c561194e9d64da",
+            "text": "世界经济与政治发展论坛",
+            "href": "Level3GroupLite.aspx?id=a430492a6ef3475691c561194e9d64da"
+          }
+        ]
+      },
+      {
+        "id": "440a523fc5484022a2a950e376fc6577",
+        "text": "国际性区域经济",
+        "href": "Level2GroupLite.aspx?id=440a523fc5484022a2a950e376fc6577",
+        "nodes": [
+          {
+            "id": "e606d4b1d9234240aba3e83ce4dc27be",
+            "text": "联合国第32届国际经济景气研究中心大会",
+            "href": "Level3GroupLite.aspx?id=e606d4b1d9234240aba3e83ce4dc27be"
+          },
+          {
+            "id": "2ca53881113a41b793b8b495305122dd",
+            "text": "太平洋区域与海洋可持续发展论坛",
+            "href": "Level3GroupLite.aspx?id=2ca53881113a41b793b8b495305122dd"
+          },
+          {
+            "id": "d2e98394daa44a549d51469a17e6fef6",
+            "text": "中国太平洋论坛",
+            "href": "Level3GroupLite.aspx?id=d2e98394daa44a549d51469a17e6fef6"
+          }
+        ]
+      },
+      {
+        "id": "5d1803e1f08d4880adaef9bae1700604",
+        "text": "国际合作",
+        "href": "Level2GroupLite.aspx?id=5d1803e1f08d4880adaef9bae1700604",
+        "nodes": [
+          {
+            "id": "4083df984b6c44f4ab446c5bae220882",
+            "text": "中国G20峰会主题研讨会",
+            "href": "Level3GroupLite.aspx?id=4083df984b6c44f4ab446c5bae220882"
+          },
+          {
+            "id": "9c716b5298224c4c83ca817f54054c7b",
+            "text": "金砖国家经济智库论坛",
+            "href": "Level3GroupLite.aspx?id=9c716b5298224c4c83ca817f54054c7b"
+          },
+          {
+            "id": "a72325ab934242a7b795851e15c00430",
+            "text": "WTO与中国学术年会",
+            "href": "Level3GroupLite.aspx?id=a72325ab934242a7b795851e15c00430"
+          },
+          {
+            "id": "4fd3213bfb2449db857038af7d945572",
+            "text": "全球智库峰会",
+            "href": "Level3GroupLite.aspx?id=4fd3213bfb2449db857038af7d945572"
+          },
+          {
+            "id": "05fa261847614072a2aa58470ad431e7",
+            "text": "全球治理论坛",
+            "href": "Level3GroupLite.aspx?id=05fa261847614072a2aa58470ad431e7"
+          }
+        ]
+      },
+      {
+        "id": "60cdcf9f16314dc9981fb8da784191fc",
+        "text": "清华大学中国与世界经济论坛",
+        "href": "Level3GroupLite.aspx?id=60cdcf9f16314dc9981fb8da784191fc"
+      },
+      {
+        "id": "aff859d806774f4abc07f6e74df1a7c0",
+        "text": "中国人民大学世界经济论坛",
+        "href": "Level3GroupLite.aspx?id=aff859d806774f4abc07f6e74df1a7c0"
+      }
+    ]
+  },
+  {
+    "id": "0699f9b190f44eb7b42d58c843a5f819",
+    "text": "区域经济类论坛",
+    "href": "Level2GroupLite.aspx?id=0699f9b190f44eb7b42d58c843a5f819",
+    "nodes": [
+      {
+        "id": "b4bc578a30fb417fbcf4d0a1e4cf7dda",
+        "text": "区域经济可持续发展",
+        "href": "Level2GroupLite.aspx?id=b4bc578a30fb417fbcf4d0a1e4cf7dda",
+        "nodes": [
+          {
+            "id": "a622e7d4f5044686b0eaa24a32364a93",
+            "text": "中国区域经济可持续发展高峰论坛",
+            "href": "Level3GroupLite.aspx?id=a622e7d4f5044686b0eaa24a32364a93"
+          }
+        ]
+      },
+      {
+        "id": "3c41b4946506452dbc5a8f9a83afcb9d",
+        "text": "区域经济与生态环境",
+        "href": "Level2GroupLite.aspx?id=3c41b4946506452dbc5a8f9a83afcb9d",
+        "nodes": [
+          {
+            "id": "380fab56d8894e8ca3aa5af167c414a8",
+            "text": "区域经济与生态环境和谐发展高峰论坛",
+            "href": "Level3GroupLite.aspx?id=380fab56d8894e8ca3aa5af167c414a8"
+          }
+        ]
+      },
+      {
+        "id": "627c4b67e912424c9eb65eda6fb12343",
+        "text": "区域经济与产业发展",
+        "href": "Level2GroupLite.aspx?id=627c4b67e912424c9eb65eda6fb12343",
+        "nodes": [
+          {
+            "id": "1aa10f455a6f48f89d4f8b1b917c3ff0",
+            "text": "区域发展与生物产业基地论坛",
+            "href": "Level3GroupLite.aspx?id=1aa10f455a6f48f89d4f8b1b917c3ff0"
+          },
+          {
+            "id": "e89a639e1f204aeaaed90cfd2c6bd6ca",
+            "text": "中国农村发展学术论坛",
+            "href": "Level3GroupLite.aspx?id=e89a639e1f204aeaaed90cfd2c6bd6ca"
+          }
+        ]
+      },
+      {
+        "id": "15f66b6ccdad41e7ae909a5287ad3e8d",
+        "text": "临空经济",
+        "href": "Level2GroupLite.aspx?id=15f66b6ccdad41e7ae909a5287ad3e8d",
+        "nodes": [
+          {
+            "id": "7149b7ccf8dc44c78955d185005b7eaf",
+            "text": "中国临空经济论坛",
+            "href": "Level3GroupLite.aspx?id=7149b7ccf8dc44c78955d185005b7eaf"
+          },
+          {
+            "id": "f1daf618a50543708f9136ad1bfd9eba",
+            "text": "运输与时空经济论坛",
+            "href": "Level3GroupLite.aspx?id=f1daf618a50543708f9136ad1bfd9eba"
+          },
+          {
+            "id": "92088b6ea5f847558b49e94f5bad5fb5",
+            "text": "中国智慧民航发展研讨会",
+            "href": "Level3GroupLite.aspx?id=92088b6ea5f847558b49e94f5bad5fb5"
+          },
+          {
+            "id": "2722fb3130fe4b4f884f2fb87ec7c82f",
+            "text": "中国临空经济国际高峰论坛",
+            "href": "Level3GroupLite.aspx?id=2722fb3130fe4b4f884f2fb87ec7c82f"
+          }
+        ]
+      },
+      {
+        "id": "324fc93bc8e54abdb0e23815dc9ec864",
+        "text": "临港经济",
+        "href": "Level2GroupLite.aspx?id=324fc93bc8e54abdb0e23815dc9ec864",
+        "nodes": [
+          {
+            "id": "b33f7269ed954ed3a30475d0f9c483c7",
+            "text": "中国陆港发展论坛",
+            "href": "Level3GroupLite.aspx?id=b33f7269ed954ed3a30475d0f9c483c7"
+          },
+          {
+            "id": "6fc77c766ffe4ba8afbf596800465e66",
+            "text": "中国陆港发展研讨会",
+            "href": "Level3GroupLite.aspx?id=6fc77c766ffe4ba8afbf596800465e66"
+          },
+          {
+            "id": "ae8b6deadc1e4c2b87cee104295c664d",
+            "text": "中国港口城市经济研讨会",
+            "href": "Level3GroupLite.aspx?id=ae8b6deadc1e4c2b87cee104295c664d"
+          },
+          {
+            "id": "db6ef2f8f3b840b4bab254cf6676c1df",
+            "text": "中国临港经济论坛",
+            "href": "Level3GroupLite.aspx?id=db6ef2f8f3b840b4bab254cf6676c1df"
+          }
+        ]
+      },
+      {
+        "id": "b1a7cbd3b1904ea28689ffc6f0bd47b3",
+        "text": "一带一路",
+        "href": "Level2GroupLite.aspx?id=b1a7cbd3b1904ea28689ffc6f0bd47b3",
+        "nodes": [
+          {
+            "id": "cf4714a566fc49aab13b3c17996fa649",
+            "text": "“一带一路”经贸与产业园国际高峰论坛",
+            "href": "Level3GroupLite.aspx?id=cf4714a566fc49aab13b3c17996fa649"
+          },
+          {
+            "id": "f54102108a6f401495d8c71fd2e237db",
+            "text": "一带一路与楼兰文化论坛",
+            "href": "Level3GroupLite.aspx?id=f54102108a6f401495d8c71fd2e237db"
+          },
+          {
+            "id": "782be9359c334b4faaa35b0b5f6413a1",
+            "text": "国研智库论坛",
+            "href": "Level3GroupLite.aspx?id=782be9359c334b4faaa35b0b5f6413a1"
+          },
+          {
+            "id": "f14a2dac4006429aa721f2eac4342cbb",
+            "text": "中国人民大学“一带一路”经济论坛",
+            "href": "Level3GroupLite.aspx?id=f14a2dac4006429aa721f2eac4342cbb"
+          },
+          {
+            "id": "1dd30becdf9d4309a34131f46f67b779",
+            "text": "“一带一路”十大系统工程成果报告会",
+            "href": "Level3GroupLite.aspx?id=1dd30becdf9d4309a34131f46f67b779"
+          }
+        ]
+      },
+      {
+        "id": "800fa9c52e8d4d8d915b70435f0fe45f",
+        "text": "京津冀一体化",
+        "href": "Level3GroupLite.aspx?id=800fa9c52e8d4d8d915b70435f0fe45f"
+      }
+    ]
+  },
+  {
+    "id": "8ce98363e42c476299acef80ae5f8e1a",
+    "text": "产业经济类论坛",
+    "href": "Level2GroupLite.aspx?id=8ce98363e42c476299acef80ae5f8e1a",
+    "nodes": [
+      {
+        "id": "8cac9716debd446ab05286468f17f5d1",
+        "text": "产业行业发展专题论坛",
+        "href": "Level2GroupLite.aspx?id=8cac9716debd446ab05286468f17f5d1",
+        "nodes": [
+          {
+            "id": "5fd07f917a0343cda00be996d65ee23a",
+            "text": "中国产业改革发展年会",
+            "href": "Level3GroupLite.aspx?id=5fd07f917a0343cda00be996d65ee23a"
+          },
+          {
+            "id": "4bccd310209740e398b434b3805bf16d",
+            "text": "中国产业经济学术年会",
+            "href": "Level3GroupLite.aspx?id=4bccd310209740e398b434b3805bf16d"
+          },
+          {
+            "id": "d9ccc35338194e628b363d348c9d2a85",
+            "text": "中国产业发展大会",
+            "href": "Level3GroupLite.aspx?id=d9ccc35338194e628b363d348c9d2a85"
+          },
+          {
+            "id": "b51b398dbc084683b4e06a5ada5e5b17",
+            "text": "产业安全与发展论坛",
+            "href": "Level3GroupLite.aspx?id=b51b398dbc084683b4e06a5ada5e5b17"
+          },
+          {
+            "id": "6a0d1fd1ee5f4adc9c9823618d7d7d86",
+            "text": "中国产业园商务区发展",
+            "href": "Level3GroupLite.aspx?id=6a0d1fd1ee5f4adc9c9823618d7d7d86"
+          },
+          {
+            "id": "c446cc03076e47ba8ba7c9bc1a166a37",
+            "text": "中国各行业的发展趋势",
+            "href": "Level3GroupLite.aspx?id=c446cc03076e47ba8ba7c9bc1a166a37"
+          },
+          {
+            "id": "a4ec0f4e88ef41eab9aacf69ff6ec792",
+            "text": "产业中国年会",
+            "href": "Level3GroupLite.aspx?id=a4ec0f4e88ef41eab9aacf69ff6ec792"
+          },
+          {
+            "id": "36cf1fe48b214e52968f69c49ffb46fe",
+            "text": "产业组织前沿问题国际研讨会",
+            "href": "Level3GroupLite.aspx?id=36cf1fe48b214e52968f69c49ffb46fe"
+          }
+        ]
+      },
+      {
+        "id": "8bdbed2a92904e91a523d4be0972e58c",
+        "text": "文化产业论坛",
+        "href": "Level2GroupLite.aspx?id=8bdbed2a92904e91a523d4be0972e58c",
+        "nodes": [
+          {
+            "id": "ce20922169cc4d26816dcd7ef5738f8e",
+            "text": "中国文化软实力研究高层论坛",
+            "href": "Level3GroupLite.aspx?id=ce20922169cc4d26816dcd7ef5738f8e"
+          },
+          {
+            "id": "cc0a0f9e52f14192b9746e8a8d3d6eba",
+            "text": "中国文化产业新年论坛",
+            "href": "Level3GroupLite.aspx?id=cc0a0f9e52f14192b9746e8a8d3d6eba"
+          },
+          {
+            "id": "84a2c76f37664eea8c21573967a089b7",
+            "text": "国际文化管理年会",
+            "href": "Level3GroupLite.aspx?id=84a2c76f37664eea8c21573967a089b7"
+          },
+          {
+            "id": "3a6c76f415f441d8a32bdff8e1714437",
+            "text": "中国北京国际文化创意产业论坛",
+            "href": "Level3GroupLite.aspx?id=3a6c76f415f441d8a32bdff8e1714437"
+          },
+          {
+            "id": "a1b08053370c429096e3df977cd05a92",
+            "text": "国学造园主题论坛",
+            "href": "Level3GroupLite.aspx?id=a1b08053370c429096e3df977cd05a92"
+          }
+        ]
+      },
+      {
+        "id": "6d21bec59cbb43aeae168db274262c0d",
+        "text": "信息产业论坛",
+        "href": "Level2GroupLite.aspx?id=6d21bec59cbb43aeae168db274262c0d",
+        "nodes": [
+          {
+            "id": "981a8bad50a34841adb478d23f09d92b",
+            "text": "中国信息产业经济年会",
+            "href": "Level3GroupLite.aspx?id=981a8bad50a34841adb478d23f09d92b"
+          },
+          {
+            "id": "ec019dd325e04cd8979b1cf39a32ffdf",
+            "text": "中国工业和信息化论坛",
+            "href": "Level3GroupLite.aspx?id=ec019dd325e04cd8979b1cf39a32ffdf"
+          },
+          {
+            "id": "0518c2c1332b46a488d103e9e3f61dac",
+            "text": "中国电子信息产业论坛",
+            "href": "Level3GroupLite.aspx?id=0518c2c1332b46a488d103e9e3f61dac"
+          },
+          {
+            "id": "700286b780a242158a6816ef5d6635dd",
+            "text": "中国工业数字化论坛",
+            "href": "Level3GroupLite.aspx?id=700286b780a242158a6816ef5d6635dd"
+          },
+          {
+            "id": "274158eca43f4ab283f02cd78c318d5e",
+            "text": "中国农村信息化发展论坛",
+            "href": "Level3GroupLite.aspx?id=274158eca43f4ab283f02cd78c318d5e"
+          },
+          {
+            "id": "ef6f21ede746404fa7abe40174a393d3",
+            "text": "中国信息化推进大会高峰论坛",
+            "href": "Level3GroupLite.aspx?id=ef6f21ede746404fa7abe40174a393d3"
+          },
+          {
+            "id": "cd3c7bffe0924dfaa50a3e299ac303a5",
+            "text": "中国工业与信息化融合发展高峰论坛",
+            "href": "Level3GroupLite.aspx?id=cd3c7bffe0924dfaa50a3e299ac303a5"
+          },
+          {
+            "id": "5f16c03398aa4725ad61cb9836d148b6",
+            "text": "中国电子信息产业年会",
+            "href": "Level3GroupLite.aspx?id=5f16c03398aa4725ad61cb9836d148b6"
+          },
+          {
+            "id": "35bd12c2201f4446aeb6fbe6a36420ca",
+            "text": "中国信息社会发展论坛",
+            "href": "Level3GroupLite.aspx?id=35bd12c2201f4446aeb6fbe6a36420ca"
+          }
+        ]
+      },
+      {
+        "id": "6d1efaaffad647dd815233ced0708379",
+        "text": "大数据产业论坛",
+        "href": "Level2GroupLite.aspx?id=6d1efaaffad647dd815233ced0708379",
+        "nodes": [
+          {
+            "id": "65d5b7dbb2f0466dafd7546fc20f1d75",
+            "text": "中国大数据产业生态大会",
+            "href": "Level3GroupLite.aspx?id=65d5b7dbb2f0466dafd7546fc20f1d75"
+          },
+          {
+            "id": "712c0c23faa54ca69c2d638807114a27",
+            "text": "中国国际云计算技术和应用论坛",
+            "href": "Level3GroupLite.aspx?id=712c0c23faa54ca69c2d638807114a27"
+          },
+          {
+            "id": "5e8bffd7653b418383ded64e4113a99a",
+            "text": "中国数据中心产业发展大会",
+            "href": "Level3GroupLite.aspx?id=5e8bffd7653b418383ded64e4113a99a"
+          },
+          {
+            "id": "59ad0c8333264a448dc79fd5c54d08cf",
+            "text": "中国通信行业云计算峰会",
+            "href": "Level3GroupLite.aspx?id=59ad0c8333264a448dc79fd5c54d08cf"
+          }
+        ]
+      },
+      {
+        "id": "26941f104ced40598b9c92be59041f6d",
+        "text": "物联网产业发展",
+        "href": "Level2GroupLite.aspx?id=26941f104ced40598b9c92be59041f6d",
+        "nodes": [
+          {
+            "id": "b2c01a86852f4a299bc5328278bedb44",
+            "text": "中国物联网产业与智慧城市发展年会",
+            "href": "Level3GroupLite.aspx?id=b2c01a86852f4a299bc5328278bedb44"
+          }
+        ]
+      },
+      {
+        "id": "c0c353bdd4c144d8a31d495148f39243",
+        "text": "互联网产业发展",
+        "href": "Level2GroupLite.aspx?id=c0c353bdd4c144d8a31d495148f39243",
+        "nodes": [
+          {
+            "id": "229adc0c5b124f51beb0fe7778426585",
+            "text": "中国互联网产业年会",
+            "href": "Level3GroupLite.aspx?id=229adc0c5b124f51beb0fe7778426585"
+          },
+          {
+            "id": "81913bbc570c4727a982ce024694f5c3",
+            "text": "中国互联网大会",
+            "href": "Level3GroupLite.aspx?id=81913bbc570c4727a982ce024694f5c3"
+          },
+          {
+            "id": "21d45762bab246469246b7765d926de1",
+            "text": "中国产业互联网大会",
+            "href": "Level3GroupLite.aspx?id=21d45762bab246469246b7765d926de1"
+          }
+        ]
+      },
+      {
+        "id": "59a3b877fbae42c7b54374b6ae406502",
+        "text": "计算机与软件产业",
+        "href": "Level2GroupLite.aspx?id=59a3b877fbae42c7b54374b6ae406502",
+        "nodes": [
+          {
+            "id": "351651378f6f494a9b47b0c3a76c11a7",
+            "text": "中国IT市场年会",
+            "href": "Level3GroupLite.aspx?id=351651378f6f494a9b47b0c3a76c11a7"
+          },
+          {
+            "id": "97f9edf0daeb4ee6977f7e8f05ea562c",
+            "text": "中国软件大会",
+            "href": "Level3GroupLite.aspx?id=97f9edf0daeb4ee6977f7e8f05ea562c"
+          },
+          {
+            "id": "a172c8d246a14f8e84ed6d518b723d40",
+            "text": "中国国际软件博览会",
+            "href": "Level3GroupLite.aspx?id=a172c8d246a14f8e84ed6d518b723d40"
+          }
+        ]
+      },
+      {
+        "id": "85b8fb5ab06f4825a63d42127eb81240",
+        "text": "环保产业发展",
+        "href": "Level2GroupLite.aspx?id=85b8fb5ab06f4825a63d42127eb81240",
+        "nodes": [
+          {
+            "id": "f6c89a53080a46f39f8e86b7249c1802",
+            "text": "“互联网+”环保产业发展论坛",
+            "href": "Level3GroupLite.aspx?id=f6c89a53080a46f39f8e86b7249c1802"
+          },
+          {
+            "id": "480cb4d4e1964fa5b5d3c259543fb2ae",
+            "text": "东亚环境治理与产业合作论坛",
+            "href": "Level3GroupLite.aspx?id=480cb4d4e1964fa5b5d3c259543fb2ae"
+          },
+          {
+            "id": "8fc12f70da4544b5813101f7bbec3860",
+            "text": "环保产业政策报告与环境服务业发展研讨会",
+            "href": "Level3GroupLite.aspx?id=8fc12f70da4544b5813101f7bbec3860"
+          }
+        ]
+      },
+      {
+        "id": "c204dd4f655f44c4abe4925e6391b2a6",
+        "text": "汽车产业发展",
+        "href": "Level2GroupLite.aspx?id=c204dd4f655f44c4abe4925e6391b2a6",
+        "nodes": [
+          {
+            "id": "acdf8a7a587e4620a4e833c63967ee1b",
+            "text": "中国新能源动力汽车产业技术创新战略联盟大会",
+            "href": "Level3GroupLite.aspx?id=acdf8a7a587e4620a4e833c63967ee1b"
+          },
+          {
+            "id": "52b2aad619cf4372a6ffe220140de4c1",
+            "text": "中国汽车论坛",
+            "href": "Level3GroupLite.aspx?id=52b2aad619cf4372a6ffe220140de4c1"
+          },
+          {
+            "id": "434df0b54ed447289e74f5f95ca88225",
+            "text": "世界汽车产业论坛",
+            "href": "Level3GroupLite.aspx?id=434df0b54ed447289e74f5f95ca88225"
+          }
+        ]
+      },
+      {
+        "id": "82231c56dd024190ba17c7c78e6171d7",
+        "text": "生物产业发展",
+        "href": "Level2GroupLite.aspx?id=82231c56dd024190ba17c7c78e6171d7",
+        "nodes": [
+          {
+            "id": "2ab1bc9257a845caaff37b34020b1463",
+            "text": "中国生物产业大会",
+            "href": "Level3GroupLite.aspx?id=2ab1bc9257a845caaff37b34020b1463"
+          },
+          {
+            "id": "362eb33da6d2437ca5d247baeceeca7d",
+            "text": "生物产业基地建设与生物产业发展论坛",
+            "href": "Level3GroupLite.aspx?id=362eb33da6d2437ca5d247baeceeca7d"
+          },
+          {
+            "id": "993a6e2695b3475d88d1a6bc070120fd",
+            "text": "前沿生物技术论坛",
+            "href": "Level3GroupLite.aspx?id=993a6e2695b3475d88d1a6bc070120fd"
+          },
+          {
+            "id": "18d6d5b7e947474babc80c21f86df87a",
+            "text": "中国生物产业高层论坛",
+            "href": "Level3GroupLite.aspx?id=18d6d5b7e947474babc80c21f86df87a"
+          },
+          {
+            "id": "c5514f01df43436982c347e29228cf98",
+            "text": "先进生物制造产业论坛",
+            "href": "Level3GroupLite.aspx?id=c5514f01df43436982c347e29228cf98"
+          },
+          {
+            "id": "8d3bb20d3a3f403f9655892f340ba68c",
+            "text": "生物农业与绿色食品论坛",
+            "href": "Level3GroupLite.aspx?id=8d3bb20d3a3f403f9655892f340ba68c"
+          },
+          {
+            "id": "56fea0a4463c4595bb40100303733eda",
+            "text": "基因科学与产业发展论坛",
+            "href": "Level3GroupLite.aspx?id=56fea0a4463c4595bb40100303733eda"
+          }
+        ]
+      },
+      {
+        "id": "5bf5db49ca944f8aa348e0a1805ccfe5",
+        "text": "中国战略性新兴产业发展",
+        "href": "Level2GroupLite.aspx?id=5bf5db49ca944f8aa348e0a1805ccfe5",
+        "nodes": [
+          {
+            "id": "2087286416e74d5d9f7fa90ddaff8847",
+            "text": "战略性新兴产业发展论坛",
+            "href": "Level3GroupLite.aspx?id=2087286416e74d5d9f7fa90ddaff8847"
+          }
+        ]
+      },
+      {
+        "id": "a54b97513f5d423083cb309cd4adc1ef",
+        "text": "农林牧渔产业发展",
+        "href": "Level2GroupLite.aspx?id=a54b97513f5d423083cb309cd4adc1ef",
+        "nodes": [
+          {
+            "id": "a88a7854a3b84b74995b4c2a80665da2",
+            "text": "中国国际农商高峰论坛",
+            "href": "Level3GroupLite.aspx?id=a88a7854a3b84b74995b4c2a80665da2"
+          },
+          {
+            "id": "6dd64863a601419c8b92176843cc45e5",
+            "text": "清华三农论坛",
+            "href": "Level3GroupLite.aspx?id=6dd64863a601419c8b92176843cc45e5"
+          },
+          {
+            "id": "557f1050acc742e9ac28486d8489677d",
+            "text": "中国农业展望大会",
+            "href": "Level3GroupLite.aspx?id=557f1050acc742e9ac28486d8489677d"
+          },
+          {
+            "id": "eb863ce7f09a42b5aa016791de76a94f",
+            "text": "现代都市农业高层论坛",
+            "href": "Level3GroupLite.aspx?id=eb863ce7f09a42b5aa016791de76a94f"
+          },
+          {
+            "id": "d65d4455fabd4354bd02e9edd99cd508",
+            "text": "发展现代农业与农业经营组织创新论坛",
+            "href": "Level3GroupLite.aspx?id=d65d4455fabd4354bd02e9edd99cd508"
+          },
+          {
+            "id": "4ceb27be6f7447d7b905e5266dda69f0",
+            "text": "北京国际现代农业发展论坛",
+            "href": "Level3GroupLite.aspx?id=4ceb27be6f7447d7b905e5266dda69f0"
+          },
+          {
+            "id": "f35a24663a1c41389b5dbc9f8aec5e77",
+            "text": "世界农业科学前沿高层论坛",
+            "href": "Level3GroupLite.aspx?id=f35a24663a1c41389b5dbc9f8aec5e77"
+          },
+          {
+            "id": "134a581c3a1a4a949ed74c594e5b05c9",
+            "text": "农业及农资发展论坛",
+            "href": "Level3GroupLite.aspx?id=134a581c3a1a4a949ed74c594e5b05c9"
+          }
+        ]
+      },
+      {
+        "id": "31a22363a2ab473098700da62e6c1423",
+        "text": "工业及制造业发展",
+        "href": "Level2GroupLite.aspx?id=31a22363a2ab473098700da62e6c1423",
+        "nodes": [
+          {
+            "id": "c8a76a1878b6404290dbf3045d14c94c",
+            "text": "中国工业经济论坛",
+            "href": "Level3GroupLite.aspx?id=c8a76a1878b6404290dbf3045d14c94c"
+          },
+          {
+            "id": "199e025f18bd464185a667801f36f91e",
+            "text": "国家智能制造论坛",
+            "href": "Level3GroupLite.aspx?id=199e025f18bd464185a667801f36f91e"
+          },
+          {
+            "id": "c8a0cc15c3bc4a33a9b2b3d63e2c853f",
+            "text": "新工业革命与增材制造国际研讨会",
+            "href": "Level3GroupLite.aspx?id=c8a0cc15c3bc4a33a9b2b3d63e2c853f"
+          },
+          {
+            "id": "e6edd18cde80409b99ad78af583a6851",
+            "text": "再制造论坛",
+            "href": "Level3GroupLite.aspx?id=e6edd18cde80409b99ad78af583a6851"
+          },
+          {
+            "id": "6866b757118d4e0ebaa5f7bc4a27c0da",
+            "text": "绿色物流设备与智能技术发展研讨会",
+            "href": "Level3GroupLite.aspx?id=6866b757118d4e0ebaa5f7bc4a27c0da"
+          },
+          {
+            "id": "4fef0d93b66246aebae733e39304096e",
+            "text": "中美工程技术研讨会",
+            "href": "Level3GroupLite.aspx?id=4fef0d93b66246aebae733e39304096e"
+          }
+        ]
+      },
+      {
+        "id": "de9ede71ae624ec2a6d3312694a979f4",
+        "text": "钢铁及有色金属行业",
+        "href": "Level2GroupLite.aspx?id=de9ede71ae624ec2a6d3312694a979f4",
+        "nodes": [
+          {
+            "id": "f1b82422c92c45dd8796252d89d6e7db",
+            "text": "钢铁行业发展战略与钢铁产品产需研讨会",
+            "href": "Level3GroupLite.aspx?id=f1b82422c92c45dd8796252d89d6e7db"
+          }
+        ]
+      },
+      {
+        "id": "dca7e15e1a64434a933b074ba5fc897e",
+        "text": "石化行业",
+        "href": "Level2GroupLite.aspx?id=dca7e15e1a64434a933b074ba5fc897e",
+        "nodes": [
+          {
+            "id": "b3615361732e4294ae04cbf7e8ec5e51",
+            "text": "国际石油产业高峰论坛",
+            "href": "Level3GroupLite.aspx?id=b3615361732e4294ae04cbf7e8ec5e51"
+          },
+          {
+            "id": "dfbcf3e3907d4b3d8887b89b512f527c",
+            "text": "中国石油石化产业发展国际论坛",
+            "href": "Level3GroupLite.aspx?id=dfbcf3e3907d4b3d8887b89b512f527c"
+          },
+          {
+            "id": "996a75a379ed45a7bb7f6f39dd7de076",
+            "text": "中国原油与成品油市场放开的理论研究与改革方案研讨会",
+            "href": "Level3GroupLite.aspx?id=996a75a379ed45a7bb7f6f39dd7de076"
+          }
+        ]
+      },
+      {
+        "id": "3987bc9b0dac4aaab00547f51889b505",
+        "text": "房地产行业",
+        "href": "Level2GroupLite.aspx?id=3987bc9b0dac4aaab00547f51889b505",
+        "nodes": [
+          {
+            "id": "b20714a5892c4bbca3ca1821d4e561f3",
+            "text": "地产中国论坛",
+            "href": "Level3GroupLite.aspx?id=b20714a5892c4bbca3ca1821d4e561f3"
+          },
+          {
+            "id": "d865047d906d4cc394db4d4a2468ef84",
+            "text": "商业地产行业峰会",
+            "href": "Level3GroupLite.aspx?id=d865047d906d4cc394db4d4a2468ef84"
+          },
+          {
+            "id": "16d9b9f768d0454981f6b1b6e1167cb3",
+            "text": "中国写字楼综合体发展论坛",
+            "href": "Level3GroupLite.aspx?id=16d9b9f768d0454981f6b1b6e1167cb3"
+          }
+        ]
+      },
+      {
+        "id": "096120ca8ac54bdd85e51fd27367a081",
+        "text": "医药行业",
+        "href": "Level2GroupLite.aspx?id=096120ca8ac54bdd85e51fd27367a081",
+        "nodes": [
+          {
+            "id": "bbd4490445e94e4c8d8c31b42ab3c732",
+            "text": "生物医药市场发展论坛",
+            "href": "Level3GroupLite.aspx?id=bbd4490445e94e4c8d8c31b42ab3c732"
+          },
+          {
+            "id": "606f6fb24c21460db525989229b5979e",
+            "text": "中药材质量安全保障论坛",
+            "href": "Level3GroupLite.aspx?id=606f6fb24c21460db525989229b5979e"
+          },
+          {
+            "id": "abd4a02d43e54a7292b81bda57232033",
+            "text": "生物医药产业发展论坛",
+            "href": "Level3GroupLite.aspx?id=abd4a02d43e54a7292b81bda57232033"
+          },
+          {
+            "id": "61c4c9a0199d42178e3fe2fc838b00d9",
+            "text": "中药创新论坛",
+            "href": "Level3GroupLite.aspx?id=61c4c9a0199d42178e3fe2fc838b00d9"
+          }
+        ]
+      },
+      {
+        "id": "ca978784d5a8484aa50f6cfc67d25e4d",
+        "text": "物流行业",
+        "href": "Level2GroupLite.aspx?id=ca978784d5a8484aa50f6cfc67d25e4d",
+        "nodes": [
+          {
+            "id": "d0aa7ed85fd3447986b2a8ac258466db",
+            "text": "中国电子商务与物流企业家年会",
+            "href": "Level3GroupLite.aspx?id=d0aa7ed85fd3447986b2a8ac258466db"
+          },
+          {
+            "id": "9f879de8187e4d65a546a9bab097fc68",
+            "text": "制造业与物流业联动发展年会",
+            "href": "Level3GroupLite.aspx?id=9f879de8187e4d65a546a9bab097fc68"
+          },
+          {
+            "id": "da65d9cc0b3a4ae7bc2b8a66bfa35e79",
+            "text": "中国能源物流产业大会",
+            "href": "Level3GroupLite.aspx?id=da65d9cc0b3a4ae7bc2b8a66bfa35e79"
+          },
+          {
+            "id": "f72dc8153f9c41d9a08e08ee2d2d198d",
+            "text": "单元化物流高端论坛",
+            "href": "Level3GroupLite.aspx?id=f72dc8153f9c41d9a08e08ee2d2d198d"
+          },
+          {
+            "id": "2c1c99acd863403bbcaed66a722dfe87",
+            "text": "中国北京流通现代化论坛",
+            "href": "Level3GroupLite.aspx?id=2c1c99acd863403bbcaed66a722dfe87"
+          },
+          {
+            "id": "538d0500572b4e5f82327e6e7beca5ba",
+            "text": "中国国际储运年会暨全球流通价值链论坛",
+            "href": "Level3GroupLite.aspx?id=538d0500572b4e5f82327e6e7beca5ba"
+          },
+          {
+            "id": "c1926d0e41ff4c05a2f195f16754820f",
+            "text": "清华大学供应链与物流教育创新论坛",
+            "href": "Level3GroupLite.aspx?id=c1926d0e41ff4c05a2f195f16754820f"
+          }
+        ]
+      },
+      {
+        "id": "476c6841a47043aa85d69d05a22545d4",
+        "text": "交通运输行业",
+        "href": "Level2GroupLite.aspx?id=476c6841a47043aa85d69d05a22545d4",
+        "nodes": [
+          {
+            "id": "f6ea014d1dd64ffc810e81193b2cb89d",
+            "text": "中国通用机场与通航产业发展论坛",
+            "href": "Level3GroupLite.aspx?id=f6ea014d1dd64ffc810e81193b2cb89d"
+          },
+          {
+            "id": "f7bf3d1f5a894ac0b2ee860bd8088cd1",
+            "text": "中国智慧民航发展研讨会",
+            "href": "Level3GroupLite.aspx?id=f7bf3d1f5a894ac0b2ee860bd8088cd1"
+          },
+          {
+            "id": "c950ea079ab0448b994eae63307f442c",
+            "text": "中国交通运输信息化智能化发展推进大会",
+            "href": "Level3GroupLite.aspx?id=c950ea079ab0448b994eae63307f442c"
+          },
+          {
+            "id": "309d85bc02b1493ca17cddb1bd67fe01",
+            "text": "中国机场论坛",
+            "href": "Level3GroupLite.aspx?id=309d85bc02b1493ca17cddb1bd67fe01"
+          },
+          {
+            "id": "22d9580b75a141d68c6c11fd6b3ca0e3",
+            "text": "铁路改制问题展望与出路研讨会",
+            "href": "Level3GroupLite.aspx?id=22d9580b75a141d68c6c11fd6b3ca0e3"
+          },
+          {
+            "id": "787c252f5cd6436fbe04c1cca29c47d6",
+            "text": "中国公路科技创新高层论坛",
+            "href": "Level3GroupLite.aspx?id=787c252f5cd6436fbe04c1cca29c47d6"
+          },
+          {
+            "id": "90cd616540434be1a155e8f3315d31e3",
+            "text": "中国智能交通年会",
+            "href": "Level3GroupLite.aspx?id=90cd616540434be1a155e8f3315d31e3"
+          },
+          {
+            "id": "7b54994a742543e98ecfc107113cfbb9",
+            "text": "中国轨道世界大会",
+            "href": "Level3GroupLite.aspx?id=7b54994a742543e98ecfc107113cfbb9"
+          },
+          {
+            "id": "1be9bd7f379b4f2ca1ab4a5abe2d2e6a",
+            "text": "运输与时空经济论坛",
+            "href": "Level3GroupLite.aspx?id=1be9bd7f379b4f2ca1ab4a5abe2d2e6a"
+          }
+        ]
+      },
+      {
+        "id": "16a10131956440fb8abe2c73b6105698",
+        "text": "旅游行业",
+        "href": "Level2GroupLite.aspx?id=16a10131956440fb8abe2c73b6105698",
+        "nodes": [
+          {
+            "id": "98e867af926a4a3da7f91341f0144ee5",
+            "text": "中国旅游项目投资大会",
+            "href": "Level3GroupLite.aspx?id=98e867af926a4a3da7f91341f0144ee5"
+          },
+          {
+            "id": "d8a7225c77ea467f98a084fc0e6a8d9c",
+            "text": "中国景区发展新动力高峰论坛",
+            "href": "Level3GroupLite.aspx?id=d8a7225c77ea467f98a084fc0e6a8d9c"
+          },
+          {
+            "id": "ec0c4e2531184ca5a41f8f2fd9418a22",
+            "text": "中国乡村旅游高峰论坛",
+            "href": "Level3GroupLite.aspx?id=ec0c4e2531184ca5a41f8f2fd9418a22"
+          }
+        ]
+      },
+      {
+        "id": "1db8669ed07149feb0513c56a943406b",
+        "text": "商业服务业",
+        "href": "Level2GroupLite.aspx?id=1db8669ed07149feb0513c56a943406b",
+        "nodes": [
+          {
+            "id": "a8a1eb3840804eae89dd643dddf9d059",
+            "text": "国际服务贸易论坛",
+            "href": "Level3GroupLite.aspx?id=a8a1eb3840804eae89dd643dddf9d059"
+          },
+          {
+            "id": "7fdd7b63c2e14b87a72175bf9b231f32",
+            "text": "中国服务创新论坛",
+            "href": "Level3GroupLite.aspx?id=7fdd7b63c2e14b87a72175bf9b231f32"
+          },
+          {
+            "id": "0c92f950bd274f96a28ed965211b01f1",
+            "text": "21世纪保险创新论坛",
+            "href": "Level3GroupLite.aspx?id=0c92f950bd274f96a28ed965211b01f1"
+          },
+          {
+            "id": "7bcde9296f084e34b3559df53ac671d9",
+            "text": "开发性金融助推养老产业发展论坛",
+            "href": "Level3GroupLite.aspx?id=7bcde9296f084e34b3559df53ac671d9"
+          },
+          {
+            "id": "8d5df2adcb5c4af0a67b1bb9f60a2cc9",
+            "text": "中国保险业寿险营销高峰论坛",
+            "href": "Level3GroupLite.aspx?id=8d5df2adcb5c4af0a67b1bb9f60a2cc9"
+          },
+          {
+            "id": "9f30698e8fb5402882d1c0933ee80a08",
+            "text": "“中国服务”品牌竞争力企业论坛",
+            "href": "Level3GroupLite.aspx?id=9f30698e8fb5402882d1c0933ee80a08"
+          }
+        ]
+      },
+      {
+        "id": "637a9011961a4bb0a368956b003f9b7b",
+        "text": "能源行业",
+        "href": "Level2GroupLite.aspx?id=637a9011961a4bb0a368956b003f9b7b",
+        "nodes": [
+          {
+            "id": "7319dd7fb92a489a9deae3a17920c259",
+            "text": "中国能源科学家论坛",
+            "href": "Level3GroupLite.aspx?id=7319dd7fb92a489a9deae3a17920c259"
+          },
+          {
+            "id": "14eb98a2bd404f889a19cee3a4f7e6ea",
+            "text": "中国能源企业高层论坛",
+            "href": "Level3GroupLite.aspx?id=14eb98a2bd404f889a19cee3a4f7e6ea"
+          },
+          {
+            "id": "1ec9ede3336e4ac19ca907ea406ec6e6",
+            "text": "能源论坛",
+            "href": "Level3GroupLite.aspx?id=1ec9ede3336e4ac19ca907ea406ec6e6"
+          },
+          {
+            "id": "af05cf8af31146f79a86bb8577a50650",
+            "text": "中国分布式能源产业发展峰会",
+            "href": "Level3GroupLite.aspx?id=af05cf8af31146f79a86bb8577a50650"
+          },
+          {
+            "id": "2aa9a6966ed2489291c0e71137651808",
+            "text": "中国能源战略论坛",
+            "href": "Level3GroupLite.aspx?id=2aa9a6966ed2489291c0e71137651808"
+          },
+          {
+            "id": "60ffbbd03cc94de1969fbac129971608",
+            "text": "中国光伏电站投融资论坛",
+            "href": "Level3GroupLite.aspx?id=60ffbbd03cc94de1969fbac129971608"
+          },
+          {
+            "id": "405db6bdc81a46148420c1173add5337",
+            "text": "中国新能源国际高峰论坛",
+            "href": "Level3GroupLite.aspx?id=405db6bdc81a46148420c1173add5337"
+          },
+          {
+            "id": "7808402c896243df868db52a572a3e4a",
+            "text": "中国能源革命高峰论坛",
+            "href": "Level3GroupLite.aspx?id=7808402c896243df868db52a572a3e4a"
+          },
+          {
+            "id": "36aee0d4cffa4561b68c96e46b5af8fb",
+            "text": "中国能源国际合作论坛",
+            "href": "Level3GroupLite.aspx?id=36aee0d4cffa4561b68c96e46b5af8fb"
+          },
+          {
+            "id": "2efad902a9c84e37b2f79467f7b27c52",
+            "text": "清洁能源绿色生态之路研讨会",
+            "href": "Level3GroupLite.aspx?id=2efad902a9c84e37b2f79467f7b27c52"
+          },
+          {
+            "id": "f2f06cd1215e405f86b64e1dd389dd7f",
+            "text": "连续油管技术的未来论坛",
+            "href": "Level3GroupLite.aspx?id=f2f06cd1215e405f86b64e1dd389dd7f"
+          },
+          {
+            "id": "62d4e3d70cc5432786248ae1d86dba97",
+            "text": "亚欧能源技术分析年会",
+            "href": "Level3GroupLite.aspx?id=62d4e3d70cc5432786248ae1d86dba97"
+          },
+          {
+            "id": "4a0f3d9b073042a6a27b20daa76da22d",
+            "text": "能源环境产业系列论坛",
+            "href": "Level3GroupLite.aspx?id=4a0f3d9b073042a6a27b20daa76da22d"
+          },
+          {
+            "id": "4f1b1f282b2e4ecfac911adc8604f1c8",
+            "text": "天然气产业与管网建设发展论坛",
+            "href": "Level3GroupLite.aspx?id=4f1b1f282b2e4ecfac911adc8604f1c8"
+          },
+          {
+            "id": "590d8850c84d4ea08760e30e48fb4713",
+            "text": "中国核能国际大会",
+            "href": "Level3GroupLite.aspx?id=590d8850c84d4ea08760e30e48fb4713"
+          },
+          {
+            "id": "f0bcfd8685ff4e7c8bb0f609dace3fad",
+            "text": "国际页岩气技术交流会",
+            "href": "Level3GroupLite.aspx?id=f0bcfd8685ff4e7c8bb0f609dace3fad"
+          },
+          {
+            "id": "37c9a06f96d947ad8bf46d174d8f7aea",
+            "text": "中国页岩气发展论坛",
+            "href": "Level3GroupLite.aspx?id=37c9a06f96d947ad8bf46d174d8f7aea"
+          },
+          {
+            "id": "58e63fce58a6432598b81fb065f95cb7",
+            "text": "国际海上风电开发技术论坛",
+            "href": "Level3GroupLite.aspx?id=58e63fce58a6432598b81fb065f95cb7"
+          },
+          {
+            "id": "154bb0207c954eef889210fb9c88ba80",
+            "text": "中国新能源——生物质能论坛",
+            "href": "Level3GroupLite.aspx?id=154bb0207c954eef889210fb9c88ba80"
+          }
+        ]
+      },
+      {
+        "id": "170b89ae13d44fb3a31d6492b7a26835",
+        "text": "食品饮料行业",
+        "href": "Level2GroupLite.aspx?id=170b89ae13d44fb3a31d6492b7a26835",
+        "nodes": [
+          {
+            "id": "89be143671b44b63b49bd2c13862605f",
+            "text": "北京国际食品安全高峰论坛",
+            "href": "Level3GroupLite.aspx?id=89be143671b44b63b49bd2c13862605f"
+          },
+          {
+            "id": "bcc334b3c6ee4fa3a50799bc9eacdd90",
+            "text": "食品与农产品安全质量检测技术国际论坛",
+            "href": "Level3GroupLite.aspx?id=bcc334b3c6ee4fa3a50799bc9eacdd90"
+          }
+        ]
+      },
+      {
+        "id": "3ada87ddf4b349258fc3f1e3da73c9fd",
+        "text": "电力行业",
+        "href": "Level2GroupLite.aspx?id=3ada87ddf4b349258fc3f1e3da73c9fd",
+        "nodes": [
+          {
+            "id": "ce98ff954dfe439eb9a9d2dd8928164c",
+            "text": "中国清洁电力峰会",
+            "href": "Level3GroupLite.aspx?id=ce98ff954dfe439eb9a9d2dd8928164c"
+          },
+          {
+            "id": "a733d22e25b24a66be6df0367fa23fea",
+            "text": "中国家电网购高峰论坛",
+            "href": "Level3GroupLite.aspx?id=a733d22e25b24a66be6df0367fa23fea"
+          },
+          {
+            "id": "2267f2e6fac64e48835ad554b5e34f05",
+            "text": "智能电网论坛",
+            "href": "Level3GroupLite.aspx?id=2267f2e6fac64e48835ad554b5e34f05"
+          }
+        ]
+      },
+      {
+        "id": "a15c9745aba042afbf734230cc1ad8dd",
+        "text": "水利行业",
+        "href": "Level2GroupLite.aspx?id=a15c9745aba042afbf734230cc1ad8dd",
+        "nodes": [
+          {
+            "id": "70ed6b2bb40a42118d03fbe61fec6713",
+            "text": "水务高峰论坛",
+            "href": "Level3GroupLite.aspx?id=70ed6b2bb40a42118d03fbe61fec6713"
+          },
+          {
+            "id": "18d3f54974ab441c925407153d05d682",
+            "text": "中国水价论坛",
+            "href": "Level3GroupLite.aspx?id=18d3f54974ab441c925407153d05d682"
+          },
+          {
+            "id": "7a949cb7a96a400887f3d0fa8cb369ed",
+            "text": "水处理行业热点技术论坛",
+            "href": "Level3GroupLite.aspx?id=7a949cb7a96a400887f3d0fa8cb369ed"
+          }
+        ]
+      },
+      {
+        "id": "e979f4b6eafc48f6909799e24910eb9c",
+        "text": "轻工纺织行业",
+        "href": "Level2GroupLite.aspx?id=e979f4b6eafc48f6909799e24910eb9c",
+        "nodes": [
+          {
+            "id": "17f0b60a67ca459f8154fd4f5768f0f7",
+            "text": "中国轻工业企业家高峰论坛",
+            "href": "Level3GroupLite.aspx?id=17f0b60a67ca459f8154fd4f5768f0f7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "928a82f5ea2e48d8acc9e482c7fd4c2b",
+    "text": "金融投资类论坛",
+    "href": "Level2GroupLite.aspx?id=928a82f5ea2e48d8acc9e482c7fd4c2b",
+    "nodes": [
+      {
+        "id": "a03fa6f0ad504ed5b02c0b24442fdc1c",
+        "text": "国际金融",
+        "href": "Level2GroupLite.aspx?id=a03fa6f0ad504ed5b02c0b24442fdc1c",
+        "nodes": [
+          {
+            "id": "6cc9af14f1104451a98a1fbd55fb34a8",
+            "text": "中国国际金融论坛",
+            "href": "Level3GroupLite.aspx?id=6cc9af14f1104451a98a1fbd55fb34a8"
+          },
+          {
+            "id": "16a65bdcead245739991972af8b98bcf",
+            "text": "国际金融市场分析年会",
+            "href": "Level3GroupLite.aspx?id=16a65bdcead245739991972af8b98bcf"
+          },
+          {
+            "id": "d3dc8fea515e4d5cafcdb3211ffdfa78",
+            "text": "亚太经济与金融论坛",
+            "href": "Level3GroupLite.aspx?id=d3dc8fea515e4d5cafcdb3211ffdfa78"
+          },
+          {
+            "id": "fc11a36e25784824af73d787f16ff30b",
+            "text": "21世纪亚洲金融年会",
+            "href": "Level3GroupLite.aspx?id=fc11a36e25784824af73d787f16ff30b"
+          },
+          {
+            "id": "fcc3b9b70252428a8e3db44ce0f32d14",
+            "text": "中国国际金融学会学术年会",
+            "href": "Level3GroupLite.aspx?id=fcc3b9b70252428a8e3db44ce0f32d14"
+          },
+          {
+            "id": "89cb3f6cdcf3457d9b59cbe7999402ee",
+            "text": "北大金融国际论坛",
+            "href": "Level3GroupLite.aspx?id=89cb3f6cdcf3457d9b59cbe7999402ee"
+          },
+          {
+            "id": "fc9d848fb51142c3a249355dd5912b8b",
+            "text": "中国G20峰会主题研讨会",
+            "href": "Level3GroupLite.aspx?id=fc9d848fb51142c3a249355dd5912b8b"
+          }
+        ]
+      },
+      {
+        "id": "c0d45b3631944e4da4d1ad53237879e4",
+        "text": "国际金融专题",
+        "href": "Level2GroupLite.aspx?id=c0d45b3631944e4da4d1ad53237879e4",
+        "nodes": [
+          {
+            "id": "f86194fb6f9244f1ba4f2e02be4d756a",
+            "text": "“全球货币体系改革”国际研讨会",
+            "href": "Level3GroupLite.aspx?id=f86194fb6f9244f1ba4f2e02be4d756a"
+          },
+          {
+            "id": "4bee1d3dc8f84911a477b37da02876f4",
+            "text": "全球共享金融100人论坛",
+            "href": "Level3GroupLite.aspx?id=4bee1d3dc8f84911a477b37da02876f4"
+          }
+        ]
+      },
+      {
+        "id": "708bccf4da164a6980634a259d56bcb5",
+        "text": "国际投资",
+        "href": "Level2GroupLite.aspx?id=708bccf4da164a6980634a259d56bcb5",
+        "nodes": [
+          {
+            "id": "ebddc482a7914443b4f323c54787cb39",
+            "text": "国际投资论坛",
+            "href": "Level3GroupLite.aspx?id=ebddc482a7914443b4f323c54787cb39"
+          },
+          {
+            "id": "c10e207a5d4b41a681674c70e35e8d2d",
+            "text": "全球PE北京论坛",
+            "href": "Level3GroupLite.aspx?id=c10e207a5d4b41a681674c70e35e8d2d"
+          },
+          {
+            "id": "c2eef7a3b54146a2a4225bc66e899797",
+            "text": "中国海外投资并购峰会",
+            "href": "Level3GroupLite.aspx?id=c2eef7a3b54146a2a4225bc66e899797"
+          },
+          {
+            "id": "797b7b826ef440ce97a9b7d71ac33629",
+            "text": "企业并购与海外投资高峰论坛",
+            "href": "Level3GroupLite.aspx?id=797b7b826ef440ce97a9b7d71ac33629"
+          },
+          {
+            "id": "9a6f7fe96b0146bfb67d57ffdd7226f1",
+            "text": "综研基金中国智库论坛暨综合开发研究院北京年会",
+            "href": "Level3GroupLite.aspx?id=9a6f7fe96b0146bfb67d57ffdd7226f1"
+          }
+        ]
+      },
+      {
+        "id": "7012e84a9e214e9bbcfa79827466ebfa",
+        "text": "国内金融",
+        "href": "Level2GroupLite.aspx?id=7012e84a9e214e9bbcfa79827466ebfa",
+        "nodes": [
+          {
+            "id": "ac7e6427c9a243689f05d7ea7bdc2a79",
+            "text": "中国金融论坛",
+            "href": "Level3GroupLite.aspx?id=ac7e6427c9a243689f05d7ea7bdc2a79"
+          },
+          {
+            "id": "21647ec81dc849cbb5b84529c9dce521",
+            "text": "中国金融年度论坛",
+            "href": "Level3GroupLite.aspx?id=21647ec81dc849cbb5b84529c9dce521"
+          },
+          {
+            "id": "fc7991f9cb4040c9b3c55841a12c2a4b",
+            "text": "金融街论坛",
+            "href": "Level3GroupLite.aspx?id=fc7991f9cb4040c9b3c55841a12c2a4b"
+          },
+          {
+            "id": "680956f7a4024e4e9661db686f6fec7d",
+            "text": "科博会金融论坛",
+            "href": "Level3GroupLite.aspx?id=680956f7a4024e4e9661db686f6fec7d"
+          },
+          {
+            "id": "ff2be40853a14d7e9495c9db97bda6bc",
+            "text": "恩比特金融论坛",
+            "href": "Level3GroupLite.aspx?id=ff2be40853a14d7e9495c9db97bda6bc"
+          },
+          {
+            "id": "4a39a5fc1bd24b45affbae031855ff18",
+            "text": "转型中的中国经济与金融论坛",
+            "href": "Level3GroupLite.aspx?id=4a39a5fc1bd24b45affbae031855ff18"
+          },
+          {
+            "id": "6c75ce676c114db9a139fe32efeedd5f",
+            "text": "清华大学金融年会",
+            "href": "Level3GroupLite.aspx?id=6c75ce676c114db9a139fe32efeedd5f"
+          }
+        ]
+      },
+      {
+        "id": "5b6d71ddd13449da800631d2b7d0b160",
+        "text": "国内金融改革",
+        "href": "Level2GroupLite.aspx?id=5b6d71ddd13449da800631d2b7d0b160",
+        "nodes": [
+          {
+            "id": "237a113e0b3f488497b5dae0183d7c10",
+            "text": "金融改革与创新高级论坛",
+            "href": "Level3GroupLite.aspx?id=237a113e0b3f488497b5dae0183d7c10"
+          }
+        ]
+      },
+      {
+        "id": "1d72493b2f6049a79e8f455a348fba4b",
+        "text": "中国金融创新",
+        "href": "Level2GroupLite.aspx?id=1d72493b2f6049a79e8f455a348fba4b",
+        "nodes": [
+          {
+            "id": "a1fe500048334cbf8dea8dffbcc569be",
+            "text": "中国金融创新论坛",
+            "href": "Level3GroupLite.aspx?id=a1fe500048334cbf8dea8dffbcc569be"
+          },
+          {
+            "id": "51e1417697be48968d2fc9eda08e14b1",
+            "text": "“领航中国”金融行业创新发展高峰论坛",
+            "href": "Level3GroupLite.aspx?id=51e1417697be48968d2fc9eda08e14b1"
+          }
+        ]
+      },
+      {
+        "id": "966d798c6ef9450ab6bc63e5e01490c0",
+        "text": "金融风险与监管",
+        "href": "Level2GroupLite.aspx?id=966d798c6ef9450ab6bc63e5e01490c0",
+        "nodes": [
+          {
+            "id": "64039bdd909649608009b574509c4219",
+            "text": "中国金融风险管理国际研讨会",
+            "href": "Level3GroupLite.aspx?id=64039bdd909649608009b574509c4219"
+          },
+          {
+            "id": "bc727558859e43d7b1593f69a99a334e",
+            "text": "金融机构风险管理论坛",
+            "href": "Level3GroupLite.aspx?id=bc727558859e43d7b1593f69a99a334e"
+          },
+          {
+            "id": "8c529f27ef2640a08ec8195c3851ba53",
+            "text": "改革与完善中国金融监管体系研讨会",
+            "href": "Level3GroupLite.aspx?id=8c529f27ef2640a08ec8195c3851ba53"
+          },
+          {
+            "id": "281d83880b29407c81bc1fc9c901cbb9",
+            "text": "中国金融管理论坛",
+            "href": "Level3GroupLite.aspx?id=281d83880b29407c81bc1fc9c901cbb9"
+          },
+          {
+            "id": "1104e43481af44b68ec620a7683ea1e5",
+            "text": "改革与风险的平衡研讨会",
+            "href": "Level3GroupLite.aspx?id=1104e43481af44b68ec620a7683ea1e5"
+          },
+          {
+            "id": "566f27fbdc76487180c68954d11c90b7",
+            "text": "中国农村金融机构经营机制转型高层论坛",
+            "href": "Level3GroupLite.aspx?id=566f27fbdc76487180c68954d11c90b7"
+          }
+        ]
+      },
+      {
+        "id": "22a2774179834cdd8a96695a62c8721e",
+        "text": "金融投融资",
+        "href": "Level2GroupLite.aspx?id=22a2774179834cdd8a96695a62c8721e",
+        "nodes": [
+          {
+            "id": "66901523e2bd4bacae4780aa410eac8e",
+            "text": "创投融资发展高层论坛",
+            "href": "Level3GroupLite.aspx?id=66901523e2bd4bacae4780aa410eac8e"
+          },
+          {
+            "id": "988343fe76ba4ecdafc6f10ac77d3c6c",
+            "text": "中国金融投资夏季峰会",
+            "href": "Level3GroupLite.aspx?id=988343fe76ba4ecdafc6f10ac77d3c6c"
+          },
+          {
+            "id": "cb18a97bf78c4102b1b03771f8f9a62a",
+            "text": "中国光伏电站投融资论坛",
+            "href": "Level3GroupLite.aspx?id=cb18a97bf78c4102b1b03771f8f9a62a"
+          },
+          {
+            "id": "9449ff4e4506491cb98edeeafa7cb031",
+            "text": "中国移动互联网投资大会",
+            "href": "Level3GroupLite.aspx?id=9449ff4e4506491cb98edeeafa7cb031"
+          },
+          {
+            "id": "9d2dc236523e436894c62fc9cece4cdb",
+            "text": "中国旅游项目投资大会",
+            "href": "Level3GroupLite.aspx?id=9d2dc236523e436894c62fc9cece4cdb"
+          }
+        ]
+      },
+      {
+        "id": "da4ee031f7694e3babf88b8d38f47039",
+        "text": "国内金融专题",
+        "href": "Level2GroupLite.aspx?id=da4ee031f7694e3babf88b8d38f47039",
+        "nodes": [
+          {
+            "id": "b23402e510024b3b8f11c9bcc68e105d",
+            "text": "地产金融",
+            "href": "Level2GroupLite.aspx?id=b23402e510024b3b8f11c9bcc68e105d",
+            "nodes": [
+              {
+                "id": "ee81f2481ce34c19a59c9f497178f6c7",
+                "text": "中国地产金融年会",
+                "href": "Level3GroupLite.aspx?id=ee81f2481ce34c19a59c9f497178f6c7"
+              },
+              {
+                "id": "43e4822da211431bb25d50f6e0290cf4",
+                "text": "亚洲地产融资模式创新峰会",
+                "href": "Level3GroupLite.aspx?id=43e4822da211431bb25d50f6e0290cf4"
+              },
+              {
+                "id": "5dbe4cb0876846fe8521c75a237480bc",
+                "text": "亚洲房地产金融投资年会",
+                "href": "Level3GroupLite.aspx?id=5dbe4cb0876846fe8521c75a237480bc"
+              }
+            ]
+          },
+          {
+            "id": "b424e72644a145b686a0736b4857b21b",
+            "text": "生态金融",
+            "href": "Level2GroupLite.aspx?id=b424e72644a145b686a0736b4857b21b",
+            "nodes": [
+              {
+                "id": "913b78652ec34bf09ce5dafe7e0896c8",
+                "text": "生态金融的发展与未来",
+                "href": "Level3GroupLite.aspx?id=913b78652ec34bf09ce5dafe7e0896c8"
+              }
+            ]
+          },
+          {
+            "id": "afff96baf01f4f31847d030e4bcdb899",
+            "text": "金融稳定",
+            "href": "Level2GroupLite.aspx?id=afff96baf01f4f31847d030e4bcdb899",
+            "nodes": [
+              {
+                "id": "9365b8931bd643d4886aad4f3d4eb657",
+                "text": "中国金融稳定论坛",
+                "href": "Level3GroupLite.aspx?id=9365b8931bd643d4886aad4f3d4eb657"
+              }
+            ]
+          },
+          {
+            "id": "264adaaa473e49659858883dcdef09b2",
+            "text": "新金融",
+            "href": "Level2GroupLite.aspx?id=264adaaa473e49659858883dcdef09b2",
+            "nodes": [
+              {
+                "id": "9bb6eabe634541c1827ce112186bd299",
+                "text": "金融渠道与支付创新论坛",
+                "href": "Level3GroupLite.aspx?id=9bb6eabe634541c1827ce112186bd299"
+              },
+              {
+                "id": "e64dbf395b8146e1a87c74c99777cffc",
+                "text": "新金融联盟峰会",
+                "href": "Level3GroupLite.aspx?id=e64dbf395b8146e1a87c74c99777cffc"
+              }
+            ]
+          },
+          {
+            "id": "bf48504c57574b359afa115fc054854f",
+            "text": "电子金融",
+            "href": "Level2GroupLite.aspx?id=bf48504c57574b359afa115fc054854f",
+            "nodes": [
+              {
+                "id": "70854116ce1a48988a7af0a7a32958d8",
+                "text": "中国电子金融年会",
+                "href": "Level3GroupLite.aspx?id=70854116ce1a48988a7af0a7a32958d8"
+              }
+            ]
+          },
+          {
+            "id": "db90d72dc13345efa0ab2d68960fb293",
+            "text": "移动金融",
+            "href": "Level2GroupLite.aspx?id=db90d72dc13345efa0ab2d68960fb293",
+            "nodes": [
+              {
+                "id": "c253e87a10004b3e973cd27e699468cf",
+                "text": "中国移动金融大会",
+                "href": "Level3GroupLite.aspx?id=c253e87a10004b3e973cd27e699468cf"
+              }
+            ]
+          },
+          {
+            "id": "eefce2594669458097893ad230daca7a",
+            "text": "公司金融",
+            "href": "Level2GroupLite.aspx?id=eefce2594669458097893ad230daca7a",
+            "nodes": [
+              {
+                "id": "b27cf14a538d480b9d91a90f49f1427b",
+                "text": "中国公司金融论坛",
+                "href": "Level3GroupLite.aspx?id=b27cf14a538d480b9d91a90f49f1427b"
+              },
+              {
+                "id": "e0465d335970496cbb438f47b26f1eb3",
+                "text": "互联网金融企业社会责任峰会",
+                "href": "Level3GroupLite.aspx?id=e0465d335970496cbb438f47b26f1eb3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "41f72f4918194fa69efad301567ec64b",
+        "text": "金融市场与金融产品",
+        "href": "Level2GroupLite.aspx?id=41f72f4918194fa69efad301567ec64b",
+        "nodes": [
+          {
+            "id": "f059956d994c4b95a0d491deb7b95232",
+            "text": "金融街十号论坛",
+            "href": "Level3GroupLite.aspx?id=f059956d994c4b95a0d491deb7b95232"
+          },
+          {
+            "id": "7b819920f9b0441290d126c825ee809e",
+            "text": "金融市场与金融产品安全论坛",
+            "href": "Level3GroupLite.aspx?id=7b819920f9b0441290d126c825ee809e"
+          },
+          {
+            "id": "c3ed84bb2e5844f1bb7117083c3dbbc5",
+            "text": "金融秩序与司法公正研讨会",
+            "href": "Level3GroupLite.aspx?id=c3ed84bb2e5844f1bb7117083c3dbbc5"
+          },
+          {
+            "id": "c6804d03c1b24e5aaa941d77e69360e7",
+            "text": "金融社保卡的政策与市场论坛",
+            "href": "Level3GroupLite.aspx?id=c6804d03c1b24e5aaa941d77e69360e7"
+          },
+          {
+            "id": "aa702646ba784068a6248597ab84d8b5",
+            "text": "货币金融圆桌会议",
+            "href": "Level3GroupLite.aspx?id=aa702646ba784068a6248597ab84d8b5"
+          },
+          {
+            "id": "ea85ca1a4c8c4f70839b574c192471d8",
+            "text": "新常态下的中国金融市场学术会议",
+            "href": "Level3GroupLite.aspx?id=ea85ca1a4c8c4f70839b574c192471d8"
+          },
+          {
+            "id": "aaec480612d04caf8fc75ee7ff8a89f0",
+            "text": "变革下的中国新金融",
+            "href": "Level3GroupLite.aspx?id=aaec480612d04caf8fc75ee7ff8a89f0"
+          },
+          {
+            "id": "417e989b7069465cb2e4aa9586c15324",
+            "text": "清华大学金融年会",
+            "href": "Level3GroupLite.aspx?id=417e989b7069465cb2e4aa9586c15324"
+          }
+        ]
+      },
+      {
+        "id": "35572a1dd9ac4dacbedf63518e57833b",
+        "text": "互联网金融论坛",
+        "href": "Level2GroupLite.aspx?id=35572a1dd9ac4dacbedf63518e57833b",
+        "nodes": [
+          {
+            "id": "05b1088cf5c0476d9c425e853242cceb",
+            "text": "互联网金融峰会",
+            "href": "Level3GroupLite.aspx?id=05b1088cf5c0476d9c425e853242cceb"
+          },
+          {
+            "id": "ea55caa7115e4f5eadbd8e6098cef2c1",
+            "text": "中国普惠金融论坛",
+            "href": "Level3GroupLite.aspx?id=ea55caa7115e4f5eadbd8e6098cef2c1"
+          },
+          {
+            "id": "589b053a51b24176a22d5dc3b3a8c48f",
+            "text": "金融消费者权益保护高峰论坛",
+            "href": "Level3GroupLite.aspx?id=589b053a51b24176a22d5dc3b3a8c48f"
+          },
+          {
+            "id": "109e50b7edae4cd78062e8eaeb0cc393",
+            "text": "互联网金融消费者权益保护论坛",
+            "href": "Level3GroupLite.aspx?id=109e50b7edae4cd78062e8eaeb0cc393"
+          },
+          {
+            "id": "32d1387e53be46aeba170ff830490484",
+            "text": "互联网金融发展论坛",
+            "href": "Level3GroupLite.aspx?id=32d1387e53be46aeba170ff830490484"
+          },
+          {
+            "id": "e56ced18544844e49b57387aa922849e",
+            "text": "监管新政策下的互联网金融发展与投资者保护论坛",
+            "href": "Level3GroupLite.aspx?id=e56ced18544844e49b57387aa922849e"
+          },
+          {
+            "id": "ee2c83d219064d3bacee42dd4b3dbba0",
+            "text": "中国互联网金融投资与并购大会",
+            "href": "Level3GroupLite.aspx?id=ee2c83d219064d3bacee42dd4b3dbba0"
+          },
+          {
+            "id": "360f9d32d6d848919829701f6ac81a23",
+            "text": "电商创新与互联网金融高峰论坛",
+            "href": "Level3GroupLite.aspx?id=360f9d32d6d848919829701f6ac81a23"
+          },
+          {
+            "id": "3622a710bda444688b1ce5d2a0c70265",
+            "text": "互联网金融全球峰会",
+            "href": "Level3GroupLite.aspx?id=3622a710bda444688b1ce5d2a0c70265"
+          },
+          {
+            "id": "a598e60223e3493f91d8d99badf3f337",
+            "text": "互联网+供应链金融研讨会",
+            "href": "Level3GroupLite.aspx?id=a598e60223e3493f91d8d99badf3f337"
+          }
+        ]
+      },
+      {
+        "id": "7ae5df110cc343bf93d2c772dc94d710",
+        "text": "中小微金融",
+        "href": "Level2GroupLite.aspx?id=7ae5df110cc343bf93d2c772dc94d710",
+        "nodes": [
+          {
+            "id": "9aae812ea41d44708079eee273b65c6f",
+            "text": "金融支持小微企业发展论坛",
+            "href": "Level3GroupLite.aspx?id=9aae812ea41d44708079eee273b65c6f"
+          },
+          {
+            "id": "a8fbf8526b98441eb629270aa58bf6c2",
+            "text": "中国小微金融机构联席会年会",
+            "href": "Level3GroupLite.aspx?id=a8fbf8526b98441eb629270aa58bf6c2"
+          },
+          {
+            "id": "46ff27e967bf42b5a11fe2b6b15b520a",
+            "text": "中国微金融发展论坛",
+            "href": "Level3GroupLite.aspx?id=46ff27e967bf42b5a11fe2b6b15b520a"
+          },
+          {
+            "id": "98947a436b11456386a05d0680448118",
+            "text": "小微金融创新发展高峰论坛",
+            "href": "Level3GroupLite.aspx?id=98947a436b11456386a05d0680448118"
+          },
+          {
+            "id": "a9d323f029b3446380df829f755ff964",
+            "text": "互联网金融论坛",
+            "href": "Level3GroupLite.aspx?id=a9d323f029b3446380df829f755ff964"
+          }
+        ]
+      },
+      {
+        "id": "8463262737f64c5aa17c5c7a0fd48bcd",
+        "text": "资本市场论坛",
+        "href": "Level2GroupLite.aspx?id=8463262737f64c5aa17c5c7a0fd48bcd",
+        "nodes": [
+          {
+            "id": "712c41dc33094c759798a30bd73442c2",
+            "text": "中国资本市场论坛",
+            "href": "Level3GroupLite.aspx?id=712c41dc33094c759798a30bd73442c2"
+          },
+          {
+            "id": "2a8954c415b346f2bc17a341d7fd2bdd",
+            "text": "中国资本市场峰会",
+            "href": "Level3GroupLite.aspx?id=2a8954c415b346f2bc17a341d7fd2bdd"
+          },
+          {
+            "id": "4f88067f69dc4ea6b6c0150a97299a3b",
+            "text": "国际视野下的创新与资本论坛",
+            "href": "Level3GroupLite.aspx?id=4f88067f69dc4ea6b6c0150a97299a3b"
+          },
+          {
+            "id": "d79642708fb0458b8f06cc07007bd02e",
+            "text": "创新驱动与资本引领高层论坛",
+            "href": "Level3GroupLite.aspx?id=d79642708fb0458b8f06cc07007bd02e"
+          },
+          {
+            "id": "1d9c68b506f94e4fb8223cc50bedaf2e",
+            "text": "资本市场创新论坛",
+            "href": "Level3GroupLite.aspx?id=1d9c68b506f94e4fb8223cc50bedaf2e"
+          },
+          {
+            "id": "57a1c75a52b24b74a3a0ea4c42c9eaae",
+            "text": "中国资本高峰论坛",
+            "href": "Level3GroupLite.aspx?id=57a1c75a52b24b74a3a0ea4c42c9eaae"
+          }
+        ]
+      },
+      {
+        "id": "cedbec055c0445c3a18a268c474a47c8",
+        "text": "金融学术论坛",
+        "href": "Level2GroupLite.aspx?id=cedbec055c0445c3a18a268c474a47c8",
+        "nodes": [
+          {
+            "id": "8123614e178b4ca3b0abff6812c07289",
+            "text": "全球财经媒体培训交流会",
+            "href": "Level3GroupLite.aspx?id=8123614e178b4ca3b0abff6812c07289"
+          }
+        ]
+      },
+      {
+        "id": "8653352bdd2f48c29e1a9f0a44532390",
+        "text": "证券市场论坛",
+        "href": "Level2GroupLite.aspx?id=8653352bdd2f48c29e1a9f0a44532390",
+        "nodes": [
+          {
+            "id": "6bca2df881994c819773027321632b57",
+            "text": "中国证券市场年会",
+            "href": "Level3GroupLite.aspx?id=6bca2df881994c819773027321632b57"
+          },
+          {
+            "id": "35c1577f1c5d4e23921e216626ffa90a",
+            "text": "互联网+证券市场发展趋势研讨会",
+            "href": "Level3GroupLite.aspx?id=35c1577f1c5d4e23921e216626ffa90a"
+          },
+          {
+            "id": "a9cca292c192473cad03269a078bcd02",
+            "text": "中国资产证券化论坛年会",
+            "href": "Level3GroupLite.aspx?id=a9cca292c192473cad03269a078bcd02"
+          },
+          {
+            "id": "0728ed0670dc4bbeb018c5f09e69a3b0",
+            "text": "债券市场投资策略论坛",
+            "href": "Level3GroupLite.aspx?id=0728ed0670dc4bbeb018c5f09e69a3b0"
+          },
+          {
+            "id": "37023e12e55f440589a8a81589e8f6c4",
+            "text": "中国金融证券研究所所长论坛",
+            "href": "Level3GroupLite.aspx?id=37023e12e55f440589a8a81589e8f6c4"
+          },
+          {
+            "id": "0d650f5d6e144e03944bb438a0e33fb1",
+            "text": "中国中小银行资产证券化专题培训",
+            "href": "Level3GroupLite.aspx?id=0d650f5d6e144e03944bb438a0e33fb1"
+          },
+          {
+            "id": "e50fc6a242b84ca59a0f672cd19ce228",
+            "text": "对外经济贸易大学债券峰会",
+            "href": "Level3GroupLite.aspx?id=e50fc6a242b84ca59a0f672cd19ce228"
+          }
+        ]
+      },
+      {
+        "id": "579bdb4149db446a82ee51872cddc430",
+        "text": "银行市场论坛",
+        "href": "Level2GroupLite.aspx?id=579bdb4149db446a82ee51872cddc430",
+        "nodes": [
+          {
+            "id": "6ae87fd9592441d39fb23fc32259623c",
+            "text": "银行业发展论坛",
+            "href": "Level3GroupLite.aspx?id=6ae87fd9592441d39fb23fc32259623c"
+          },
+          {
+            "id": "c9142e481e3247848fce75f2c7e3ef4f",
+            "text": "中国银行业年度峰会",
+            "href": "Level3GroupLite.aspx?id=c9142e481e3247848fce75f2c7e3ef4f"
+          },
+          {
+            "id": "5f2bd4d8df97487c8e7efcd390505eec",
+            "text": "中国国际银行大会",
+            "href": "Level3GroupLite.aspx?id=5f2bd4d8df97487c8e7efcd390505eec"
+          },
+          {
+            "id": "1747f7a70eab46c99617d5f874d25c8e",
+            "text": "中国村镇银行发展论坛",
+            "href": "Level3GroupLite.aspx?id=1747f7a70eab46c99617d5f874d25c8e"
+          },
+          {
+            "id": "85028ec591ba47a98af4c7be1acbf6a9",
+            "text": "芯片卡迁移对银行业管理的影响论坛",
+            "href": "Level3GroupLite.aspx?id=85028ec591ba47a98af4c7be1acbf6a9"
+          },
+          {
+            "id": "3697443f0e8a4eeb8546db14dc3bc3cf",
+            "text": "中国国际银行会议",
+            "href": "Level3GroupLite.aspx?id=3697443f0e8a4eeb8546db14dc3bc3cf"
+          }
+        ]
+      },
+      {
+        "id": "093bf40bf00a4d9e83549e699653c034",
+        "text": "支付清算市场论坛",
+        "href": "Level2GroupLite.aspx?id=093bf40bf00a4d9e83549e699653c034",
+        "nodes": [
+          {
+            "id": "e2efbe498e524d2ca591ac37b3e49937",
+            "text": "支付清算理论与政策高层论坛",
+            "href": "Level3GroupLite.aspx?id=e2efbe498e524d2ca591ac37b3e49937"
+          },
+          {
+            "id": "8e3f7520be204010a51d8c622cb628f8",
+            "text": "中国移动支付年会",
+            "href": "Level3GroupLite.aspx?id=8e3f7520be204010a51d8c622cb628f8"
+          },
+          {
+            "id": "1cafbc06d5f34d5fa4d5689915293532",
+            "text": "中国支付业创新大会",
+            "href": "Level3GroupLite.aspx?id=1cafbc06d5f34d5fa4d5689915293532"
+          },
+          {
+            "id": "82170f2e5f2d44cb886136399ae8c11c",
+            "text": "中国支付业高峰论坛",
+            "href": "Level3GroupLite.aspx?id=82170f2e5f2d44cb886136399ae8c11c"
+          },
+          {
+            "id": "cb123ec93bc348d99b75a8b7be53625c",
+            "text": "IC卡高峰论坛",
+            "href": "Level3GroupLite.aspx?id=cb123ec93bc348d99b75a8b7be53625c"
+          }
+        ]
+      },
+      {
+        "id": "97df5a10f5344071ad30c471172637bf",
+        "text": "保险市场论坛",
+        "href": "Level2GroupLite.aspx?id=97df5a10f5344071ad30c471172637bf",
+        "nodes": [
+          {
+            "id": "befda59875784385baebd83ffc3f97e1",
+            "text": "中国保险行业年度峰会",
+            "href": "Level3GroupLite.aspx?id=befda59875784385baebd83ffc3f97e1"
+          },
+          {
+            "id": "6b279163323f41b183d415c6b929c919",
+            "text": "中国保险教育论坛",
+            "href": "Level3GroupLite.aspx?id=6b279163323f41b183d415c6b929c919"
+          }
+        ]
+      },
+      {
+        "id": "f71954d31dac42308ad1283142750776",
+        "text": "金融与财富管理",
+        "href": "Level2GroupLite.aspx?id=f71954d31dac42308ad1283142750776",
+        "nodes": [
+          {
+            "id": "040acfdb78cb44c18552de24c9f72e84",
+            "text": "互联网金融资产交易峰会",
+            "href": "Level3GroupLite.aspx?id=040acfdb78cb44c18552de24c9f72e84"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "62b2a693753b4532b7204274adcb9f1d",
+    "text": "城镇化与城市发展论坛",
+    "href": "Level2GroupLite.aspx?id=62b2a693753b4532b7204274adcb9f1d",
+    "nodes": [
+      {
+        "id": "a097fc166c114aa3aedbb7cdf14072e9",
+        "text": "新型城镇化",
+        "href": "Level2GroupLite.aspx?id=a097fc166c114aa3aedbb7cdf14072e9",
+        "nodes": [
+          {
+            "id": "2792c8276d34436a8d17ba96e4387b84",
+            "text": "中国城镇化高层国际论坛",
+            "href": "Level3GroupLite.aspx?id=2792c8276d34436a8d17ba96e4387b84"
+          },
+          {
+            "id": "86ac68fcf0c3436b9d3481fa7deb5b93",
+            "text": "国际生态城镇与幸福指数论坛",
+            "href": "Level3GroupLite.aspx?id=86ac68fcf0c3436b9d3481fa7deb5b93"
+          },
+          {
+            "id": "f0b296ad747f4c1a966604fa974c4762",
+            "text": "中国城镇化与企业家论坛",
+            "href": "Level3GroupLite.aspx?id=f0b296ad747f4c1a966604fa974c4762"
+          },
+          {
+            "id": "463e3e0d362142478eb812b66617a7b2",
+            "text": "新型城镇化与中国生态城市建设",
+            "href": "Level3GroupLite.aspx?id=463e3e0d362142478eb812b66617a7b2"
+          },
+          {
+            "id": "cf2077a8c63d44df82500436c91f53b9",
+            "text": "城镇化、首都圈与经济持续发展研讨会",
+            "href": "Level3GroupLite.aspx?id=cf2077a8c63d44df82500436c91f53b9"
+          },
+          {
+            "id": "61d1ecb220224e21985047edd85aa08f",
+            "text": "国际立体绿化与新型城建论坛",
+            "href": "Level3GroupLite.aspx?id=61d1ecb220224e21985047edd85aa08f"
+          },
+          {
+            "id": "9bca3f3d1edd465b9cc4876334bc7d87",
+            "text": "中国新城镇化多边资源会议",
+            "href": "Level3GroupLite.aspx?id=9bca3f3d1edd465b9cc4876334bc7d87"
+          }
+        ]
+      },
+      {
+        "id": "abe7680364954fbeae244e1314b7190f",
+        "text": "城市发展与规划",
+        "href": "Level2GroupLite.aspx?id=abe7680364954fbeae244e1314b7190f",
+        "nodes": [
+          {
+            "id": "8593fb38c47e41888b266f0f292a0a6f",
+            "text": "城市发展与规划大会",
+            "href": "Level3GroupLite.aspx?id=8593fb38c47e41888b266f0f292a0a6f"
+          },
+          {
+            "id": "fa2b2b340d794b1a85bc371a110ea11b",
+            "text": "风景园林规划设计论坛",
+            "href": "Level3GroupLite.aspx?id=fa2b2b340d794b1a85bc371a110ea11b"
+          },
+          {
+            "id": "219cd272c11743df9e56b8dec93c53ba",
+            "text": "中国城市可持续（低碳）发展国际研讨会",
+            "href": "Level3GroupLite.aspx?id=219cd272c11743df9e56b8dec93c53ba"
+          },
+          {
+            "id": "693a664846a8438eac1721e4a0e77946",
+            "text": "“未来城市：建设智能低碳社区”国际研讨会",
+            "href": "Level3GroupLite.aspx?id=693a664846a8438eac1721e4a0e77946"
+          },
+          {
+            "id": "caea2d5e32b14ee6b39294f249dcc850",
+            "text": "中国景区发展新动力高峰论坛",
+            "href": "Level3GroupLite.aspx?id=caea2d5e32b14ee6b39294f249dcc850"
+          }
+        ]
+      },
+      {
+        "id": "a07701438ad94524b172cf419e39a578",
+        "text": "城市建设与管理",
+        "href": "Level2GroupLite.aspx?id=a07701438ad94524b172cf419e39a578",
+        "nodes": [
+          {
+            "id": "6acb500b8a244faab6a96ca0faed91b7",
+            "text": "中国城市发展市长论坛",
+            "href": "Level3GroupLite.aspx?id=6acb500b8a244faab6a96ca0faed91b7"
+          },
+          {
+            "id": "66cb1b9d5c8b4815b3d783cff0b88a4e",
+            "text": "立体绿化与海绵城市建设论坛",
+            "href": "Level3GroupLite.aspx?id=66cb1b9d5c8b4815b3d783cff0b88a4e"
+          },
+          {
+            "id": "8640edf0ef8d43cf86b034cd897681a2",
+            "text": "科技创新与城市管理论坛",
+            "href": "Level3GroupLite.aspx?id=8640edf0ef8d43cf86b034cd897681a2"
+          },
+          {
+            "id": "48c970a2723d43b1b7874860477ce839",
+            "text": "科技园区的文化观与发展机遇",
+            "href": "Level3GroupLite.aspx?id=48c970a2723d43b1b7874860477ce839"
+          }
+        ]
+      },
+      {
+        "id": "a11ec60d190b471198398f667156c40a",
+        "text": "智慧城市论坛",
+        "href": "Level2GroupLite.aspx?id=a11ec60d190b471198398f667156c40a",
+        "nodes": [
+          {
+            "id": "3bedee194a164a64a8ecabb209bd09c9",
+            "text": "科博会——智慧城市论坛",
+            "href": "Level3GroupLite.aspx?id=3bedee194a164a64a8ecabb209bd09c9"
+          },
+          {
+            "id": "021eee2df6d14e0c88ece8b2aa1e2049",
+            "text": "国际绿色建筑与建筑节能大会",
+            "href": "Level3GroupLite.aspx?id=021eee2df6d14e0c88ece8b2aa1e2049"
+          },
+          {
+            "id": "1e79a74909e948bbb158ee9b2fa3c55e",
+            "text": "中国全面小康论坛",
+            "href": "Level3GroupLite.aspx?id=1e79a74909e948bbb158ee9b2fa3c55e"
+          },
+          {
+            "id": "7cbb138b212642168d27b29c3e036872",
+            "text": "智慧城市建设高峰论坛",
+            "href": "Level3GroupLite.aspx?id=7cbb138b212642168d27b29c3e036872"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "36ad9e56d6b04771adf0f270c6cd056e",
+    "text": "资源环境类论坛",
+    "href": "Level2GroupLite.aspx?id=36ad9e56d6b04771adf0f270c6cd056e",
+    "nodes": [
+      {
+        "id": "0012e44641d84bf483c3b10ee1742295",
+        "text": "循环经济",
+        "href": "Level2GroupLite.aspx?id=0012e44641d84bf483c3b10ee1742295",
+        "nodes": [
+          {
+            "id": "1347fe408db54a5892686b19e1cfa6a2",
+            "text": "循环经济论坛",
+            "href": "Level3GroupLite.aspx?id=1347fe408db54a5892686b19e1cfa6a2"
+          },
+          {
+            "id": "2a6d426bada84416a0b854ad686ef6ac",
+            "text": "中国节能减排与循环经济建设成果大会",
+            "href": "Level3GroupLite.aspx?id=2a6d426bada84416a0b854ad686ef6ac"
+          }
+        ]
+      },
+      {
+        "id": "98664423c9e745f3ac7f17d96ca79e08",
+        "text": "绿色经济",
+        "href": "Level2GroupLite.aspx?id=98664423c9e745f3ac7f17d96ca79e08",
+        "nodes": [
+          {
+            "id": "ceced115b80d4d3badd95296ac456078",
+            "text": "全球绿色经济财富论坛",
+            "href": "Level3GroupLite.aspx?id=ceced115b80d4d3badd95296ac456078"
+          },
+          {
+            "id": "4dbd8a872d2c4005a2f80d301d6f0847",
+            "text": "绿色经济与应对气候变化国际合作会议",
+            "href": "Level3GroupLite.aspx?id=4dbd8a872d2c4005a2f80d301d6f0847"
+          },
+          {
+            "id": "752e3242a24c4e45bdfd191089ae4f62",
+            "text": "中国绿色经济TIO峰会",
+            "href": "Level3GroupLite.aspx?id=752e3242a24c4e45bdfd191089ae4f62"
+          }
+        ]
+      },
+      {
+        "id": "e843745c231f4f3e985e7f319272e9ce",
+        "text": "低碳经济与气候变化",
+        "href": "Level2GroupLite.aspx?id=e843745c231f4f3e985e7f319272e9ce",
+        "nodes": [
+          {
+            "id": "2c2f55da89d647d7a87cf2fa2290a099",
+            "text": "中国低碳发展与经济转型升级论坛",
+            "href": "Level3GroupLite.aspx?id=2c2f55da89d647d7a87cf2fa2290a099"
+          },
+          {
+            "id": "4b8f2b5b88c34044a97e22a8d21ab28a",
+            "text": "生态文明与低碳发展战略论坛",
+            "href": "Level3GroupLite.aspx?id=4b8f2b5b88c34044a97e22a8d21ab28a"
+          },
+          {
+            "id": "96e3caaaf7bc463b90fafb5df9911257",
+            "text": "低碳发展与碳市场——第三届地坛论坛",
+            "href": "Level3GroupLite.aspx?id=96e3caaaf7bc463b90fafb5df9911257"
+          },
+          {
+            "id": "297946f00d1b42bfbd114489a4232bdf",
+            "text": "中国低碳经济论坛",
+            "href": "Level3GroupLite.aspx?id=297946f00d1b42bfbd114489a4232bdf"
+          },
+          {
+            "id": "a4987bf8e4034e4782276f2d5f0e4fa8",
+            "text": "应对气候变化媒体课堂",
+            "href": "Level3GroupLite.aspx?id=a4987bf8e4034e4782276f2d5f0e4fa8"
+          },
+          {
+            "id": "b34f5b18ca314b1886ce2bffc833cdce",
+            "text": "能源与气候变化特别报告会",
+            "href": "Level3GroupLite.aspx?id=b34f5b18ca314b1886ce2bffc833cdce"
+          },
+          {
+            "id": "091dacf891974820bc9510a470543de1",
+            "text": "国际二氧化碳大会",
+            "href": "Level3GroupLite.aspx?id=091dacf891974820bc9510a470543de1"
+          },
+          {
+            "id": "4c7294c38fa54c018d8319d565f4424b",
+            "text": "中国国际气候变化论坛",
+            "href": "Level3GroupLite.aspx?id=4c7294c38fa54c018d8319d565f4424b"
+          },
+          {
+            "id": "f48fd76536fa4d71aabc4f7365b2ec19",
+            "text": "生态公路与低碳技术论坛",
+            "href": "Level3GroupLite.aspx?id=f48fd76536fa4d71aabc4f7365b2ec19"
+          }
+        ]
+      },
+      {
+        "id": "4bbe9d93b3e6443795f072ccb24e9064",
+        "text": "生态环境与经济发展",
+        "href": "Level2GroupLite.aspx?id=4bbe9d93b3e6443795f072ccb24e9064",
+        "nodes": [
+          {
+            "id": "132d6d4043ba482a9256e69e942e7646",
+            "text": "区域经济与生态环境和谐发展高峰论坛",
+            "href": "Level3GroupLite.aspx?id=132d6d4043ba482a9256e69e942e7646"
+          },
+          {
+            "id": "0edd34ad646540cf8b089a80360fe1c1",
+            "text": "恩比特生态环境论坛",
+            "href": "Level3GroupLite.aspx?id=0edd34ad646540cf8b089a80360fe1c1"
+          },
+          {
+            "id": "4b3599144a474acd9b04b696c0a928e4",
+            "text": "生态学高层论坛",
+            "href": "Level3GroupLite.aspx?id=4b3599144a474acd9b04b696c0a928e4"
+          },
+          {
+            "id": "38b3fc7711064f5c86d9918d1f336ea6",
+            "text": "新世纪北京生态论坛",
+            "href": "Level3GroupLite.aspx?id=38b3fc7711064f5c86d9918d1f336ea6"
+          },
+          {
+            "id": "947d951fdacc4b4e978cf182ce134a9c",
+            "text": "北京生态学学会",
+            "href": "Level3GroupLite.aspx?id=947d951fdacc4b4e978cf182ce134a9c"
+          },
+          {
+            "id": "277c9dc8cade445f9814fdff29fc2ab4",
+            "text": "中国生态大讲堂百期学术演讲",
+            "href": "Level3GroupLite.aspx?id=277c9dc8cade445f9814fdff29fc2ab4"
+          },
+          {
+            "id": "d4ff4894599642b992a634bc90921f41",
+            "text": "生态文明学术研讨会",
+            "href": "Level3GroupLite.aspx?id=d4ff4894599642b992a634bc90921f41"
+          },
+          {
+            "id": "ed485799eb2049859271413a08641384",
+            "text": "北京森林论坛",
+            "href": "Level3GroupLite.aspx?id=ed485799eb2049859271413a08641384"
+          },
+          {
+            "id": "86aeaf131aed4d65b30f5fa8deb2a55f",
+            "text": "水务高峰论坛暨水生态安全大会",
+            "href": "Level3GroupLite.aspx?id=86aeaf131aed4d65b30f5fa8deb2a55f"
+          },
+          {
+            "id": "90d068aa8f97472f92a12effb16001c9",
+            "text": "“土壤与生态环境安全——国际土壤年在中国”高层论坛",
+            "href": "Level3GroupLite.aspx?id=90d068aa8f97472f92a12effb16001c9"
+          }
+        ]
+      },
+      {
+        "id": "e67dca11d60b4642b390edb29bb5a182",
+        "text": "资源环境与公众生活",
+        "href": "Level2GroupLite.aspx?id=e67dca11d60b4642b390edb29bb5a182",
+        "nodes": [
+          {
+            "id": "c6908844fdd74da387aa233c02ff86de",
+            "text": "中国农村和小城镇水环境治理论坛",
+            "href": "Level3GroupLite.aspx?id=c6908844fdd74da387aa233c02ff86de"
+          },
+          {
+            "id": "137836b810ff49a2b2500ba69c2545be",
+            "text": "中美特大型城市水问题研讨会",
+            "href": "Level3GroupLite.aspx?id=137836b810ff49a2b2500ba69c2545be"
+          },
+          {
+            "id": "484a457af2304b35a19274e106179d2d",
+            "text": "城市森林与公众健康论坛",
+            "href": "Level3GroupLite.aspx?id=484a457af2304b35a19274e106179d2d"
+          },
+          {
+            "id": "0409bce3ef7d48718e387e754f2dc4c6",
+            "text": "健康老龄化与资源环境论坛",
+            "href": "Level3GroupLite.aspx?id=0409bce3ef7d48718e387e754f2dc4c6"
+          },
+          {
+            "id": "760940b334bc4482bab1df7eb5c2dbe1",
+            "text": "中国人口、资源环境与经济社会协调发展高层论坛",
+            "href": "Level3GroupLite.aspx?id=760940b334bc4482bab1df7eb5c2dbe1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "30c1fd62844a41c78f167a7f0b0f738e",
+    "text": "企业管理类论坛",
+    "href": "Level2GroupLite.aspx?id=30c1fd62844a41c78f167a7f0b0f738e",
+    "nodes": [
+      {
+        "id": "68695623dafa49bdb736fe6e2f5972bd",
+        "text": "营销管理",
+        "href": "Level2GroupLite.aspx?id=68695623dafa49bdb736fe6e2f5972bd",
+        "nodes": [
+          {
+            "id": "7df46ea37bde4b7a92a91256b623c369",
+            "text": "中国营销论坛",
+            "href": "Level3GroupLite.aspx?id=7df46ea37bde4b7a92a91256b623c369"
+          },
+          {
+            "id": "73540b4f383e4210879948fe83c97018",
+            "text": "最佳商业模式中国峰会",
+            "href": "Level3GroupLite.aspx?id=73540b4f383e4210879948fe83c97018"
+          },
+          {
+            "id": "121e2d71dc2b434bbaec92b947c4411a",
+            "text": "中国数字营销峰会",
+            "href": "Level3GroupLite.aspx?id=121e2d71dc2b434bbaec92b947c4411a"
+          },
+          {
+            "id": "ffceab0dc8034dcca4872edd832ba5a7",
+            "text": "“定位中国10年”高峰论坛",
+            "href": "Level3GroupLite.aspx?id=ffceab0dc8034dcca4872edd832ba5a7"
+          },
+          {
+            "id": "7f638fa361cf470f88e22a8ab0f34327",
+            "text": "中国影响力企业品牌文化论坛",
+            "href": "Level3GroupLite.aspx?id=7f638fa361cf470f88e22a8ab0f34327"
+          },
+          {
+            "id": "0054dc119ffd468e81167685f24ba3ce",
+            "text": "社会转型与品牌创新高峰论坛",
+            "href": "Level3GroupLite.aspx?id=0054dc119ffd468e81167685f24ba3ce"
+          },
+          {
+            "id": "442851e43b5341fab6671219d407f52f",
+            "text": "中小企业品牌发展论坛",
+            "href": "Level3GroupLite.aspx?id=442851e43b5341fab6671219d407f52f"
+          }
+        ]
+      },
+      {
+        "id": "5c3d176f9d6846ccad1e58bde1d80cf9",
+        "text": "财务管理",
+        "href": "Level2GroupLite.aspx?id=5c3d176f9d6846ccad1e58bde1d80cf9",
+        "nodes": [
+          {
+            "id": "15fcc4673f314e6cbc1b7db1ff6cde4a",
+            "text": "中国大型企业现金、财资和风险管理年会",
+            "href": "Level3GroupLite.aspx?id=15fcc4673f314e6cbc1b7db1ff6cde4a"
+          },
+          {
+            "id": "574b8a04341f478daf901951b80af91e",
+            "text": "中国企业产融合作峰会",
+            "href": "Level3GroupLite.aspx?id=574b8a04341f478daf901951b80af91e"
+          },
+          {
+            "id": "80c4999cffb247f9b21ff4ff312ff610",
+            "text": "全球500强财务管理最佳实践——预算管理",
+            "href": "Level3GroupLite.aspx?id=80c4999cffb247f9b21ff4ff312ff610"
+          },
+          {
+            "id": "134889771e894f7ca4bbc441d3e62624",
+            "text": "战略与变革：会计师创造企业价值（ACCA）",
+            "href": "Level3GroupLite.aspx?id=134889771e894f7ca4bbc441d3e62624"
+          },
+          {
+            "id": "13c4ef6552f948b8bc51671401f8087a",
+            "text": "全球CFO（首席财务官）领袖论坛",
+            "href": "Level3GroupLite.aspx?id=13c4ef6552f948b8bc51671401f8087a"
+          },
+          {
+            "id": "e54a97dc41ce49698737598b285f2128",
+            "text": "中国税务总监高峰论坛",
+            "href": "Level3GroupLite.aspx?id=e54a97dc41ce49698737598b285f2128"
+          },
+          {
+            "id": "384f6c824e474d6d99f905028d42e82d",
+            "text": "ACCA年度峰会",
+            "href": "Level3GroupLite.aspx?id=384f6c824e474d6d99f905028d42e82d"
+          },
+          {
+            "id": "472e0550e2dd4825ae7a035ba2445bd0",
+            "text": "GTS转让定价高峰论坛",
+            "href": "Level3GroupLite.aspx?id=472e0550e2dd4825ae7a035ba2445bd0"
+          }
+        ]
+      },
+      {
+        "id": "8a2eb761c9704e94afd8f33face66588",
+        "text": "人力资源管理",
+        "href": "Level2GroupLite.aspx?id=8a2eb761c9704e94afd8f33face66588",
+        "nodes": [
+          {
+            "id": "564a3b4bfd574cd7a4d8befcd59f4bb3",
+            "text": "人本中国高峰论坛",
+            "href": "Level3GroupLite.aspx?id=564a3b4bfd574cd7a4d8befcd59f4bb3"
+          },
+          {
+            "id": "d07ca5d80d4e49f885f0517d4aac42b1",
+            "text": "SHRM CHINA 人力资源峰会",
+            "href": "Level3GroupLite.aspx?id=d07ca5d80d4e49f885f0517d4aac42b1"
+          },
+          {
+            "id": "b055a81ee9b144bda481ae2de3198c0d",
+            "text": "中国人力资源开发研究会年会",
+            "href": "Level3GroupLite.aspx?id=b055a81ee9b144bda481ae2de3198c0d"
+          },
+          {
+            "id": "d5fff65a84c64588bbeddd9e34532591",
+            "text": "中国人力资源管理春季论坛",
+            "href": "Level3GroupLite.aspx?id=d5fff65a84c64588bbeddd9e34532591"
+          },
+          {
+            "id": "cb429ebc809a48d182635614b4f34c1c",
+            "text": "人力资源管理国际研讨会",
+            "href": "Level3GroupLite.aspx?id=cb429ebc809a48d182635614b4f34c1c"
+          },
+          {
+            "id": "166157fe1b7c4181925c1ea363147373",
+            "text": "中国企业培训与发展年会",
+            "href": "Level3GroupLite.aspx?id=166157fe1b7c4181925c1ea363147373"
+          },
+          {
+            "id": "b52f86d2a0d14cd08cd2f6fd7e9d9225",
+            "text": "中国职业发展论坛",
+            "href": "Level3GroupLite.aspx?id=b52f86d2a0d14cd08cd2f6fd7e9d9225"
+          },
+          {
+            "id": "42617fbac7f7421ea63afe0486fa9ef5",
+            "text": "中外管理官产学恳谈会",
+            "href": "Level3GroupLite.aspx?id=42617fbac7f7421ea63afe0486fa9ef5"
+          },
+          {
+            "id": "73241ccd50fb4548ac10a7e432eec30a",
+            "text": "中国CEO高峰论坛",
+            "href": "Level3GroupLite.aspx?id=73241ccd50fb4548ac10a7e432eec30a"
+          },
+          {
+            "id": "fe30494b2d2a4c999d5fc0a12d6cd45a",
+            "text": "中国CEO年会",
+            "href": "Level3GroupLite.aspx?id=fe30494b2d2a4c999d5fc0a12d6cd45a"
+          },
+          {
+            "id": "0ba534484f16485291885b534b17aae9",
+            "text": "中国领导人才论坛",
+            "href": "Level3GroupLite.aspx?id=0ba534484f16485291885b534b17aae9"
+          },
+          {
+            "id": "ec44fa0a9a86436e915f4999366147fa",
+            "text": "中国企业家学习峰会",
+            "href": "Level3GroupLite.aspx?id=ec44fa0a9a86436e915f4999366147fa"
+          },
+          {
+            "id": "222bff35c75a47d3aacd1b073b05aaeb",
+            "text": "APEC工商领导人中国峰会",
+            "href": "Level3GroupLite.aspx?id=222bff35c75a47d3aacd1b073b05aaeb"
+          },
+          {
+            "id": "17686d52ca8546ff9b7268afe3793c8c",
+            "text": "中国管理研究国际学会",
+            "href": "Level3GroupLite.aspx?id=17686d52ca8546ff9b7268afe3793c8c"
+          },
+          {
+            "id": "7eb8d0c6c0c641e481abb7c56e87a584",
+            "text": "世纪成功论坛",
+            "href": "Level3GroupLite.aspx?id=7eb8d0c6c0c641e481abb7c56e87a584"
+          }
+        ]
+      },
+      {
+        "id": "1b139024bc7a43bf9c54eccda028d0b4",
+        "text": "企业信息化",
+        "href": "Level2GroupLite.aspx?id=1b139024bc7a43bf9c54eccda028d0b4",
+        "nodes": [
+          {
+            "id": "2202c74580a543769638ceedaf95c596",
+            "text": "中小企业信息化优秀产品和服务论坛",
+            "href": "Level3GroupLite.aspx?id=2202c74580a543769638ceedaf95c596"
+          },
+          {
+            "id": "36e0c1e919334f8f8bde4e7fbd5ea9cd",
+            "text": "中国智慧企业发展年会",
+            "href": "Level3GroupLite.aspx?id=36e0c1e919334f8f8bde4e7fbd5ea9cd"
+          },
+          {
+            "id": "82e45cde7c49482f89441e138996deea",
+            "text": "国资企业IT能力建设高峰论坛",
+            "href": "Level3GroupLite.aspx?id=82e45cde7c49482f89441e138996deea"
+          },
+          {
+            "id": "73d6ca871eef429e819111ae7e02f87b",
+            "text": "第十六届北大光华新年论坛",
+            "href": "Level3GroupLite.aspx?id=73d6ca871eef429e819111ae7e02f87b"
+          }
+        ]
+      },
+      {
+        "id": "4404c44967ad4b91876f41bdb345231e",
+        "text": "企业竞争力",
+        "href": "Level2GroupLite.aspx?id=4404c44967ad4b91876f41bdb345231e",
+        "nodes": [
+          {
+            "id": "8f3c4fc69b0a44aaaee65f512d70fdec",
+            "text": "企业竞争力年会",
+            "href": "Level3GroupLite.aspx?id=8f3c4fc69b0a44aaaee65f512d70fdec"
+          },
+          {
+            "id": "7221436ae6784b72a8da3d05fe0a014f",
+            "text": "中国影响力论坛",
+            "href": "Level3GroupLite.aspx?id=7221436ae6784b72a8da3d05fe0a014f"
+          }
+        ]
+      },
+      {
+        "id": "7a7bebe3126d42f28300e78c4ecb8dad",
+        "text": "企业社会责任",
+        "href": "Level2GroupLite.aspx?id=7a7bebe3126d42f28300e78c4ecb8dad",
+        "nodes": [
+          {
+            "id": "741b55355b324c9088d24ac49a1664ad",
+            "text": "中荷企业社会责任国际高层论坛",
+            "href": "Level3GroupLite.aspx?id=741b55355b324c9088d24ac49a1664ad"
+          },
+          {
+            "id": "54fe38b6288e4a03847213f5aaba37a3",
+            "text": "企业社会责任与可持续发展论坛",
+            "href": "Level3GroupLite.aspx?id=54fe38b6288e4a03847213f5aaba37a3"
+          },
+          {
+            "id": "6688452cb5294657a9a3b51b211866ad",
+            "text": "中国可持续发展与企业社会责任国际峰会",
+            "href": "Level3GroupLite.aspx?id=6688452cb5294657a9a3b51b211866ad"
+          }
+        ]
+      },
+      {
+        "id": "f0c58a81af5b4537940d7ca2f065b5c0",
+        "text": "中小企业改革与发展",
+        "href": "Level2GroupLite.aspx?id=f0c58a81af5b4537940d7ca2f065b5c0",
+        "nodes": [
+          {
+            "id": "8bb4ace45f6c43208abf23331972ffe4",
+            "text": "中国中小企业发展论坛",
+            "href": "Level3GroupLite.aspx?id=8bb4ace45f6c43208abf23331972ffe4"
+          },
+          {
+            "id": "49791086c8d84996abc45a4a83c93977",
+            "text": "“小企业大梦想”高峰论坛",
+            "href": "Level3GroupLite.aspx?id=49791086c8d84996abc45a4a83c93977"
+          },
+          {
+            "id": "884dbc49c4864611aa6d086aa68ead22",
+            "text": "中国中小企业发展高峰论坛",
+            "href": "Level3GroupLite.aspx?id=884dbc49c4864611aa6d086aa68ead22"
+          },
+          {
+            "id": "0348aa26ab7d4b9aaf47b830aab3115e",
+            "text": "经济转型中的中小企业——2011中国经济学前沿论坛",
+            "href": "Level3GroupLite.aspx?id=0348aa26ab7d4b9aaf47b830aab3115e"
+          },
+          {
+            "id": "5d32f5c0648047bf8579e1b4944d2c92",
+            "text": "非公有企业发展论坛",
+            "href": "Level3GroupLite.aspx?id=5d32f5c0648047bf8579e1b4944d2c92"
+          },
+          {
+            "id": "e79f305e92754d1f89d7fd727ddfeafe",
+            "text": "财智中国——名人论道：中国民营企业的创新与反思",
+            "href": "Level3GroupLite.aspx?id=e79f305e92754d1f89d7fd727ddfeafe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "236ec48343794bbfb2ecebbb40299df7",
+    "text": "公共管理类论坛",
+    "href": "Level2GroupLite.aspx?id=236ec48343794bbfb2ecebbb40299df7",
+    "nodes": [
+      {
+        "id": "75d332d4a578453c8951714626d6c5dd",
+        "text": "政府改革与管理",
+        "href": "Level2GroupLite.aspx?id=75d332d4a578453c8951714626d6c5dd",
+        "nodes": [
+          {
+            "id": "bc02f099c987405da3a9b8320db3f3e1",
+            "text": "现代政府与公共治理系列论坛",
+            "href": "Level3GroupLite.aspx?id=bc02f099c987405da3a9b8320db3f3e1"
+          },
+          {
+            "id": "0541fdd0603f45deb2409f1f29f73d33",
+            "text": "“国家治理的现代化与软法”国际研讨会",
+            "href": "Level3GroupLite.aspx?id=0541fdd0603f45deb2409f1f29f73d33"
+          },
+          {
+            "id": "ff862dbfe4ae45148a7aea7038b0dfd0",
+            "text": "政府管制论坛",
+            "href": "Level3GroupLite.aspx?id=ff862dbfe4ae45148a7aea7038b0dfd0"
+          },
+          {
+            "id": "4fb1e491763c4c29840ddf59ea2199cf",
+            "text": "行政部门配置资源的效率与公正研讨会",
+            "href": "Level3GroupLite.aspx?id=4fb1e491763c4c29840ddf59ea2199cf"
+          },
+          {
+            "id": "9bfc5e689c5c47a5873e0bb25d84f526",
+            "text": "公共部门人力资源管理研讨会",
+            "href": "Level3GroupLite.aspx?id=9bfc5e689c5c47a5873e0bb25d84f526"
+          }
+        ]
+      },
+      {
+        "id": "f22afe4036d445a48d6dad5b2a17d416",
+        "text": "应急管理",
+        "href": "Level2GroupLite.aspx?id=f22afe4036d445a48d6dad5b2a17d416",
+        "nodes": [
+          {
+            "id": "ebb1120d1bfe457c9901e0cd2c9d5c93",
+            "text": "国际应急管理论坛",
+            "href": "Level3GroupLite.aspx?id=ebb1120d1bfe457c9901e0cd2c9d5c93"
+          },
+          {
+            "id": "8ed260ed0fcf46c3b9e8deeb904e7926",
+            "text": "中国应急管理信息化高峰论坛",
+            "href": "Level3GroupLite.aspx?id=8ed260ed0fcf46c3b9e8deeb904e7926"
+          }
+        ]
+      },
+      {
+        "id": "20b2d5bff85843ceaab6a23e808c628d",
+        "text": "社会治理创新",
+        "href": "Level2GroupLite.aspx?id=20b2d5bff85843ceaab6a23e808c628d",
+        "nodes": [
+          {
+            "id": "9c1af6f2e85f4fecb74ec37b2581d85a",
+            "text": "社会治理论坛",
+            "href": "Level3GroupLite.aspx?id=9c1af6f2e85f4fecb74ec37b2581d85a"
+          },
+          {
+            "id": "562e390478bf42e387446049225708cc",
+            "text": "中国社会管理论坛",
+            "href": "Level3GroupLite.aspx?id=562e390478bf42e387446049225708cc"
+          },
+          {
+            "id": "7b666e0bbe9d485a86574c283f16ebeb",
+            "text": "信用中国行研讨会",
+            "href": "Level3GroupLite.aspx?id=7b666e0bbe9d485a86574c283f16ebeb"
+          }
+        ]
+      },
+      {
+        "id": "25a58d36a8cd4133a21862d76cc3bc0a",
+        "text": "公共政策与公共服务",
+        "href": "Level2GroupLite.aspx?id=25a58d36a8cd4133a21862d76cc3bc0a",
+        "nodes": [
+          {
+            "id": "c6682f5f5f3145dd897039c700eb6496",
+            "text": "2015人口老龄化：公共政策的新挑战",
+            "href": "Level3GroupLite.aspx?id=c6682f5f5f3145dd897039c700eb6496"
+          },
+          {
+            "id": "a23dca39fb374d97bcab3ba2de8a3e79",
+            "text": "家庭友好政策高峰论坛",
+            "href": "Level3GroupLite.aspx?id=a23dca39fb374d97bcab3ba2de8a3e79"
+          },
+          {
+            "id": "6bcb44e939b84cbd94a88aa8349a0f37",
+            "text": "社会政策国际论坛",
+            "href": "Level3GroupLite.aspx?id=6bcb44e939b84cbd94a88aa8349a0f37"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "81be5a505b164096a56be103565af6e7",
+    "text": "教育人文类论坛",
+    "href": "Level2GroupLite.aspx?id=81be5a505b164096a56be103565af6e7",
+    "nodes": [
+      {
+        "id": "cce90a1af6664e65afc5e39a67f6b3da",
+        "text": "学科前沿",
+        "href": "Level2GroupLite.aspx?id=cce90a1af6664e65afc5e39a67f6b3da",
+        "nodes": [
+          {
+            "id": "3927bd9e760840529b0b3a1d295eb3e8",
+            "text": "中国MBA发展论坛",
+            "href": "Level3GroupLite.aspx?id=3927bd9e760840529b0b3a1d295eb3e8"
+          },
+          {
+            "id": "872c538325e94c2babc138207ab16265",
+            "text": "组织经济学研讨会",
+            "href": "Level3GroupLite.aspx?id=872c538325e94c2babc138207ab16265"
+          },
+          {
+            "id": "c803039dffcd4c4a845de62127c0ef4a",
+            "text": "国际经济与贸易专业教育教学研讨会",
+            "href": "Level3GroupLite.aspx?id=c803039dffcd4c4a845de62127c0ef4a"
+          },
+          {
+            "id": "36c0a941227b410e860ae0e8c187edbf",
+            "text": "中国经济学跨学科理论创新学术研讨会",
+            "href": "Level3GroupLite.aspx?id=36c0a941227b410e860ae0e8c187edbf"
+          },
+          {
+            "id": "c657f1976141430aacc24c23ae97ee09",
+            "text": "中国会计学会学术年会",
+            "href": "Level3GroupLite.aspx?id=c657f1976141430aacc24c23ae97ee09"
+          },
+          {
+            "id": "a5a1d5f9295e415697dab5ab4ab2e084",
+            "text": "公共财政管理与政策学术研讨会",
+            "href": "Level3GroupLite.aspx?id=a5a1d5f9295e415697dab5ab4ab2e084"
+          },
+          {
+            "id": "1fa7f4d2fc6e4ddfa9c3e2e8fed46b4e",
+            "text": "马克思主义经济学发展与创新国际学术研讨会",
+            "href": "Level3GroupLite.aspx?id=1fa7f4d2fc6e4ddfa9c3e2e8fed46b4e"
+          },
+          {
+            "id": "0fb1810bd46f4978b550bc3eb22d309e",
+            "text": "中国宏观经济管理教育学会",
+            "href": "Level3GroupLite.aspx?id=0fb1810bd46f4978b550bc3eb22d309e"
+          },
+          {
+            "id": "61facd8463514e299a8dcac73c220dab",
+            "text": "国民经济管理论坛",
+            "href": "Level3GroupLite.aspx?id=61facd8463514e299a8dcac73c220dab"
+          },
+          {
+            "id": "8ff47e0e58904309a98d266d3d4feacc",
+            "text": "工程管理专业学位研究生教学研讨会",
+            "href": "Level3GroupLite.aspx?id=8ff47e0e58904309a98d266d3d4feacc"
+          },
+          {
+            "id": "db052d8412084165b47fa8918afe0ca0",
+            "text": "中国发展战略学研究会学术年会",
+            "href": "Level3GroupLite.aspx?id=db052d8412084165b47fa8918afe0ca0"
+          },
+          {
+            "id": "c2f2ea87bacb4331a73ff2a9c586a3f1",
+            "text": "中国高等院校市场学研究会",
+            "href": "Level3GroupLite.aspx?id=c2f2ea87bacb4331a73ff2a9c586a3f1"
+          },
+          {
+            "id": "ed71cc7af23a43a5aedb2deb9bc191e8",
+            "text": "全国高等院校物联网专业建设研讨会",
+            "href": "Level3GroupLite.aspx?id=ed71cc7af23a43a5aedb2deb9bc191e8"
+          },
+          {
+            "id": "4a57ebb09a25472d9ca01903293266ed",
+            "text": "人大商学院EMBA新年高峰论坛",
+            "href": "Level3GroupLite.aspx?id=4a57ebb09a25472d9ca01903293266ed"
+          }
+        ]
+      },
+      {
+        "id": "f0c74aae41b94091a05eb07f7677a80f",
+        "text": "网络教育",
+        "href": "Level2GroupLite.aspx?id=f0c74aae41b94091a05eb07f7677a80f",
+        "nodes": [
+          {
+            "id": "08786a3d25644889aa7f8f91e2ecc827",
+            "text": "“全球视野下的互联网教育”论坛",
+            "href": "Level3GroupLite.aspx?id=08786a3d25644889aa7f8f91e2ecc827"
+          },
+          {
+            "id": "9d1f127f147d4c3686f44722e3938226",
+            "text": "中国网络教育论坛",
+            "href": "Level3GroupLite.aspx?id=9d1f127f147d4c3686f44722e3938226"
+          },
+          {
+            "id": "878b3d4c4fe046caacb7cf1a9f875629",
+            "text": "国际在线教育峰会",
+            "href": "Level3GroupLite.aspx?id=878b3d4c4fe046caacb7cf1a9f875629"
+          }
+        ]
+      },
+      {
+        "id": "72b3bcced76d45108daa557ee883d6b9",
+        "text": "国际教育",
+        "href": "Level2GroupLite.aspx?id=72b3bcced76d45108daa557ee883d6b9",
+        "nodes": [
+          {
+            "id": "9f182c50eac348098d94af76ff28fd82",
+            "text": "中国国际教育品牌创新峰会",
+            "href": "Level3GroupLite.aspx?id=9f182c50eac348098d94af76ff28fd82"
+          },
+          {
+            "id": "a30bde0146a84a79ad254bf7828a77b1",
+            "text": "国际教师教育大会",
+            "href": "Level3GroupLite.aspx?id=a30bde0146a84a79ad254bf7828a77b1"
+          },
+          {
+            "id": "d52052b27df844598dc63a01fba28ebb",
+            "text": "世界比较教育论坛",
+            "href": "Level3GroupLite.aspx?id=d52052b27df844598dc63a01fba28ebb"
+          },
+          {
+            "id": "90c5f2c8ed7a4145bfc89ffa6dd065e1",
+            "text": "中国留学教育高峰论坛",
+            "href": "Level3GroupLite.aspx?id=90c5f2c8ed7a4145bfc89ffa6dd065e1"
+          },
+          {
+            "id": "0eea32b49cbd4150aa29e599fd73d438",
+            "text": "教育领导与管理国际研讨会",
+            "href": "Level3GroupLite.aspx?id=0eea32b49cbd4150aa29e599fd73d438"
+          }
+        ]
+      },
+      {
+        "id": "d90a121626604e35b16faebf300bd23a",
+        "text": "教育改革",
+        "href": "Level2GroupLite.aspx?id=d90a121626604e35b16faebf300bd23a",
+        "nodes": [
+          {
+            "id": "48866b9381c24aa890e851418a35dde0",
+            "text": "天则教育论坛",
+            "href": "Level3GroupLite.aspx?id=48866b9381c24aa890e851418a35dde0"
+          },
+          {
+            "id": "214fb89032fe46a58f950d6fe5caa037",
+            "text": "教育改革论坛",
+            "href": "Level3GroupLite.aspx?id=214fb89032fe46a58f950d6fe5caa037"
+          },
+          {
+            "id": "71c7ab27886746219302a02542abb57f",
+            "text": "教育论坛",
+            "href": "Level3GroupLite.aspx?id=71c7ab27886746219302a02542abb57f"
+          },
+          {
+            "id": "bfea9eb1d23545dab4389d53828cd0b5",
+            "text": "教育与文化学术研讨会",
+            "href": "Level3GroupLite.aspx?id=bfea9eb1d23545dab4389d53828cd0b5"
+          }
+        ]
+      },
+      {
+        "id": "81dba76096f2423a8bfd9ed7aac07719",
+        "text": "思想人文",
+        "href": "Level2GroupLite.aspx?id=81dba76096f2423a8bfd9ed7aac07719",
+        "nodes": [
+          {
+            "id": "d4e101095d0c4874a46aefe24eaa6380",
+            "text": "思想中国论坛",
+            "href": "Level3GroupLite.aspx?id=d4e101095d0c4874a46aefe24eaa6380"
+          },
+          {
+            "id": "7bec5beed189499c85c576f2a86006eb",
+            "text": "中信书院前沿论坛",
+            "href": "Level3GroupLite.aspx?id=7bec5beed189499c85c576f2a86006eb"
+          },
+          {
+            "id": "ddd91550bc2a4ce2b64c4ea2e3b965f8",
+            "text": "宗教社会科学年会",
+            "href": "Level3GroupLite.aspx?id=ddd91550bc2a4ce2b64c4ea2e3b965f8"
+          },
+          {
+            "id": "1074a512489a47779c00dce019aa8723",
+            "text": "马克思主义哲学与价值哲学国际学术会议",
+            "href": "Level3GroupLite.aspx?id=1074a512489a47779c00dce019aa8723"
+          },
+          {
+            "id": "781a2f0832b749e298460550ab609135",
+            "text": "“全球化与变化中的价值观”国际学术会议",
+            "href": "Level3GroupLite.aspx?id=781a2f0832b749e298460550ab609135"
+          },
+          {
+            "id": "584965ffb11d46b190c96c1564c2a436",
+            "text": "“新型智库建设”学术研讨会",
+            "href": "Level3GroupLite.aspx?id=584965ffb11d46b190c96c1564c2a436"
+          },
+          {
+            "id": "2f0e22fc42ef49b08b4d376106260bc2",
+            "text": "北京大学第四届未名论坛",
+            "href": "Level3GroupLite.aspx?id=2f0e22fc42ef49b08b4d376106260bc2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "393faadfe450401dbb1a602bcf60dffe",
+    "text": "创新前沿类论坛",
+    "href": "Level2GroupLite.aspx?id=393faadfe450401dbb1a602bcf60dffe",
+    "nodes": [
+      {
+        "id": "62dec53ec78c44a8b13942da68f3f980",
+        "text": "科研创新",
+        "href": "Level2GroupLite.aspx?id=62dec53ec78c44a8b13942da68f3f980",
+        "nodes": [
+          {
+            "id": "1ee3175d8391459490e4955b50a9dca7",
+            "text": "网易未来科技峰会",
+            "href": "Level3GroupLite.aspx?id=1ee3175d8391459490e4955b50a9dca7"
+          },
+          {
+            "id": "ec5ba0138ed84ac6b58a48ca56a39ab3",
+            "text": "国际技术转移论坛",
+            "href": "Level3GroupLite.aspx?id=ec5ba0138ed84ac6b58a48ca56a39ab3"
+          },
+          {
+            "id": "0146675da28f4082b6099575f3739eb9",
+            "text": "中国科技创新发展国际论坛",
+            "href": "Level3GroupLite.aspx?id=0146675da28f4082b6099575f3739eb9"
+          },
+          {
+            "id": "0d81c60e47714793aee48bbdb01e04b6",
+            "text": "搜狐科技财富论坛",
+            "href": "Level3GroupLite.aspx?id=0d81c60e47714793aee48bbdb01e04b6"
+          },
+          {
+            "id": "060f5aa64da94ddeac19cd1467adb6f1",
+            "text": "中国纳米地球科学学术研讨会",
+            "href": "Level3GroupLite.aspx?id=060f5aa64da94ddeac19cd1467adb6f1"
+          }
+        ]
+      },
+      {
+        "id": "772cc4692d8f41349ac0ddf76c4c340b",
+        "text": "企业创新",
+        "href": "Level2GroupLite.aspx?id=772cc4692d8f41349ac0ddf76c4c340b",
+        "nodes": [
+          {
+            "id": "55f520b3ea0b4c98bc8035812c4098c3",
+            "text": "企业创新论坛",
+            "href": "Level3GroupLite.aspx?id=55f520b3ea0b4c98bc8035812c4098c3"
+          },
+          {
+            "id": "270bdecc104743d18750fd4f557646ec",
+            "text": "全球创新论坛",
+            "href": "Level3GroupLite.aspx?id=270bdecc104743d18750fd4f557646ec"
+          },
+          {
+            "id": "c7c985dde0e5442aae34ba3b7c489113",
+            "text": "中关村创新论坛",
+            "href": "Level3GroupLite.aspx?id=c7c985dde0e5442aae34ba3b7c489113"
+          },
+          {
+            "id": "4b70740bd7be468c934efaa5eee98642",
+            "text": "中关村论坛年会",
+            "href": "Level3GroupLite.aspx?id=4b70740bd7be468c934efaa5eee98642"
+          },
+          {
+            "id": "bf80b562984e48a6abff9828121ed5eb",
+            "text": "创业邦年会",
+            "href": "Level3GroupLite.aspx?id=bf80b562984e48a6abff9828121ed5eb"
+          },
+          {
+            "id": "fce4b1712e494053a94de3983680775d",
+            "text": "创新创业与经济转型——北大光华新年论坛",
+            "href": "Level3GroupLite.aspx?id=fce4b1712e494053a94de3983680775d"
+          },
+          {
+            "id": "82445de825bc48ee809dd2c52a805c1f",
+            "text": "“创世纪 新天使”中国青年天使会年度峰会",
+            "href": "Level3GroupLite.aspx?id=82445de825bc48ee809dd2c52a805c1f"
+          }
+        ]
+      },
+      {
+        "id": "d7d012e486cc4521828af1fbabde9d47",
+        "text": "战略与制度创新",
+        "href": "Level2GroupLite.aspx?id=d7d012e486cc4521828af1fbabde9d47",
+        "nodes": [
+          {
+            "id": "6646cb7ab46a4063b80ed804c0bd45df",
+            "text": "建设创新型国家大会",
+            "href": "Level3GroupLite.aspx?id=6646cb7ab46a4063b80ed804c0bd45df"
+          },
+          {
+            "id": "13612b5698634944ba3129c0282df395",
+            "text": "《2014中国创新报告》发布会",
+            "href": "Level3GroupLite.aspx?id=13612b5698634944ba3129c0282df395"
+          },
+          {
+            "id": "bde8dfe86605498c81e555bb3232b3b5",
+            "text": "中美创新巅峰论坛",
+            "href": "Level3GroupLite.aspx?id=bde8dfe86605498c81e555bb3232b3b5"
+          },
+          {
+            "id": "4cba7852d885454ba32d8234d6d6b48b",
+            "text": "网络知识产权研讨会",
+            "href": "Level3GroupLite.aspx?id=4cba7852d885454ba32d8234d6d6b48b"
+          },
+          {
+            "id": "befa1d2469cb4982bf40b2cfdeaddd4a",
+            "text": "中外企业知识产权大会",
+            "href": "Level3GroupLite.aspx?id=befa1d2469cb4982bf40b2cfdeaddd4a"
+          },
+          {
+            "id": "38276f0618b0424c8afc53ee6d3d8f67",
+            "text": "恩比特知识产权论坛",
+            "href": "Level3GroupLite.aspx?id=38276f0618b0424c8afc53ee6d3d8f67"
+          }
+        ]
+      }
+    ]
+  }
+]

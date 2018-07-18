@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="1.0" xmlns:edmx="http://schemas.microsoft.com/ado/2007/06/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="ZjspccmModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2006/04/edm/ssdl">
+        <EntityType Name="ArticleCurrent">
+          <Key>
+            <PropertyRef Name="ArticleGUID" />
+          </Key>
+          <Property Name="ArticleGUID" Type="nchar" MaxLength="32" Nullable="false" />
+          <Property Name="HaveAttachment" Type="bit" Nullable="false" />
+          <Property Name="ContentType" Type="nvarchar" MaxLength="8" Nullable="false" />
+          <Property Name="State" Type="tinyint" Nullable="false" />
+          <Property Name="ApproveFlag" Type="tinyint" Nullable="false" />
+          <Property Name="PageCount" Type="int" Nullable="false" />
+          <Property Name="IsCataloged" Type="bit" Nullable="false" />
+          <Property Name="TextKeepFormat" Type="bit" Nullable="false" />
+          <Property Name="NeedHtmlDecode" Type="bit" Nullable="false" />
+          <Property Name="Title" Type="nvarchar" MaxLength="2000" Nullable="false" />
+          <Property Name="KeyWord" Type="nvarchar" MaxLength="2000" Nullable="false" />
+          <Property Name="Area" Type="nvarchar" MaxLength="2000" Nullable="false" />
+          <Property Name="Industry" Type="nvarchar" MaxLength="2000" Nullable="false" />
+          <Property Name="Source" Type="nvarchar" MaxLength="2000" Nullable="false" />
+          <Property Name="Author" Type="nvarchar" MaxLength="2000" Nullable="false" />
+          <Property Name="PublishDate" Type="datetime" Nullable="false" />
+          <Property Name="Content" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="PlainText" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="Filename" Type="nvarchar" MaxLength="256" Nullable="false" />
+          <Property Name="CreatorID" Type="nvarchar" MaxLength="16" Nullable="false" />
+          <Property Name="CreatorName" Type="nvarchar" MaxLength="16" Nullable="false" />
+          <Property Name="CreateTime" Type="datetime" Nullable="false" />
+          <Property Name="ModifierID" Type="nvarchar" MaxLength="16" Nullable="false" />
+          <Property Name="ModifierName" Type="nvarchar" MaxLength="16" Nullable="false" />
+          <Property Name="ModifyTime" Type="datetime" Nullable="false" />
+          <Property Name="CheckOutID" Type="nvarchar" MaxLength="16" Nullable="false" />
+          <Property Name="CheckOutName" Type="nvarchar" MaxLength="16" Nullable="false" />
+          <Property Name="CheckOutTime" Type="datetime" />
+          <Property Name="ApproveID" Type="nvarchar" MaxLength="16" Nullable="false" />
+          <Property Name="ApproveName" Type="nvarchar" MaxLength="16" Nullable="false" />
+          <Property Name="ApproveTime" Type="datetime" />
+          <Property Name="Note" Type="nvarchar" MaxLength="256" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ArticleCurrentAttachment">
+          <Key>
+            <PropertyRef Name="AttachmentGUID" />
+          </Key>
+          <Property Name="AttachmentGUID" Type="nchar" MaxLength="32" Nullable="false" />
+          <Property Name="ArticleGUID" Type="nchar" MaxLength="32" Nullable="false" />
+          <Property Name="State" Type="tinyint" Nullable="false" />
+          <Property Name="IsPrimary" Type="bit" Nullable="false" />
+          <Property Name="IsStoredInDB" Type="bit" Nullable="false" />
+          <Property Name="IsInContent" Type="bit" Nullable="false" />
+          <Property Name="Filename" Type="nvarchar" MaxLength="256" Nullable="false" />
+          <Property Name="FileType" Type="nvarchar" MaxLength="8" Nullable="false" />
+          <Property Name="Content" Type="varbinary(max)" Nullable="false" />
+          <Property Name="ContentSize" Type="int" Nullable="false" />
+          <Property Name="MIMEType" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="Tag" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="CreateTime" Type="datetime" Nullable="false" />
+          <Property Name="StorePath" Type="nvarchar" MaxLength="256" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ArticleCurrentOfCategory">
+          <Key>
+            <PropertyRef Name="ArticleGUID" />
+            <PropertyRef Name="CategoryGUID" />
+          </Key>
+          <Property Name="ArticleGUID" Type="nchar" MaxLength="32" Nullable="false" />
+          <Property Name="CategoryGUID" Type="nchar" MaxLength="32" Nullable="false" />
+          <Property Name="CreateTime" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ArticleCurrentOfCategoryAll">
+          <Key>
+            <PropertyRef Name="ArticleGUID" />
+            <PropertyRef Name="CategoryGUID" />
+          </Key>
+          <Property Name="ArticleGUID" Type="nchar" MaxLength="32" Nullable="false" />
+          <Property Name="CategoryGUID" Type="nchar" MaxLength="32" Nullable="false" />
+          <Property Name="XIndexTime" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ArticleCurrentOfCategoryTop">
+          <Key>
+            <PropertyRef Name="ArticleGUID" />
+            <PropertyRef Name="CategoryGUID" />
+          </Key>
+          <Property Name="ArticleGUID" Type="nchar" MaxLength="32" Nullable="false" />
+          <Property Name="CategoryGUID" Type="nchar" MaxLength="32" Nullable="false" />
+          <Property Name="XIndexTime" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Category">
+          <Key>
+            <PropertyRef Name="CategoryGUID" />
+          </Key>
+          <Property Name="CategoryGUID" Type="nchar" MaxLength="32" Nullable="false" />
+          <Property Name="CategoryAlias" Type="nvarchar" MaxLength="256" Nullable="false" />
+          <Property Name="CategoryName" Type="nvarchar" MaxLength="256" Nullable="false" />
+          <Property Name="State" Type="tinyint" Nullable="false" />
+          <Property Name="IsInherit" Type="bit" Nullable="false" />
+          <Property Name="CategoryType" Type="tinyint" Nullable="false" />
+          <Property Name="SecretLevel" Type="tinyint" Nullable="false" />
+          <Property Name="MustApproved" Type="bit" Nullable="false" />
+          <Property Name="CanComment" Type="bit" Nullable="false" />
+          <Property Name="IsAttachmentInDB" Type="bit" Nullable="false" />
+          <Property Name="PropertyDisplayInfo" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="CreatorID" Type="nvarchar" MaxLength="16" Nullable="false" />
+          <Property Name="CreatorName" Type="nvarchar" MaxLength="16" Nullable="false" />
+          <Property Name="CreateTime" Type="datetime" Nullable="false" />
+          <Property Name="ModifierID" Type="nvarchar" MaxLength="16" Nullable="false" />
+          <Property Name="ModifierName" Type="nvarchar" MaxLength="16" Nullable="false" />
+          <Property Name="ModifyTime" Type="datetime" />
+          <Property Name="Note" Type="nvarchar" MaxLength="256" Nullable="false" />
+          <Property Name="ZJCategoryType" Type="tinyint" Nullable="false" />
+          <Property Name="DicKeyNodeGUID" Type="nvarchar" MaxLength="1000" Nullable="false" />
+        </EntityType>
+        <EntityType Name="CategoryNodePosition">
+          <Key>
+            <PropertyRef Name="CategoryGUID" />
+          </Key>
+          <Property Name="CategoryGUID" Type="nchar" MaxLength="32" Nullable="false" />
+          <Property Name="CategoryPath" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="XIndex" Type="int" Nullable="false" />
+          <Property Name="YIndex" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="ZjspccmModelStoreContainer">
+          <EntitySet Name="ArticleCurrent" EntityType="Self.ArticleCurrent" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ArticleCurrentAttachment" EntityType="Self.ArticleCurrentAttachment" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ArticleCurrentOfCategory" EntityType="Self.ArticleCurrentOfCategory" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ArticleCurrentOfCategoryAll" EntityType="Self.ArticleCurrentOfCategoryAll" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ArticleCurrentOfCategoryTop" EntityType="Self.ArticleCurrentOfCategoryTop" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Category" EntityType="Self.Category" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="CategoryNodePosition" EntityType="Self.CategoryNodePosition" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ZjspccmModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2006/04/edm">
+        <EntityType Name="ArticleCurrent">
+          <Key>
+            <PropertyRef Name="ArticleGUID" />
+          </Key>
+          <Property Name="ArticleGUID" Type="String" MaxLength="32" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="HaveAttachment" Type="Boolean" Nullable="false" />
+          <Property Name="ContentType" Type="String" MaxLength="8" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="State" Type="Byte" Nullable="false" />
+          <Property Name="ApproveFlag" Type="Byte" Nullable="false" />
+          <Property Name="PageCount" Type="Int32" Nullable="false" />
+          <Property Name="IsCataloged" Type="Boolean" Nullable="false" />
+          <Property Name="TextKeepFormat" Type="Boolean" Nullable="false" />
+          <Property Name="NeedHtmlDecode" Type="Boolean" Nullable="false" />
+          <Property Name="Title" Type="String" MaxLength="2000" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="KeyWord" Type="String" MaxLength="2000" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Area" Type="String" MaxLength="2000" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Industry" Type="String" MaxLength="2000" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Source" Type="String" MaxLength="2000" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Author" Type="String" MaxLength="2000" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="PublishDate" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="Content" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="PlainText" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Filename" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CreatorID" Type="String" MaxLength="16" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CreatorName" Type="String" MaxLength="16" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CreateTime" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="ModifierID" Type="String" MaxLength="16" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ModifierName" Type="String" MaxLength="16" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ModifyTime" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="CheckOutID" Type="String" MaxLength="16" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CheckOutName" Type="String" MaxLength="16" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CheckOutTime" Type="DateTime" Precision="3" />
+          <Property Name="ApproveID" Type="String" MaxLength="16" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ApproveName" Type="String" MaxLength="16" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ApproveTime" Type="DateTime" Precision="3" />
+          <Property Name="Note" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ArticleCurrentAttachment">
+          <Key>
+            <PropertyRef Name="AttachmentGUID" />
+          </Key>
+          <Property Name="AttachmentGUID" Type="String" MaxLength="32" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="ArticleGUID" Type="String" MaxLength="32" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="State" Type="Byte" Nullable="false" />
+          <Property Name="IsPrimary" Type="Boolean" Nullable="false" />
+          <Property Name="IsStoredInDB" Type="Boolean" Nullable="false" />
+          <Property Name="IsInContent" Type="Boolean" Nullable="false" />
+          <Property Name="Filename" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="FileType" Type="String" MaxLength="8" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Content" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+          <Property Name="ContentSize" Type="Int32" Nullable="false" />
+          <Property Name="MIMEType" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Tag" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CreateTime" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="StorePath" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ArticleCurrentOfCategory">
+          <Key>
+            <PropertyRef Name="ArticleGUID" />
+            <PropertyRef Name="CategoryGUID" />
+          </Key>
+          <Property Name="ArticleGUID" Type="String" MaxLength="32" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="CategoryGUID" Type="String" MaxLength="32" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="CreateTime" Type="DateTime" Nullable="false" Precision="3" />
+        </EntityType>
+        <EntityType Name="Category">
+          <Key>
+            <PropertyRef Name="CategoryGUID" />
+          </Key>
+          <Property Name="CategoryGUID" Type="String" MaxLength="32" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="CategoryAlias" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CategoryName" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="State" Type="Byte" Nullable="false" />
+          <Property Name="IsInherit" Type="Boolean" Nullable="false" />
+          <Property Name="CategoryType" Type="Byte" Nullable="false" />
+          <Property Name="SecretLevel" Type="Byte" Nullable="false" />
+          <Property Name="MustApproved" Type="Boolean" Nullable="false" />
+          <Property Name="CanComment" Type="Boolean" Nullable="false" />
+          <Property Name="IsAttachmentInDB" Type="Boolean" Nullable="false" />
+          <Property Name="PropertyDisplayInfo" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CreatorID" Type="String" MaxLength="16" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CreatorName" Type="String" MaxLength="16" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CreateTime" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="ModifierID" Type="String" MaxLength="16" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ModifierName" Type="String" MaxLength="16" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ModifyTime" Type="DateTime" Precision="3" />
+          <Property Name="Note" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ZJCategoryType" Type="Byte" Nullable="false" />
+          <Property Name="DicKeyNodeGUID" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" Nullable="false" />
+        </EntityType>
+        <EntityType Name="CategoryNodePosition">
+          <Key>
+            <PropertyRef Name="CategoryGUID" />
+          </Key>
+          <Property Name="CategoryGUID" Type="String" MaxLength="32" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="CategoryPath" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="XIndex" Type="Int32" Nullable="false" />
+          <Property Name="YIndex" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="ZjspccmEntities">
+          <EntitySet Name="ArticleCurrents" EntityType="Self.ArticleCurrent" />
+          <EntitySet Name="ArticleCurrentAttachments" EntityType="Self.ArticleCurrentAttachment" />
+          <EntitySet Name="ArticleCurrentOfCategories" EntityType="Self.ArticleCurrentOfCategory" />
+          <EntitySet Name="Categories" EntityType="Self.Category" />
+          <EntitySet Name="CategoryNodePositions" EntityType="Self.CategoryNodePosition" />
+          <EntitySet Name="ArticleCurrentOfCategoryAlls" EntityType="ZjspccmModel.ArticleCurrentOfCategoryAll" />
+          <EntitySet Name="ArticleCurrentOfCategoryTops" EntityType="ZjspccmModel.ArticleCurrentOfCategoryTop" />
+        </EntityContainer>
+        <EntityType Name="ArticleCurrentOfCategoryAll">
+          <Key>
+            <PropertyRef Name="ArticleGUID" />
+            <PropertyRef Name="CategoryGUID" />
+          </Key>
+          <Property Name="ArticleGUID" Type="String" Nullable="false" MaxLength="32" FixedLength="true" Unicode="true" />
+          <Property Name="CategoryGUID" Type="String" Nullable="false" MaxLength="32" FixedLength="true" Unicode="true" />
+          <Property Name="XIndexTime" Type="DateTime" Nullable="false" Precision="3" />
+        </EntityType>
+        <EntityType Name="ArticleCurrentOfCategoryTop">
+          <Key>
+            <PropertyRef Name="ArticleGUID" />
+            <PropertyRef Name="CategoryGUID" />
+          </Key>
+          <Property Name="ArticleGUID" Type="String" Nullable="false" MaxLength="32" FixedLength="true" Unicode="true" />
+          <Property Name="CategoryGUID" Type="String" Nullable="false" MaxLength="32" FixedLength="true" Unicode="true" />
+          <Property Name="XIndexTime" Type="DateTime" Nullable="false" Precision="3" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="urn:schemas-microsoft-com:windows:storage:mapping:CS">
+        <EntityContainerMapping StorageEntityContainer="ZjspccmModelStoreContainer" CdmEntityContainer="ZjspccmEntities">
+          <EntitySetMapping Name="ArticleCurrents">
+            <EntityTypeMapping TypeName="ZjspccmModel.ArticleCurrent">
+              <MappingFragment StoreEntitySet="ArticleCurrent">
+                <ScalarProperty Name="ArticleGUID" ColumnName="ArticleGUID" />
+                <ScalarProperty Name="HaveAttachment" ColumnName="HaveAttachment" />
+                <ScalarProperty Name="ContentType" ColumnName="ContentType" />
+                <ScalarProperty Name="State" ColumnName="State" />
+                <ScalarProperty Name="ApproveFlag" ColumnName="ApproveFlag" />
+                <ScalarProperty Name="PageCount" ColumnName="PageCount" />
+                <ScalarProperty Name="IsCataloged" ColumnName="IsCataloged" />
+                <ScalarProperty Name="TextKeepFormat" ColumnName="TextKeepFormat" />
+                <ScalarProperty Name="NeedHtmlDecode" ColumnName="NeedHtmlDecode" />
+                <ScalarProperty Name="Title" ColumnName="Title" />
+                <ScalarProperty Name="KeyWord" ColumnName="KeyWord" />
+                <ScalarProperty Name="Area" ColumnName="Area" />
+                <ScalarProperty Name="Industry" ColumnName="Industry" />
+                <ScalarProperty Name="Source" ColumnName="Source" />
+                <ScalarProperty Name="Author" ColumnName="Author" />
+                <ScalarProperty Name="PublishDate" ColumnName="PublishDate" />
+                <ScalarProperty Name="Content" ColumnName="Content" />
+                <ScalarProperty Name="PlainText" ColumnName="PlainText" />
+                <ScalarProperty Name="Filename" ColumnName="Filename" />
+                <ScalarProperty Name="CreatorID" ColumnName="CreatorID" />
+                <ScalarProperty Name="CreatorName" ColumnName="CreatorName" />
+                <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+                <ScalarProperty Name="ModifierID" ColumnName="ModifierID" />
+                <ScalarProperty Name="ModifierName" ColumnName="ModifierName" />
+                <ScalarProperty Name="ModifyTime" ColumnName="ModifyTime" />
+                <ScalarProperty Name="CheckOutID" ColumnName="CheckOutID" />
+                <ScalarProperty Name="CheckOutName" ColumnName="CheckOutName" />
+                <ScalarProperty Name="CheckOutTime" ColumnName="CheckOutTime" />
+                <ScalarProperty Name="ApproveID" ColumnName="ApproveID" />
+                <ScalarProperty Name="ApproveName" ColumnName="ApproveName" />
+                <ScalarProperty Name="ApproveTime" ColumnName="ApproveTime" />
+                <ScalarProperty Name="Note" ColumnName="Note" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ArticleCurrentAttachments">
+            <EntityTypeMapping TypeName="ZjspccmModel.ArticleCurrentAttachment">
+              <MappingFragment StoreEntitySet="ArticleCurrentAttachment">
+                <ScalarProperty Name="AttachmentGUID" ColumnName="AttachmentGUID" />
+                <ScalarProperty Name="ArticleGUID" ColumnName="ArticleGUID" />
+                <ScalarProperty Name="State" ColumnName="State" />
+                <ScalarProperty Name="IsPrimary" ColumnName="IsPrimary" />
+                <ScalarProperty Name="IsStoredInDB" ColumnName="IsStoredInDB" />
+                <ScalarProperty Name="IsInContent" ColumnName="IsInContent" />
+                <ScalarProperty Name="Filename" ColumnName="Filename" />
+                <ScalarProperty Name="FileType" ColumnName="FileType" />
+                <ScalarProperty Name="Content" ColumnName="Content" />
+                <ScalarProperty Name="ContentSize" ColumnName="ContentSize" />
+                <ScalarProperty Name="MIMEType" ColumnName="MIMEType" />
+                <ScalarProperty Name="Tag" ColumnName="Tag" />
+                <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+                <ScalarProperty Name="StorePath" ColumnName="StorePath" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ArticleCurrentOfCategories">
+            <EntityTypeMapping TypeName="ZjspccmModel.ArticleCurrentOfCategory">
+              <MappingFragment StoreEntitySet="ArticleCurrentOfCategory">
+                <ScalarProperty Name="ArticleGUID" ColumnName="ArticleGUID" />
+                <ScalarProperty Name="CategoryGUID" ColumnName="CategoryGUID" />
+                <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Categories">
+            <EntityTypeMapping TypeName="ZjspccmModel.Category">
+              <MappingFragment StoreEntitySet="Category">
+                <ScalarProperty Name="CategoryGUID" ColumnName="CategoryGUID" />
+                <ScalarProperty Name="CategoryAlias" ColumnName="CategoryAlias" />
+                <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+                <ScalarProperty Name="State" ColumnName="State" />
+                <ScalarProperty Name="IsInherit" ColumnName="IsInherit" />
+                <ScalarProperty Name="CategoryType" ColumnName="CategoryType" />
+                <ScalarProperty Name="SecretLevel" ColumnName="SecretLevel" />
+                <ScalarProperty Name="MustApproved" ColumnName="MustApproved" />
+                <ScalarProperty Name="CanComment" ColumnName="CanComment" />
+                <ScalarProperty Name="IsAttachmentInDB" ColumnName="IsAttachmentInDB" />
+                <ScalarProperty Name="PropertyDisplayInfo" ColumnName="PropertyDisplayInfo" />
+                <ScalarProperty Name="CreatorID" ColumnName="CreatorID" />
+                <ScalarProperty Name="CreatorName" ColumnName="CreatorName" />
+                <ScalarProperty Name="CreateTime" ColumnName="CreateTime" />
+                <ScalarProperty Name="ModifierID" ColumnName="ModifierID" />
+                <ScalarProperty Name="ModifierName" ColumnName="ModifierName" />
+                <ScalarProperty Name="ModifyTime" ColumnName="ModifyTime" />
+                <ScalarProperty Name="Note" ColumnName="Note" />
+                <ScalarProperty Name="ZJCategoryType" ColumnName="ZJCategoryType" />
+                <ScalarProperty Name="DicKeyNodeGUID" ColumnName="DicKeyNodeGUID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CategoryNodePositions">
+            <EntityTypeMapping TypeName="ZjspccmModel.CategoryNodePosition">
+              <MappingFragment StoreEntitySet="CategoryNodePosition">
+                <ScalarProperty Name="CategoryGUID" ColumnName="CategoryGUID" />
+                <ScalarProperty Name="CategoryPath" ColumnName="CategoryPath" />
+                <ScalarProperty Name="XIndex" ColumnName="XIndex" />
+                <ScalarProperty Name="YIndex" ColumnName="YIndex" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ArticleCurrentOfCategoryAlls">
+            <EntityTypeMapping TypeName="ZjspccmModel.ArticleCurrentOfCategoryAll">
+              <MappingFragment StoreEntitySet="ArticleCurrentOfCategoryAll">
+                <ScalarProperty Name="XIndexTime" ColumnName="XIndexTime" />
+                <ScalarProperty Name="CategoryGUID" ColumnName="CategoryGUID" />
+                <ScalarProperty Name="ArticleGUID" ColumnName="ArticleGUID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ArticleCurrentOfCategoryTops">
+            <EntityTypeMapping TypeName="ZjspccmModel.ArticleCurrentOfCategoryTop">
+              <MappingFragment StoreEntitySet="ArticleCurrentOfCategoryTop">
+                <ScalarProperty Name="XIndexTime" ColumnName="XIndexTime" />
+                <ScalarProperty Name="CategoryGUID" ColumnName="CategoryGUID" />
+                <ScalarProperty Name="ArticleGUID" ColumnName="ArticleGUID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2007/06/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="false" />
+        <DesignerProperty Name="UseLegacyProvider" Value="true" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

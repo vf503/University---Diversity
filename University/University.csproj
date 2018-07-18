@@ -1,0 +1,1126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A69B8E52-2FCA-4410-B4E4-64B4704310E1}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>colleges</RootNamespace>
+    <AssemblyName>colleges</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <TargetFrameworkProfile />
+    <Use64BitIISExpress />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Practices.ObjectBuilder, Version=1.0.51206.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="SystemFramework, Version=0.0.0.0, Culture=neutral" />
+    <Reference Include="USSLIB, Version=1.0.1507.29376, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\AjaxServerControl1\AjaxServerControl1\bin\USSLIB.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AdvanceSearchLite.aspx" />
+    <Content Include="Ajax.aspx" />
+    <Content Include="AjaxLite.aspx" />
+    <Content Include="bin\Newtonsoft.Json.dll" />
+    <Content Include="Default.aspx" />
+    <Content Include="FooterLite.aspx" />
+    <Content Include="HomeLite.aspx" />
+    <Content Include="Level3ClassLite.aspx" />
+    <Content Include="Level2GroupLite.aspx" />
+    <Content Include="Level2Lite.aspx" />
+    <Content Include="Level2LiteFame.aspx" />
+    <Content Include="Level3FameEmbed.aspx" />
+    <Content Include="Level3GroupLite.aspx" />
+    <Content Include="Level3Lite.aspx" />
+    <Content Include="Level3NaviLite.aspx" />
+    <Content Include="PicFocusPicLite.aspx" />
+    <Content Include="PicFocusTxtLite.aspx" />
+    <Content Include="Scripts\content.js" />
+    <Content Include="Scripts\jquery-1.7.2.min.js" />
+    <Content Include="Scripts\jquery-ui-1.10.3.custom.js" />
+    <Content Include="Scripts\jquery-ui-1.10.3.custom.min.js" />
+    <Content Include="Scripts\jquery.KinSlideshow-1.2.1.min.js" />
+    <Content Include="Scripts\jquery.timer.js" />
+    <Content Include="Scripts\miniui\locale\en_US.js" />
+    <Content Include="Scripts\miniui\locale\zh_CN.js" />
+    <Content Include="Scripts\miniui\miniui.js" />
+    <Content Include="Scripts\miniui\themes\blue\images\buttonedit\arrow.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\buttonedit\arrow_down.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\buttonedit\arrow_up.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\buttonedit\btn-hover.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\buttonedit\btn-pressed.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\buttonedit\btn.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\buttonedit\date.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\buttonedit\icon1.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\buttonedit\text-bg.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\button\button.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\button\hover.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\button\pressed.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\calendar\button.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\calendar\footer.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\calendar\header.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\grid\footer.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\grid\header.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\layout\east.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\layout\header.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\layout\north.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\layout\south.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\layout\west.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\listbox\header.png" />
+    <Content Include="Scripts\miniui\themes\blue\images\menu\hmenu.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\menu\hover.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\menu\menu-hover.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\menu\menu.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\menu\pressed.png" />
+    <Content Include="Scripts\miniui\themes\blue\images\navbar\collapse.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\navbar\expand.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\navbar\header.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\pager\first.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\pager\last.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\pager\next.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\pager\prev.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\panel\header.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\tabs\hover.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\tabs\pressed.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\tabs\tab.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\toolbar\toolbar.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\tools\close.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\tools\collapse.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\tools\expand.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\treegrid\collapse.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\treegrid\expand.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\treegrid\file.png" />
+    <Content Include="Scripts\miniui\themes\blue\images\treegrid\folder.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\treegrid\header.png" />
+    <Content Include="Scripts\miniui\themes\blue\images\tree\button.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\tree\folder-open.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\tree\folder.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\tree\hover.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\tree\leaf.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\tree\pressed.gif" />
+    <Content Include="Scripts\miniui\themes\blue\images\window\header.gif" />
+    <Content Include="Scripts\miniui\themes\blue\skin.css" />
+    <Content Include="Scripts\miniui\themes\default\images\buttonedit\button.png" />
+    <Content Include="Scripts\miniui\themes\default\images\buttonedit\close.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\buttonedit\date.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\buttonedit\down.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\buttonedit\error.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\buttonedit\hover.png" />
+    <Content Include="Scripts\miniui\themes\default\images\buttonedit\icon1.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\buttonedit\icon2.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\buttonedit\pressed.png" />
+    <Content Include="Scripts\miniui\themes\default\images\buttonedit\up.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\buttonedit\_icon3.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\button\button.png" />
+    <Content Include="Scripts\miniui\themes\default\images\button\disabled.png" />
+    <Content Include="Scripts\miniui\themes\default\images\button\hover.png" />
+    <Content Include="Scripts\miniui\themes\default\images\button\icons.png" />
+    <Content Include="Scripts\miniui\themes\default\images\button\menu_arrow.png" />
+    <Content Include="Scripts\miniui\themes\default\images\button\pressed.png" />
+    <Content Include="Scripts\miniui\themes\default\images\button\split-allow-bottom.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\button\split_arrow.png" />
+    <Content Include="Scripts\miniui\themes\default\images\calendar\button.png" />
+    <Content Include="Scripts\miniui\themes\default\images\calendar\header.png" />
+    <Content Include="Scripts\miniui\themes\default\images\calendar\months.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\calendar\next.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\calendar\prev.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\datepicker\date.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\dragdrop\drop-add.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\dragdrop\drop-between.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\dragdrop\drop-no.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\dragdrop\drop-over.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\dragdrop\drop-under.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\dragdrop\drop-yes.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\arrow_blue_down.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\arrow_blue_left.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\arrow_blue_right.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\arrow_blue_up.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\arrow_red_down.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\arrow_red_left.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\arrow_red_right.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\arrow_red_up.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\baseline-milestone.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\collapse.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\constraint-finish.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\constraint-start.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\expand.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\finished.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\gvdp.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\header.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\header_bg.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\milestone-red.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\milestone.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\ms-task.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\notes.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\offday.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\summary-top.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\summary.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\summary2.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\taskbg.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\taskbg2.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\taskstatus.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\title_bg.png" />
+    <Content Include="Scripts\miniui\themes\default\images\gantt\warning.png" />
+    <Content Include="Scripts\miniui\themes\default\images\grid\col-move-bottom.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\grid\col-move-top.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\grid\collapse.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\grid\dirty.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\grid\expand.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\grid\footer.png" />
+    <Content Include="Scripts\miniui\themes\default\images\grid\header.png" />
+    <Content Include="Scripts\miniui\themes\default\images\grid\icons.png" />
+    <Content Include="Scripts\miniui\themes\default\images\grid\loading.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\grid\no.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\grid\ok.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\grid\resize.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\grid\sort_asc.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\grid\sort_desc.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\layout\east.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\layout\header.png" />
+    <Content Include="Scripts\miniui\themes\default\images\layout\north.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\layout\south.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\layout\west.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\listbox\error.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\listbox\header.png" />
+    <Content Include="Scripts\miniui\themes\default\images\menu\arrow.png" />
+    <Content Include="Scripts\miniui\themes\default\images\menu\bottom-arrow.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\menu\checked.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\menu\hallow.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\menu\hmenubg.png" />
+    <Content Include="Scripts\miniui\themes\default\images\menu\item.png" />
+    <Content Include="Scripts\miniui\themes\default\images\menu\menubg.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\menu\pressed.png" />
+    <Content Include="Scripts\miniui\themes\default\images\menu\top-arrow.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\messagebox\icon-error.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\messagebox\icon-info.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\messagebox\icon-question.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\messagebox\icon-warning.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\messagebox\loading.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\mygantt\header.png" />
+    <Content Include="Scripts\miniui\themes\default\images\navbar\header.png" />
+    <Content Include="Scripts\miniui\themes\default\images\pager\first.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\pager\last.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\pager\next.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\pager\prev.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\pager\reload.png" />
+    <Content Include="Scripts\miniui\themes\default\images\panel\header.png" />
+    <Content Include="Scripts\miniui\themes\default\images\panel\resize.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\rgantt\bg.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\rgantt\cancel.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\rgantt\hdbg.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\rgantt\pc.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\rgantt\pc_03.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\splitter\buttons.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\splitter\mini-bottom.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\splitter\mini-left.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\splitter\mini-right.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\splitter\mini-top.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\splitter\resize.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\splitter\resize_h.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\btn.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\col-move-bottom.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\col-move-top.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\datagrid_header_bg.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\datagrid_row_collapse.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\datagrid_row_expand.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\datagrid_sort_asc.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\datagrid_sort_desc.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\datagrid_title_bg.png" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\dirty.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\header-hover.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\header-pressed.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\header.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\invalid_line.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\loading.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\no.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\ok.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\rowselected.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\row_collapse.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\row_expand.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\sort_asc.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\sort_desc.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supergrid\title_bg.png" />
+    <Content Include="Scripts\miniui\themes\default\images\supertree\arrows.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supertree\collapse.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supertree\expand.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supertree\file.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supertree\folder-open.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supertree\folder.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\supertree\loading.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tabs\allow_left.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tabs\allow_right.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tabs\close.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tabs\hover.png" />
+    <Content Include="Scripts\miniui\themes\default\images\tabs\tab.png" />
+    <Content Include="Scripts\miniui\themes\default\images\textboxlist\close.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\textboxlist\error.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\textboxlist\loading.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\textbox\error.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\toolbar\toolbar.png" />
+    <Content Include="Scripts\miniui\themes\default\images\tools\close.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tools\collapse.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tools\expand.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tools\max.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tools\min.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tools\refresh.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tools\restore.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tools\search.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\treegrid\collapse.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\treegrid\expand.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\treegrid\file.png" />
+    <Content Include="Scripts\miniui\themes\default\images\treegrid\folder.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\treegrid\loading.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\arrows.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\button.png" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\collapse.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\collapseLine.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\expand.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\expandLine.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\file.png" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\firstAndlastcollapse.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\firstAndlastexpand.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\firstCollapseNode.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\firstExpandNode.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\folder-open.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\folder.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\hover.png" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\lastCollapseNode.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\lastExpandNode.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\lastline.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\leaf.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\loading.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\radio_checked.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\radio_unchecked.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\treeline.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\tree\treeNodeLine.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\window\footer.png" />
+    <Content Include="Scripts\miniui\themes\default\images\window\header.png" />
+    <Content Include="Scripts\miniui\themes\default\images\_pager\first.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\_pager\last.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\_pager\next.gif" />
+    <Content Include="Scripts\miniui\themes\default\images\_pager\prev.gif" />
+    <Content Include="Scripts\miniui\themes\default\miniui.css" />
+    <Content Include="Scripts\miniui\themes\icons.css" />
+    <Content Include="Scripts\miniui\themes\icons\add.gif" />
+    <Content Include="Scripts\miniui\themes\icons\addfolder.gif" />
+    <Content Include="Scripts\miniui\themes\icons\addnew.gif" />
+    <Content Include="Scripts\miniui\themes\icons\cancel.gif" />
+    <Content Include="Scripts\miniui\themes\icons\collapse.gif" />
+    <Content Include="Scripts\miniui\themes\icons\cut.png" />
+    <Content Include="Scripts\miniui\themes\icons\date.gif" />
+    <Content Include="Scripts\miniui\themes\icons\downgrade.gif" />
+    <Content Include="Scripts\miniui\themes\icons\download.gif" />
+    <Content Include="Scripts\miniui\themes\icons\edit.gif" />
+    <Content Include="Scripts\miniui\themes\icons\expand.gif" />
+    <Content Include="Scripts\miniui\themes\icons\filter.gif" />
+    <Content Include="Scripts\miniui\themes\icons\find.png" />
+    <Content Include="Scripts\miniui\themes\icons\folder-open.gif" />
+    <Content Include="Scripts\miniui\themes\icons\folder.gif" />
+    <Content Include="Scripts\miniui\themes\icons\goto.gif" />
+    <Content Include="Scripts\miniui\themes\icons\help.gif" />
+    <Content Include="Scripts\miniui\themes\icons\help.png" />
+    <Content Include="Scripts\miniui\themes\icons\lock.png" />
+    <Content Include="Scripts\miniui\themes\icons\new.gif" />
+    <Content Include="Scripts\miniui\themes\icons\no.png" />
+    <Content Include="Scripts\miniui\themes\icons\node.png" />
+    <Content Include="Scripts\miniui\themes\icons\noimage.gif" />
+    <Content Include="Scripts\miniui\themes\icons\nowait.gif" />
+    <Content Include="Scripts\miniui\themes\icons\ok.png" />
+    <Content Include="Scripts\miniui\themes\icons\open.gif" />
+    <Content Include="Scripts\miniui\themes\icons\print.gif" />
+    <Content Include="Scripts\miniui\themes\icons\redo.gif" />
+    <Content Include="Scripts\miniui\themes\icons\reload.png" />
+    <Content Include="Scripts\miniui\themes\icons\remove.gif" />
+    <Content Include="Scripts\miniui\themes\icons\save.gif" />
+    <Content Include="Scripts\miniui\themes\icons\search.gif" />
+    <Content Include="Scripts\miniui\themes\icons\sort.gif" />
+    <Content Include="Scripts\miniui\themes\icons\split.gif" />
+    <Content Include="Scripts\miniui\themes\icons\tip.png" />
+    <Content Include="Scripts\miniui\themes\icons\undo.gif" />
+    <Content Include="Scripts\miniui\themes\icons\unlock.gif" />
+    <Content Include="Scripts\miniui\themes\icons\upgrade.gif" />
+    <Content Include="Scripts\miniui\themes\icons\upload.gif" />
+    <Content Include="Scripts\miniui\themes\icons\user.png" />
+    <Content Include="Scripts\miniui\themes\icons\wait.gif" />
+    <Content Include="Scripts\miniui\themes\icons\warning.png" />
+    <Content Include="Scripts\miniui\themes\icons\zoomin.gif" />
+    <Content Include="Scripts\miniui\themes\icons\zoomout.gif" />
+    <Content Include="Scripts\miniui\themes\icons\_help.png" />
+    <Content Include="Scripts\slide.js" />
+    <Content Include="SearchLite.aspx" />
+    <Content Include="ShowSummary.aspx" />
+    <Content Include="ShowVideo.aspx" />
+    <Content Include="SpecialAttention.aspx" />
+    <Content Include="SpecialAttentionLite.aspx" />
+    <Content Include="SpecialIndexLite.aspx" />
+    <Content Include="Styles\DefaultLayout.css" />
+    <Content Include="Styles\DefaultLayoutLite.css" />
+    <Content Include="Styles\images\animated-overlay.gif" />
+    <Content Include="Styles\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="Styles\images\ui-bg_flat_100_1772dd_40x100.png" />
+    <Content Include="Styles\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="Styles\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="Styles\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="Styles\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="Styles\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="Styles\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="Styles\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="Styles\images\ui-icons_222222_256x240.png" />
+    <Content Include="Styles\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="Styles\images\ui-icons_454545_256x240.png" />
+    <Content Include="Styles\images\ui-icons_888888_256x240.png" />
+    <Content Include="Styles\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="Styles\images\_ui-bg_flat_100_1772dd_40x100.png" />
+    <Content Include="Styles\jquery-ui-1.10.3.custom.css" />
+    <Content Include="Styles\jquery-ui-1.10.3.custom.min.css" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="Styles\zTreeStyle\img\diy\1.png" />
+    <Content Include="Styles\zTreeStyle\img\diy\10.png" />
+    <Content Include="Styles\zTreeStyle\img\diy\1_close.png" />
+    <Content Include="Styles\zTreeStyle\img\diy\1_open.png" />
+    <Content Include="Styles\zTreeStyle\img\diy\2.png" />
+    <Content Include="Styles\zTreeStyle\img\diy\3.png" />
+    <Content Include="Styles\zTreeStyle\img\diy\4.png" />
+    <Content Include="Styles\zTreeStyle\img\diy\5.png" />
+    <Content Include="Styles\zTreeStyle\img\diy\6.png" />
+    <Content Include="Styles\zTreeStyle\img\diy\7.png" />
+    <Content Include="Styles\zTreeStyle\img\diy\8.png" />
+    <Content Include="Styles\zTreeStyle\img\diy\9.png" />
+    <Content Include="Styles\zTreeStyle\img\diy\folder_new.png" />
+    <Content Include="Styles\zTreeStyle\img\diy\folder_new_close.png" />
+    <Content Include="Styles\zTreeStyle\img\diy\folder_new_open.png" />
+    <Content Include="Styles\zTreeStyle\img\line_conn.gif" />
+    <Content Include="Styles\zTreeStyle\img\loading.gif" />
+    <Content Include="Styles\zTreeStyle\img\new.gif" />
+    <Content Include="Styles\zTreeStyle\img\zTreeStandard.gif" />
+    <Content Include="Styles\zTreeStyle\img\zTreeStandard.png" />
+    <Content Include="Styles\zTreeStyle\zTreeStyle.css" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdvanceSearch.aspx.cs">
+      <DependentUpon>AdvanceSearch.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdvanceSearch.aspx.designer.cs">
+      <DependentUpon>AdvanceSearch.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdvanceSearchLite.aspx.cs">
+      <DependentUpon>AdvanceSearchLite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdvanceSearchLite.aspx.designer.cs">
+      <DependentUpon>AdvanceSearchLite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Ajax.aspx.cs">
+      <DependentUpon>Ajax.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ajax.aspx.designer.cs">
+      <DependentUpon>Ajax.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AjaxLite.aspx.cs">
+      <DependentUpon>AjaxLite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AjaxLite.aspx.designer.cs">
+      <DependentUpon>AjaxLite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CodeFiles\BasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CodeFiles\Category.cs" />
+    <Compile Include="CodeFiles\CountModule.cs" />
+    <Compile Include="CodeFiles\CustomModule.cs" />
+    <Compile Include="CodeFiles\DataProcessing.cs" />
+    <Compile Include="CodeFiles\DataQuery.cs" />
+    <Compile Include="CodeFiles\JsonDate.cs" />
+    <Compile Include="CodeFiles\WebModules\Home.cs" />
+    <Compile Include="CodeFiles\WebModules\Level2.cs" />
+    <Compile Include="DataAdapter\common.ashx.cs">
+      <DependentUpon>common.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="DataAdapter\lite.ashx.cs">
+      <DependentUpon>lite.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="DataAdapter\main.ashx.cs">
+      <DependentUpon>main.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EF\ccm.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ccm.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="embed.aspx.cs">
+      <DependentUpon>embed.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="embed.aspx.designer.cs">
+      <DependentUpon>embed.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EmbedIndex.aspx.cs">
+      <DependentUpon>EmbedIndex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EmbedIndex.aspx.designer.cs">
+      <DependentUpon>EmbedIndex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="footer.aspx.cs">
+      <DependentUpon>footer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="footer.aspx.designer.cs">
+      <DependentUpon>footer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FooterLite.aspx.cs">
+      <DependentUpon>FooterLite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FooterLite.aspx.designer.cs">
+      <DependentUpon>FooterLite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="HomeLite.aspx.cs">
+      <DependentUpon>HomeLite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HomeLite.aspx.designer.cs">
+      <DependentUpon>HomeLite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="index2.aspx.cs">
+      <DependentUpon>index2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index2.aspx.designer.cs">
+      <DependentUpon>index2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="level2.aspx.cs">
+      <DependentUpon>level2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="level2.aspx.designer.cs">
+      <DependentUpon>level2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Level2Class.aspx.cs">
+      <DependentUpon>Level2Class.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Level2Class.aspx.designer.cs">
+      <DependentUpon>Level2Class.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Level3ClassLite.aspx.cs">
+      <DependentUpon>Level3ClassLite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Level3ClassLite.aspx.designer.cs">
+      <DependentUpon>Level3ClassLite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Level2Fame.aspx.cs">
+      <DependentUpon>Level2Fame.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Level2Fame.aspx.designer.cs">
+      <DependentUpon>Level2Fame.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Level2GroupLite.aspx.cs">
+      <DependentUpon>Level2GroupLite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Level2GroupLite.aspx.designer.cs">
+      <DependentUpon>Level2GroupLite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Level2Lite.aspx.cs">
+      <DependentUpon>Level2Lite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Level2Lite.aspx.designer.cs">
+      <DependentUpon>Level2Lite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Level2LiteFame.aspx.cs">
+      <DependentUpon>Level2LiteFame.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Level2LiteFame.aspx.designer.cs">
+      <DependentUpon>Level2LiteFame.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Level2News.aspx.cs">
+      <DependentUpon>Level2News.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Level2News.aspx.designer.cs">
+      <DependentUpon>Level2News.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="level3.aspx.cs">
+      <DependentUpon>level3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="level3.aspx.designer.cs">
+      <DependentUpon>level3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Level3Ajax.aspx.cs">
+      <DependentUpon>Level3Ajax.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Level3Ajax.aspx.designer.cs">
+      <DependentUpon>Level3Ajax.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Level3Class.aspx.cs">
+      <DependentUpon>Level3Class.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Level3Class.aspx.designer.cs">
+      <DependentUpon>Level3Class.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Level3Fame.aspx.cs">
+      <DependentUpon>Level3Fame.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Level3Fame.aspx.designer.cs">
+      <DependentUpon>Level3Fame.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Level3FameEmbed.aspx.cs">
+      <DependentUpon>Level3FameEmbed.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Level3FameEmbed.aspx.designer.cs">
+      <DependentUpon>Level3FameEmbed.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Level3GroupLite.aspx.cs">
+      <DependentUpon>Level3GroupLite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Level3GroupLite.aspx.designer.cs">
+      <DependentUpon>Level3GroupLite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Level3Hot.aspx.cs">
+      <DependentUpon>Level3Hot.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Level3Hot.aspx.designer.cs">
+      <DependentUpon>Level3Hot.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Level3List.aspx.cs">
+      <DependentUpon>Level3List.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Level3List.aspx.designer.cs">
+      <DependentUpon>Level3List.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Level3Lite.aspx.cs">
+      <DependentUpon>Level3Lite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Level3Lite.aspx.designer.cs">
+      <DependentUpon>Level3Lite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Level3Navi.aspx.cs">
+      <DependentUpon>Level3Navi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Level3Navi.aspx.designer.cs">
+      <DependentUpon>Level3Navi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Level3NaviLite.aspx.cs">
+      <DependentUpon>Level3NaviLite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Level3NaviLite.aspx.designer.cs">
+      <DependentUpon>Level3NaviLite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="login.aspx.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="login.aspx.designer.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPager\AdvSearch.Master.cs">
+      <DependentUpon>AdvSearch.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPager\AdvSearch.Master.designer.cs">
+      <DependentUpon>AdvSearch.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPager\AdvSearchLite.Master.cs">
+      <DependentUpon>AdvSearchLite.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPager\AdvSearchLite.Master.designer.cs">
+      <DependentUpon>AdvSearchLite.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPager\Home.Master.cs">
+      <DependentUpon>Home.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPager\Home.Master.designer.cs">
+      <DependentUpon>Home.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPager\HomeLite.Master.cs">
+      <DependentUpon>HomeLite.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPager\HomeLite.Master.designer.cs">
+      <DependentUpon>HomeLite.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPager\Level2.Master.cs">
+      <DependentUpon>Level2.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPager\Level2.Master.designer.cs">
+      <DependentUpon>Level2.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPager\Level2Lite.Master.cs">
+      <DependentUpon>Level2Lite.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPager\Level2Lite.Master.designer.cs">
+      <DependentUpon>Level2Lite.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPager\Normal.Master.cs">
+      <DependentUpon>Normal.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPager\Normal.Master.designer.cs">
+      <DependentUpon>Normal.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPager\PicNews.Master.cs">
+      <DependentUpon>PicNews.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPager\PicNews.Master.designer.cs">
+      <DependentUpon>PicNews.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPager\PicNewsLite.Master.cs">
+      <DependentUpon>PicNewsLite.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPager\PicNewsLite.Master.designer.cs">
+      <DependentUpon>PicNewsLite.Master</DependentUpon>
+    </Compile>
+    <Compile Include="navigate.aspx.cs">
+      <DependentUpon>navigate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="navigate.aspx.designer.cs">
+      <DependentUpon>navigate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PicFocusPic.aspx.cs">
+      <DependentUpon>PicFocusPic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PicFocusPic.aspx.designer.cs">
+      <DependentUpon>PicFocusPic.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PicFocusPicLite.aspx.cs">
+      <DependentUpon>PicFocusPicLite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PicFocusPicLite.aspx.designer.cs">
+      <DependentUpon>PicFocusPicLite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PicFocusTxt.aspx.cs">
+      <DependentUpon>PicFocusTxt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PicFocusTxt.aspx.designer.cs">
+      <DependentUpon>PicFocusTxt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PicFocusTxtLite.aspx.cs">
+      <DependentUpon>PicFocusTxtLite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PicFocusTxtLite.aspx.designer.cs">
+      <DependentUpon>PicFocusTxtLite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Search.aspx.cs">
+      <DependentUpon>Search.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Search.aspx.designer.cs">
+      <DependentUpon>Search.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchLite.aspx.cs">
+      <DependentUpon>SearchLite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchLite.aspx.designer.cs">
+      <DependentUpon>SearchLite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ShowBytePic.aspx.cs">
+      <DependentUpon>ShowBytePic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ShowBytePic.aspx.designer.cs">
+      <DependentUpon>ShowBytePic.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ShowSummary.aspx.cs">
+      <DependentUpon>ShowSummary.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ShowSummary.aspx.designer.cs">
+      <DependentUpon>ShowSummary.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ShowVideo.aspx.cs">
+      <DependentUpon>ShowVideo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ShowVideo.aspx.designer.cs">
+      <DependentUpon>ShowVideo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ShowVideoBeta.aspx.cs">
+      <DependentUpon>ShowVideoBeta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ShowVideoBeta.aspx.designer.cs">
+      <DependentUpon>ShowVideoBeta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ShowZTImage.aspx.cs">
+      <DependentUpon>ShowZTImage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ShowZTImage.aspx.designer.cs">
+      <DependentUpon>ShowZTImage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SiteLite.Master.cs">
+      <DependentUpon>SiteLite.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SiteLite.Master.designer.cs">
+      <DependentUpon>SiteLite.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SpecialAttention.aspx.cs">
+      <DependentUpon>SpecialAttention.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SpecialAttention.aspx.designer.cs">
+      <DependentUpon>SpecialAttention.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SpecialAttentionLite.aspx.cs">
+      <DependentUpon>SpecialAttentionLite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SpecialAttentionLite.aspx.designer.cs">
+      <DependentUpon>SpecialAttentionLite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SpecialHistory.aspx.cs">
+      <DependentUpon>SpecialHistory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SpecialHistory.aspx.designer.cs">
+      <DependentUpon>SpecialHistory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SpecialIndex.aspx.cs">
+      <DependentUpon>SpecialIndex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SpecialIndex.aspx.designer.cs">
+      <DependentUpon>SpecialIndex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="level3pager.aspx.cs">
+      <DependentUpon>level3pager.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="level3pager.aspx.designer.cs">
+      <DependentUpon>level3pager.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SpecialIndexLite.aspx.cs">
+      <DependentUpon>SpecialIndexLite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SpecialIndexLite.aspx.designer.cs">
+      <DependentUpon>SpecialIndexLite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SpotIndex.aspx.cs">
+      <DependentUpon>SpotIndex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SpotIndex.aspx.designer.cs">
+      <DependentUpon>SpotIndex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestPic.aspx.cs">
+      <DependentUpon>TestPic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestPic.aspx.designer.cs">
+      <DependentUpon>TestPic.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.aspx.cs">
+      <DependentUpon>Welcome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Welcome.aspx.designer.cs">
+      <DependentUpon>Welcome.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\AspNetPager.dll" />
+    <Content Include="bin\AspNetPager.pdb" />
+    <Content Include="bin\colleges.dll" />
+    <Content Include="bin\DAL.dll" />
+    <Content Include="bin\DAL.pdb" />
+    <Content Include="bin\en\AspNetPager.resources.dll" />
+    <Content Include="bin\Microsoft.Practices.EnterpriseLibrary.Common.dll" />
+    <Content Include="bin\Microsoft.Practices.EnterpriseLibrary.Data.dll" />
+    <Content Include="bin\Microsoft.Practices.ObjectBuilder.dll" />
+    <Content Include="bin\Model.dll" />
+    <Content Include="bin\Model.pdb" />
+    <Content Include="bin\SystemFramework.dll" />
+    <Content Include="bin\USSLIB.dll" />
+    <Content Include="bin\zh-CHT\AspNetPager.resources.dll" />
+    <Content Include="embed.aspx" />
+    <Content Include="EmbedIndex.aspx" />
+    <Content Include="footer.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="index.aspx" />
+    <Content Include="index2.aspx" />
+    <Content Include="level2.aspx" />
+    <Content Include="level2.html" />
+    <Content Include="Level2Class.aspx" />
+    <Content Include="Level2Fame.aspx" />
+    <Content Include="Level2Fame.html" />
+    <Content Include="Level2News.aspx" />
+    <Content Include="level3.aspx" />
+    <Content Include="Level3Ajax.aspx" />
+    <Content Include="Level3Class.aspx" />
+    <Content Include="Level3Fame.aspx" />
+    <Content Include="Level3Hot.aspx" />
+    <Content Include="Level3List.aspx" />
+    <Content Include="Level3Navi.aspx" />
+    <Content Include="Levet2News.html" />
+    <Content Include="login.aspx" />
+    <Content Include="MasterPager\Normal.Master" />
+    <Content Include="MasterPager\PicNews.Master" />
+    <Content Include="MasterPager\Level2.Master" />
+    <Content Include="MasterPager\AdvSearch.Master" />
+    <Content Include="MasterPager\Home.Master" />
+    <Content Include="DataAdapter\main.ashx" />
+    <Content Include="MasterPager\HomeLite.Master" />
+    <EntityDeploy Include="EF\ccm.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ccm.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <Content Include="EF\ccm.edmx.diagram">
+      <DependentUpon>ccm.edmx</DependentUpon>
+    </Content>
+    <Content Include="MasterPager\Level2Lite.Master" />
+    <Content Include="DataAdapter\lite.ashx" />
+    <Content Include="JsonData\zt.json" />
+    <Content Include="JsonData\xk.json" />
+    <Content Include="JsonData\qy.json" />
+    <Content Include="MasterPager\AdvSearchLite.Master" />
+    <Content Include="MasterPager\PicNewsLite.Master" />
+    <Content Include="DataAdapter\common.ashx" />
+    <None Include="Properties\PublishProfiles\test.pubxml" />
+    <None Include="Scripts\miniui\locale\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\blue\images\buttonedit\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\blue\images\button\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\blue\images\calendar\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\blue\images\grid\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\blue\images\layout\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\blue\images\listbox\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\blue\images\menu\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\blue\images\navbar\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\blue\images\pager\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\blue\images\panel\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\blue\images\tabs\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\blue\images\toolbar\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\blue\images\tools\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\blue\images\treegrid\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\blue\images\tree\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\blue\images\window\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\blue\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\buttonedit\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\button\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\calendar\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\datepicker\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\dragdrop\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\gantt\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\grid\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\layout\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\listbox\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\menu\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\messagebox\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\mygantt\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\navbar\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\pager\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\panel\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\rgantt\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\splitter\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\supergrid\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\supertree\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\tabs\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\textboxlist\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\textbox\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\toolbar\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\tools\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\treegrid\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\tree\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\window\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\images\_pager\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\default\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\icons\MSSCCPRJ.SCC" />
+    <None Include="Scripts\miniui\themes\MSSCCPRJ.SCC" />
+    <Content Include="AdvanceSearch.aspx" />
+    <Content Include="navigate.aspx" />
+    <Content Include="PicFocusPic.aspx" />
+    <Content Include="PicFocusTxt.aspx" />
+    <Content Include="Scripts\boot.js" />
+    <Content Include="Scripts\jquery-1.9.1.js" />
+    <Content Include="Scripts\jquery-ui-tabs-rotate.js" />
+    <Content Include="Scripts\jquery-webox.js" />
+    <Content Include="Scripts\jquery.tabs.js" />
+    <Content Include="Search.aspx" />
+    <Content Include="ShowBytePic.aspx" />
+    <Content Include="ShowVideoBeta.aspx" />
+    <Content Include="ShowZTImage.aspx" />
+    <Content Include="Site.Master" />
+    <Content Include="SpecialHistory.aspx" />
+    <Content Include="SpecialIndex.aspx" />
+    <Content Include="SpotIndex.aspx" />
+    <Content Include="Styles\DefaultLayoutIE6.css" />
+    <Content Include="Styles\jquery-webox.css" />
+    <Content Include="Styles\modalPopLite.css" />
+    <Content Include="Styles\Style.css" />
+    <Content Include="test.htm" />
+    <Content Include="level3pager.aspx" />
+    <Content Include="TestPic.aspx" />
+    <Content Include="Welcome.aspx" />
+    <Content Include="SiteLite.Master" />
+    <None Include="Styles\zTreeStyle\img\diy\MSSCCPRJ.SCC" />
+    <None Include="Styles\zTreeStyle\img\MSSCCPRJ.SCC" />
+    <None Include="Styles\zTreeStyle\MSSCCPRJ.SCC" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AspNetPager\AspNetPager.csproj">
+      <Project>{66306F5B-FCDA-44D8-818C-AC521B12AD6B}</Project>
+      <Name>AspNetPager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{C362AFFE-7D43-4F8B-875B-5C0B046CBC69}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{5C71F157-AD76-4FD8-9976-1D9F88B705E1}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>59177</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

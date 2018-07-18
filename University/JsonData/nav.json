@@ -1,0 +1,59 @@
+﻿[
+    {
+        "text": "技能培训专题",
+        "icon": "glyphicon glyphicon-book",
+        "nodes": [
+            {
+                "text": "计算机基础",
+                "icon": "glyphicon glyphicon-chevron-down",
+                "nodes": [
+                   
+                ]
+            },
+            {
+                "text": "外国学习",
+                "icon": "glyphicon glyphicon-chevron-down"
+            },
+            {
+                "text": "走遍美国",
+                "icon": "glyphicon glyphicon-chevron-down"
+            }  
+        ]
+    },
+    {
+        "text": "宏观经济专题",
+        "icon": "glyphicon glyphicon-book",
+        "nodes": [
+            {
+                "text": "经济每月谈",
+                "icon": "glyphicon glyphicon-chevron-down"
+            },
+            {
+                "text": "CMRC中国经济观察",
+                "icon": "glyphicon glyphicon-chevron-down"
+            },
+            {
+                "text": "CMRCff经济观察",
+                "icon": "glyphicon glyphicon-chevron-down"
+            }
+        ]
+    },
+    {
+        "text": "区域发展专题",
+        "icon": "glyphicon glyphicon-book",
+        "nodes": [
+            {
+                "text": "区域发展理论思想",
+                "icon": "glyphiconglyphicon-chevron-down"
+            },
+            {
+                "text": "区域协调发展",
+                "icon": "glyphiconglyphicon-chevron-down"
+            },
+            {
+                "text": "行业发展",
+                "icon": "glyphiconglyphicon-chevron-down"
+            }
+        ]
+    }
+]

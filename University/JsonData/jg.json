@@ -1,0 +1,879 @@
+[
+  {
+    "id": "0cb86341b1514ac6ba3552f9716cd0c8",
+    "text": "政府部门",
+    "href": "Level2Lite.aspx?id=0cb86341b1514ac6ba3552f9716cd0c8",
+    "nodes": [
+      {
+        "id": "1cd64541ea244006b9135373fba6e812",
+        "text": "国家发展和改革委员会",
+        "href": "Level2Lite.aspx?id=1cd64541ea244006b9135373fba6e812"
+      },
+      {
+        "id": "28916773a4434d9dac3e47077988b26a",
+        "text": "财政部",
+        "href": "Level2Lite.aspx?id=28916773a4434d9dac3e47077988b26a"
+      },
+      {
+        "id": "ca4ebba0dcd944d69efb1b409ae22760",
+        "text": "工业和信息化部",
+        "href": "Level2Lite.aspx?id=ca4ebba0dcd944d69efb1b409ae22760"
+      },
+      {
+        "id": "d019658d23184f7d921a7f5471c60400",
+        "text": "商务部",
+        "href": "Level2Lite.aspx?id=d019658d23184f7d921a7f5471c60400"
+      },
+      {
+        "id": "d4ab928102ad4ef19b24c646b384588f",
+        "text": "国家信息中心",
+        "href": "Level2Lite.aspx?id=d4ab928102ad4ef19b24c646b384588f"
+      },
+      {
+        "id": "926dcab9ec0f4dcbbbc6494a94538b4c",
+        "text": "中国人民银行",
+        "href": "Level2Lite.aspx?id=926dcab9ec0f4dcbbbc6494a94538b4c"
+      },
+      {
+        "id": "8b2b0432f15d48ffaa566b9ae9a4c4c3",
+        "text": "环境保护部",
+        "href": "Level2Lite.aspx?id=8b2b0432f15d48ffaa566b9ae9a4c4c3"
+      },
+      {
+        "id": "c352c94d9b9945378c96924fdee016ff",
+        "text": "农业部",
+        "href": "Level2Lite.aspx?id=c352c94d9b9945378c96924fdee016ff"
+      },
+      {
+        "id": "61b47b3d7fae40749db342b239e1e91f",
+        "text": "住房和城乡建设部",
+        "href": "Level2Lite.aspx?id=61b47b3d7fae40749db342b239e1e91f"
+      },
+      {
+        "id": "a46d58b5afee4d6b8e038eaa50d3c072",
+        "text": "科学技术部",
+        "href": "Level2Lite.aspx?id=a46d58b5afee4d6b8e038eaa50d3c072"
+      },
+      {
+        "id": "1f96b3a0a3ce4c7ea5270e65a7d5ed82",
+        "text": "中国证券监督管理委员会",
+        "href": "Level2Lite.aspx?id=1f96b3a0a3ce4c7ea5270e65a7d5ed82"
+      },
+      {
+        "id": "d09da4d3cdd642ab819b8444e8a4a057",
+        "text": "人力资源和社会保障部",
+        "href": "Level2Lite.aspx?id=d09da4d3cdd642ab819b8444e8a4a057"
+      },
+      {
+        "id": "6d8777affc0443659e633185341c747c",
+        "text": "国土资源部",
+        "href": "Level2Lite.aspx?id=6d8777affc0443659e633185341c747c"
+      },
+      {
+        "id": "26fb654c1f3141e797bd82dc1a13120d",
+        "text": "国务院国有资产监督管理委员会",
+        "href": "Level2Lite.aspx?id=26fb654c1f3141e797bd82dc1a13120d"
+      },
+      {
+        "id": "945d5f1c274a494d8cbe19660400964f",
+        "text": "交通运输部",
+        "href": "Level2Lite.aspx?id=945d5f1c274a494d8cbe19660400964f"
+      },
+      {
+        "id": "5a33861ea17d46baa8286f23379819e2",
+        "text": "民政部",
+        "href": "Level2Lite.aspx?id=5a33861ea17d46baa8286f23379819e2"
+      },
+      {
+        "id": "0707de628e944427a41b3cd48d894c54",
+        "text": "中国银行业监督管理委员会",
+        "href": "Level2Lite.aspx?id=0707de628e944427a41b3cd48d894c54"
+      },
+      {
+        "id": "1a18628405ec4620b7c8be6467dba105",
+        "text": "外交部",
+        "href": "Level2Lite.aspx?id=1a18628405ec4620b7c8be6467dba105"
+      },
+      {
+        "id": "86f63e03d4294cf48033b1f2afff5a15",
+        "text": "文化部",
+        "href": "Level2Lite.aspx?id=86f63e03d4294cf48033b1f2afff5a15"
+      },
+      {
+        "id": "ba168949f4e94696a10968e71b0a9223",
+        "text": "卫生部",
+        "href": "Level2Lite.aspx?id=ba168949f4e94696a10968e71b0a9223"
+      },
+      {
+        "id": "d65b45ef45184f4cae1abc088173abd1",
+        "text": "国家能源局",
+        "href": "Level2Lite.aspx?id=d65b45ef45184f4cae1abc088173abd1"
+      },
+      {
+        "id": "7d5a90c7f774431483ccc00026f08fa3",
+        "text": "国家知识产权局",
+        "href": "Level2Lite.aspx?id=7d5a90c7f774431483ccc00026f08fa3"
+      },
+      {
+        "id": "61a31a86e74845bda5329d9429473740",
+        "text": "国家统计局",
+        "href": "Level2Lite.aspx?id=61a31a86e74845bda5329d9429473740"
+      },
+      {
+        "id": "8c8653cfe9bf4b9b8690bda40b82194a",
+        "text": "国家税务总局",
+        "href": "Level2Lite.aspx?id=8c8653cfe9bf4b9b8690bda40b82194a"
+      },
+      {
+        "id": "a1d77582b6534f05ad64da0498d78464",
+        "text": "国家林业局",
+        "href": "Level2Lite.aspx?id=a1d77582b6534f05ad64da0498d78464"
+      }
+    ]
+  },
+  {
+    "id": "85c84320035c422b889f3213c206ec36",
+    "text": "研究机构",
+    "href": "Level2Lite.aspx?id=85c84320035c422b889f3213c206ec36",
+    "nodes": [
+      {
+        "id": "5115aecd682e42d0a2af9f94ad9b4e64",
+        "text": "国务院发展研究中心",
+        "href": "Level2Lite.aspx?id=5115aecd682e42d0a2af9f94ad9b4e64"
+      },
+      {
+        "id": "1c0ade8736d04ea4a5628c7327e2a18d",
+        "text": "中国社会科学院",
+        "href": "Level2Lite.aspx?id=1c0ade8736d04ea4a5628c7327e2a18d"
+      },
+      {
+        "id": "c346b3e4b3364b4e8041be07dd136b51",
+        "text": "中国科学院",
+        "href": "Level2Lite.aspx?id=c346b3e4b3364b4e8041be07dd136b51"
+      },
+      {
+        "id": "55fe7f00109f4f2a8c1334c8fb0a8b88",
+        "text": "天则经济研究所",
+        "href": "Level2Lite.aspx?id=55fe7f00109f4f2a8c1334c8fb0a8b88"
+      },
+      {
+        "id": "fd94ce80aca94d01bad62e2132a65a44",
+        "text": "财政部财政科学研究所",
+        "href": "Level2Lite.aspx?id=fd94ce80aca94d01bad62e2132a65a44"
+      },
+      {
+        "id": "54e08937f5e04e35937ef6fdfe1a28c7",
+        "text": "中国人事科学研究院",
+        "href": "Level2Lite.aspx?id=54e08937f5e04e35937ef6fdfe1a28c7"
+      },
+      {
+        "id": "d1c2c9d1aa074e2f8c092df9162e66ac",
+        "text": "中国农业科学研究院",
+        "href": "Level2Lite.aspx?id=d1c2c9d1aa074e2f8c092df9162e66ac"
+      },
+      {
+        "id": "44db450be6a842f3ba181f4d943012b5",
+        "text": "中国国际经济交流中心",
+        "href": "Level2Lite.aspx?id=44db450be6a842f3ba181f4d943012b5"
+      },
+      {
+        "id": "237f0e1923104d77be0ba3b35170c14c",
+        "text": "中国城市规划设计研究院",
+        "href": "Level2Lite.aspx?id=237f0e1923104d77be0ba3b35170c14c"
+      },
+      {
+        "id": "fdb63c5e9131456483b27c763906e78e",
+        "text": "国家教育发展研究中心",
+        "href": "Level2Lite.aspx?id=fdb63c5e9131456483b27c763906e78e"
+      },
+      {
+        "id": "48a3b2c8de914a019617f41f8c4bb4c8",
+        "text": "新华社世界问题研究中心",
+        "href": "Level2Lite.aspx?id=48a3b2c8de914a019617f41f8c4bb4c8"
+      },
+      {
+        "id": "31dc438954d143b1b44fa2be90bacac0",
+        "text": "上海社会科学院",
+        "href": "Level2Lite.aspx?id=31dc438954d143b1b44fa2be90bacac0"
+      },
+      {
+        "id": "e1b4dacdd1cd4da2aa2038b05d2f9887",
+        "text": "国脉互联智慧城市研究中心",
+        "href": "Level2Lite.aspx?id=e1b4dacdd1cd4da2aa2038b05d2f9887"
+      }
+    ]
+  },
+  {
+    "id": "caa93fecb381432c933be9f473196a91",
+    "text": "大专院校",
+    "href": "Level2Lite.aspx?id=caa93fecb381432c933be9f473196a91",
+    "nodes": [
+      {
+        "id": "e26361034c8542d2bbaf9d1762dde278",
+        "text": "清华大学",
+        "href": "Level2Lite.aspx?id=e26361034c8542d2bbaf9d1762dde278"
+      },
+      {
+        "id": "f1cc8386ee0c47fc83067723c4a3e3b3",
+        "text": "北京大学",
+        "href": "Level2Lite.aspx?id=f1cc8386ee0c47fc83067723c4a3e3b3"
+      },
+      {
+        "id": "740dc656fae84f668e24fb17bf09d304",
+        "text": "中国人民大学",
+        "href": "Level2Lite.aspx?id=740dc656fae84f668e24fb17bf09d304"
+      },
+      {
+        "id": "e44194531140452aa634604147cd87d8",
+        "text": "北京师范大学",
+        "href": "Level2Lite.aspx?id=e44194531140452aa634604147cd87d8"
+      },
+      {
+        "id": "5f093f69680c494c90469258607a5d6e",
+        "text": "南开大学",
+        "href": "Level2Lite.aspx?id=5f093f69680c494c90469258607a5d6e"
+      },
+      {
+        "id": "e2141be62f634691a2b7240880ad81e3",
+        "text": "复旦大学",
+        "href": "Level2Lite.aspx?id=e2141be62f634691a2b7240880ad81e3"
+      },
+      {
+        "id": "0759d8f7e0264bb7bf3c2651009d7504",
+        "text": "浙江大学",
+        "href": "Level2Lite.aspx?id=0759d8f7e0264bb7bf3c2651009d7504"
+      }
+    ]
+  },
+  {
+    "id": "42dff9ef66f84315bb251162325e848f",
+    "text": "金融类企业",
+    "href": "Level2Lite.aspx?id=42dff9ef66f84315bb251162325e848f",
+    "nodes": [
+      {
+        "id": "2049f0750e7c4585a6145fff9b07813f",
+        "text": "国家开发银行",
+        "href": "Level2Lite.aspx?id=2049f0750e7c4585a6145fff9b07813f"
+      },
+      {
+        "id": "009b638746c045abbd1f528c77cc2050",
+        "text": "中国进出口银行",
+        "href": "Level2Lite.aspx?id=009b638746c045abbd1f528c77cc2050"
+      },
+      {
+        "id": "e724f69285394425a0850d3ab41bd531",
+        "text": "中国工商银行",
+        "href": "Level2Lite.aspx?id=e724f69285394425a0850d3ab41bd531"
+      },
+      {
+        "id": "eddcadf1f0874ba08ef8994eb75cf3ae",
+        "text": "中国银行",
+        "href": "Level2Lite.aspx?id=eddcadf1f0874ba08ef8994eb75cf3ae"
+      },
+      {
+        "id": "59eb6564632145b5a8d3ee2c87a286ab",
+        "text": "中国建设银行",
+        "href": "Level2Lite.aspx?id=59eb6564632145b5a8d3ee2c87a286ab"
+      },
+      {
+        "id": "9bdf1d295da84deca8031b7c22928655",
+        "text": "中国农业银行",
+        "href": "Level2Lite.aspx?id=9bdf1d295da84deca8031b7c22928655"
+      },
+      {
+        "id": "b03894a0f97c4b658add0f3186f60cee",
+        "text": "交通银行",
+        "href": "Level2Lite.aspx?id=b03894a0f97c4b658add0f3186f60cee"
+      },
+      {
+        "id": "a3fe14db820b4528ad8d2421fd2d826a",
+        "text": "中国邮政储蓄银行",
+        "href": "Level2Lite.aspx?id=a3fe14db820b4528ad8d2421fd2d826a"
+      },
+      {
+        "id": "b1909bb1082848d5bd5c1832663f5a90",
+        "text": "中国光大银行",
+        "href": "Level2Lite.aspx?id=b1909bb1082848d5bd5c1832663f5a90"
+      },
+      {
+        "id": "7d7c173c053e4e9c99c74e925cc6f826",
+        "text": "中信银行",
+        "href": "Level2Lite.aspx?id=7d7c173c053e4e9c99c74e925cc6f826"
+      },
+      {
+        "id": "925468e6949b408e8a1b168e500d40a5",
+        "text": "华夏银行",
+        "href": "Level2Lite.aspx?id=925468e6949b408e8a1b168e500d40a5"
+      },
+      {
+        "id": "e49248f737194e4087c276dcbff25d4d",
+        "text": "中国民生银行",
+        "href": "Level2Lite.aspx?id=e49248f737194e4087c276dcbff25d4d"
+      },
+      {
+        "id": "2ae5f5c224b2403eaba915d94a0fad22",
+        "text": "北京银行",
+        "href": "Level2Lite.aspx?id=2ae5f5c224b2403eaba915d94a0fad22"
+      },
+      {
+        "id": "18c7a88404d8432d970fec38a6c1774e",
+        "text": "招商银行",
+        "href": "Level2Lite.aspx?id=18c7a88404d8432d970fec38a6c1774e"
+      },
+      {
+        "id": "b436ca44e21149e892155871c9f80082",
+        "text": "兴业银行",
+        "href": "Level2Lite.aspx?id=b436ca44e21149e892155871c9f80082"
+      },
+      {
+        "id": "128eb42451ea44638df1e0b6b06218ee",
+        "text": "平安银行",
+        "href": "Level2Lite.aspx?id=128eb42451ea44638df1e0b6b06218ee"
+      },
+      {
+        "id": "1cdba32a9a374ef4a52fb5725f1b393e",
+        "text": "国金证券股份有限公司",
+        "href": "Level2Lite.aspx?id=1cdba32a9a374ef4a52fb5725f1b393e"
+      },
+      {
+        "id": "b0906ce89eca47399944b4873dc558a2",
+        "text": "国泰君安证券公司",
+        "href": "Level2Lite.aspx?id=b0906ce89eca47399944b4873dc558a2"
+      },
+      {
+        "id": "41d84113f32f456eb9c200c733209dfb",
+        "text": "申银万国证券股份有限公司",
+        "href": "Level2Lite.aspx?id=41d84113f32f456eb9c200c733209dfb"
+      },
+      {
+        "id": "69c9901d076b4c68ad85a9fc0d8f2134",
+        "text": "中信证券股份有限公司",
+        "href": "Level2Lite.aspx?id=69c9901d076b4c68ad85a9fc0d8f2134"
+      },
+      {
+        "id": "c53f92ef75784fc2834b8a8666a29931",
+        "text": "中国华融资产管理股份有限公司",
+        "href": "Level2Lite.aspx?id=c53f92ef75784fc2834b8a8666a29931"
+      },
+      {
+        "id": "04f04df7177d4d0cb810ab3f26e9638b",
+        "text": "中国投资有限责任公司",
+        "href": "Level2Lite.aspx?id=04f04df7177d4d0cb810ab3f26e9638b"
+      },
+      {
+        "id": "30a6ae1281694559b23de27263d4c22e",
+        "text": "中国人民保险集团股份有限公司",
+        "href": "Level2Lite.aspx?id=30a6ae1281694559b23de27263d4c22e"
+      },
+      {
+        "id": "efd0c74996bc495ca09fff32fc1426f0",
+        "text": "中国人寿保险（集团）公司",
+        "href": "Level2Lite.aspx?id=efd0c74996bc495ca09fff32fc1426f0"
+      }
+    ]
+  },
+  {
+    "id": "6becf27b6eff4f538c7b88be5d85ebbd",
+    "text": "IT类企业",
+    "href": "Level2Lite.aspx?id=6becf27b6eff4f538c7b88be5d85ebbd",
+    "nodes": [
+      {
+        "id": "45658fe3e7f144b5a87795b729664f49",
+        "text": "腾讯公司",
+        "href": "Level2Lite.aspx?id=45658fe3e7f144b5a87795b729664f49"
+      },
+      {
+        "id": "e6862cfc4b9143eebc60cf58806bc4e5",
+        "text": "阿里巴巴集团",
+        "href": "Level2Lite.aspx?id=e6862cfc4b9143eebc60cf58806bc4e5"
+      },
+      {
+        "id": "0386e893e04e4ef1b503e5e88d0321b8",
+        "text": "百度公司",
+        "href": "Level2Lite.aspx?id=0386e893e04e4ef1b503e5e88d0321b8"
+      },
+      {
+        "id": "f701675dec6749e39bf09c40480efded",
+        "text": "网易公司",
+        "href": "Level2Lite.aspx?id=f701675dec6749e39bf09c40480efded"
+      },
+      {
+        "id": "31c445d09d31471880b8cb093e460542",
+        "text": "奇虎360公司",
+        "href": "Level2Lite.aspx?id=31c445d09d31471880b8cb093e460542"
+      },
+      {
+        "id": "e21697200abc4df2bc628235602536f9",
+        "text": "新浪公司",
+        "href": "Level2Lite.aspx?id=e21697200abc4df2bc628235602536f9"
+      },
+      {
+        "id": "7d7f5e2c3cc44fdc92527c7a5e773572",
+        "text": "华为技术有限公司",
+        "href": "Level2Lite.aspx?id=7d7f5e2c3cc44fdc92527c7a5e773572"
+      },
+      {
+        "id": "48e487ec80c74f3aa05f41d50b7a749a",
+        "text": "东软集团股份有限公司",
+        "href": "Level2Lite.aspx?id=48e487ec80c74f3aa05f41d50b7a749a"
+      },
+      {
+        "id": "671c79d0738243f9b56ce60b4096c628",
+        "text": "小米科技有限公司",
+        "href": "Level2Lite.aspx?id=671c79d0738243f9b56ce60b4096c628"
+      },
+      {
+        "id": "28f932f954614c3f8d3fe5d4ae7e136a",
+        "text": "联想集团",
+        "href": "Level2Lite.aspx?id=28f932f954614c3f8d3fe5d4ae7e136a"
+      },
+      {
+        "id": "da4102dd09b24ac4a5aa2eef64e06e4b",
+        "text": "和讯信息科技有限公司",
+        "href": "Level2Lite.aspx?id=da4102dd09b24ac4a5aa2eef64e06e4b"
+      },
+      {
+        "id": "ff188fe88ec14c219d8f85d181307f95",
+        "text": "京东集团",
+        "href": "Level2Lite.aspx?id=ff188fe88ec14c219d8f85d181307f95"
+      },
+      {
+        "id": "6f91fe30dec54b548dbdcce2be6fb3a4",
+        "text": "中关村发展集团",
+        "href": "Level2Lite.aspx?id=6f91fe30dec54b548dbdcce2be6fb3a4"
+      }
+    ]
+  },
+  {
+    "id": "087061cc021b4cf3ae96718189ceb4a9",
+    "text": "能源类企业",
+    "href": "Level2Lite.aspx?id=087061cc021b4cf3ae96718189ceb4a9",
+    "nodes": [
+      {
+        "id": "5fbaa2af3e30485ab45af0d9425add90",
+        "text": "中国石油天然气集团公司",
+        "href": "Level2Lite.aspx?id=5fbaa2af3e30485ab45af0d9425add90"
+      },
+      {
+        "id": "cad2210536674577b64b06f12b6f41b0",
+        "text": "中国石油化工集团公司",
+        "href": "Level2Lite.aspx?id=cad2210536674577b64b06f12b6f41b0"
+      },
+      {
+        "id": "1cb65cbd734e45c78dce11501f30bb55",
+        "text": "中国海洋石油总公司",
+        "href": "Level2Lite.aspx?id=1cb65cbd734e45c78dce11501f30bb55"
+      },
+      {
+        "id": "a6df5309fc8b483693d7df534b3c77a7",
+        "text": "国家电网公司",
+        "href": "Level2Lite.aspx?id=a6df5309fc8b483693d7df534b3c77a7"
+      },
+      {
+        "id": "993fd6f6cb34479e8fa96fe4ed76a5ee",
+        "text": "中国南方电网集团公司",
+        "href": "Level2Lite.aspx?id=993fd6f6cb34479e8fa96fe4ed76a5ee"
+      },
+      {
+        "id": "4a964d8c4e9e4ccf9326fcdc4ff12209",
+        "text": "中国国电集团公司",
+        "href": "Level2Lite.aspx?id=4a964d8c4e9e4ccf9326fcdc4ff12209"
+      },
+      {
+        "id": "488bc2a6f08c40aeb8cf7a53f45ff794",
+        "text": "中国华电集团公司",
+        "href": "Level2Lite.aspx?id=488bc2a6f08c40aeb8cf7a53f45ff794"
+      },
+      {
+        "id": "9db9cfbde77548c1859a907f1a321e02",
+        "text": "中国华能集团公司",
+        "href": "Level2Lite.aspx?id=9db9cfbde77548c1859a907f1a321e02"
+      },
+      {
+        "id": "a17a30dd20ce44059cd48e18d0634d22",
+        "text": "中国节能环保集团",
+        "href": "Level2Lite.aspx?id=a17a30dd20ce44059cd48e18d0634d22"
+      },
+      {
+        "id": "a66dda1394ee48398a81f71476e5ecca",
+        "text": "中国能源建设集团公司",
+        "href": "Level2Lite.aspx?id=a66dda1394ee48398a81f71476e5ecca"
+      },
+      {
+        "id": "f9eb9153540b4b17b429f16965646dc1",
+        "text": "中国核工业集团公司",
+        "href": "Level2Lite.aspx?id=f9eb9153540b4b17b429f16965646dc1"
+      }
+    ]
+  },
+  {
+    "id": "b77b290000ff44668c098c2272c23703",
+    "text": "通信类企业",
+    "href": "Level2Lite.aspx?id=b77b290000ff44668c098c2272c23703",
+    "nodes": [
+      {
+        "id": "7481f2ddba9e425d9948e0b10c8ecd54",
+        "text": "中国大唐集团公司",
+        "href": "Level2Lite.aspx?id=7481f2ddba9e425d9948e0b10c8ecd54"
+      },
+      {
+        "id": "5f68642db30841a291e5526707838cf7",
+        "text": "中国电信集团公司",
+        "href": "Level2Lite.aspx?id=5f68642db30841a291e5526707838cf7"
+      },
+      {
+        "id": "28750df75f1446e787eb828fa84d5810",
+        "text": "中国联合网络通信集团有限公司",
+        "href": "Level2Lite.aspx?id=28750df75f1446e787eb828fa84d5810"
+      },
+      {
+        "id": "12f925ef008741aca60ab30c60ba4a34",
+        "text": "中国移动通信集团公司",
+        "href": "Level2Lite.aspx?id=12f925ef008741aca60ab30c60ba4a34"
+      }
+    ]
+  },
+  {
+    "id": "370da36c7ba44ff280415afb9d406232",
+    "text": "国外机构",
+    "href": "Level2Lite.aspx?id=370da36c7ba44ff280415afb9d406232",
+    "nodes": [
+      {
+        "id": "8a8838ef717b45e093d5cbebbd0f79a8",
+        "text": "世界银行",
+        "href": "Level2Lite.aspx?id=8a8838ef717b45e093d5cbebbd0f79a8"
+      },
+      {
+        "id": "3cc75d17ba0a4c209268863b9cf13626",
+        "text": "世界贸易组织",
+        "href": "Level2Lite.aspx?id=3cc75d17ba0a4c209268863b9cf13626"
+      },
+      {
+        "id": "00639efab796496dbd167ba13a9ce658",
+        "text": "世界卫生组织",
+        "href": "Level2Lite.aspx?id=00639efab796496dbd167ba13a9ce658"
+      },
+      {
+        "id": "70d8e1dea4df468ab2bbd2f9df1c9d6a",
+        "text": "国际货币基金组织",
+        "href": "Level2Lite.aspx?id=70d8e1dea4df468ab2bbd2f9df1c9d6a"
+      },
+      {
+        "id": "54d4426d5bc446e9827cb0928fad2fa3",
+        "text": "国际金融协会",
+        "href": "Level2Lite.aspx?id=54d4426d5bc446e9827cb0928fad2fa3"
+      },
+      {
+        "id": "8e58c8a534ab4425920825b2c1b46699",
+        "text": "经济合作与发展组织",
+        "href": "Level2Lite.aspx?id=8e58c8a534ab4425920825b2c1b46699"
+      },
+      {
+        "id": "8a9acaae0abe4c7ca1cf488caf049769",
+        "text": "联合国全球契约组织",
+        "href": "Level2Lite.aspx?id=8a9acaae0abe4c7ca1cf488caf049769"
+      },
+      {
+        "id": "ec88ec48b1154383b602f09764d7f0c5",
+        "text": "联合国教科文组织",
+        "href": "Level2Lite.aspx?id=ec88ec48b1154383b602f09764d7f0c5"
+      },
+      {
+        "id": "8fd8aa8064ee40adafc540d7dfa9ee8b",
+        "text": "联合国工业发展组织",
+        "href": "Level2Lite.aspx?id=8fd8aa8064ee40adafc540d7dfa9ee8b"
+      },
+      {
+        "id": "8a914deaef784be5af8361ae84358354",
+        "text": "欧洲联盟",
+        "href": "Level2Lite.aspx?id=8a914deaef784be5af8361ae84358354"
+      }
+    ]
+  },
+  {
+    "id": "77c6a34f22874474b90fc0729094294c",
+    "text": "国外大学",
+    "href": "Level2Lite.aspx?id=77c6a34f22874474b90fc0729094294c",
+    "nodes": [
+      {
+        "id": "e2e7e05520504f57a48ac3a1ee114ed8",
+        "text": "耶鲁大学",
+        "href": "Level2Lite.aspx?id=e2e7e05520504f57a48ac3a1ee114ed8"
+      },
+      {
+        "id": "733d76463ef946fdac6ac4bf953e7fad",
+        "text": "哈佛大学",
+        "href": "Level2Lite.aspx?id=733d76463ef946fdac6ac4bf953e7fad"
+      },
+      {
+        "id": "c457f32a930e47068c520dfcbb47fde3",
+        "text": "斯坦福大学",
+        "href": "Level2Lite.aspx?id=c457f32a930e47068c520dfcbb47fde3"
+      },
+      {
+        "id": "a51717c4f57b4e7ea90f19e761f893ee",
+        "text": "普林斯顿大学",
+        "href": "Level2Lite.aspx?id=a51717c4f57b4e7ea90f19e761f893ee"
+      },
+      {
+        "id": "b38033833eaf4deeb2bdb79155afee6d",
+        "text": "哥伦比亚大学",
+        "href": "Level2Lite.aspx?id=b38033833eaf4deeb2bdb79155afee6d"
+      },
+      {
+        "id": "dc670f76c0b7489abf814727c667620e",
+        "text": "麻省理工学院",
+        "href": "Level2Lite.aspx?id=dc670f76c0b7489abf814727c667620e"
+      },
+      {
+        "id": "d083151a2f9f44188c3109f55c8aae4a",
+        "text": "加利福尼亚大学伯克利分校",
+        "href": "Level2Lite.aspx?id=d083151a2f9f44188c3109f55c8aae4a"
+      },
+      {
+        "id": "5eb34bf8370b40fcbf0c5f594fb692fd",
+        "text": "牛津大学",
+        "href": "Level2Lite.aspx?id=5eb34bf8370b40fcbf0c5f594fb692fd"
+      },
+      {
+        "id": "6e65a146b1c046f093796abf3ea6fb57",
+        "text": "剑桥大学",
+        "href": "Level2Lite.aspx?id=6e65a146b1c046f093796abf3ea6fb57"
+      }
+    ]
+  },
+  {
+    "id": "5c663ff25ec84086a493fabc0d1ff6a8",
+    "text": "国外企业",
+    "href": "Level2Lite.aspx?id=5c663ff25ec84086a493fabc0d1ff6a8",
+    "nodes": [
+      {
+        "id": "9e195514f3e347b89023161f0806b315",
+        "text": "普华永道会计师事务所",
+        "href": "Level2Lite.aspx?id=9e195514f3e347b89023161f0806b315"
+      },
+      {
+        "id": "3d1c4eeecadb425b8722d36dd66a9d51",
+        "text": "德勤会计师事务所",
+        "href": "Level2Lite.aspx?id=3d1c4eeecadb425b8722d36dd66a9d51"
+      },
+      {
+        "id": "0f076c2d8dda49fe823828ae3488822a",
+        "text": "毕马威会计师事务所",
+        "href": "Level2Lite.aspx?id=0f076c2d8dda49fe823828ae3488822a"
+      },
+      {
+        "id": "1532dfce120c490f9a29beb8e6f90abb",
+        "text": "安永会计师事务所",
+        "href": "Level2Lite.aspx?id=1532dfce120c490f9a29beb8e6f90abb"
+      },
+      {
+        "id": "1075b61bd30f44de89637261677ea6e3",
+        "text": "苹果公司",
+        "href": "Level2Lite.aspx?id=1075b61bd30f44de89637261677ea6e3"
+      },
+      {
+        "id": "691ab48eed2e47488428504691a27c71",
+        "text": "通用汽车公司",
+        "href": "Level2Lite.aspx?id=691ab48eed2e47488428504691a27c71"
+      },
+      {
+        "id": "4b3c825b6308414b96369c876ea21c6e",
+        "text": "戴姆勒股份公司",
+        "href": "Level2Lite.aspx?id=4b3c825b6308414b96369c876ea21c6e"
+      },
+      {
+        "id": "5befaf23f92c45a0aad3425dfccc2a02",
+        "text": "摩根大通银行（中国）有限公司",
+        "href": "Level2Lite.aspx?id=5befaf23f92c45a0aad3425dfccc2a02"
+      },
+      {
+        "id": "47682cf5c2d24ecabf5bcd1488fd490b",
+        "text": "德意志银行（中国）有限公司",
+        "href": "Level2Lite.aspx?id=47682cf5c2d24ecabf5bcd1488fd490b"
+      },
+      {
+        "id": "606f275ff1e441c5a9a55a5d3c933b76",
+        "text": "法国兴业银行（中国）有限公司",
+        "href": "Level2Lite.aspx?id=606f275ff1e441c5a9a55a5d3c933b76"
+      },
+      {
+        "id": "faf68927efa041abbe5fbdcc46078aea",
+        "text": "微软集团",
+        "href": "Level2Lite.aspx?id=faf68927efa041abbe5fbdcc46078aea"
+      },
+      {
+        "id": "4ccf8e8922a64c4ab7430fc812b4352c",
+        "text": "Google公司",
+        "href": "Level2Lite.aspx?id=4ccf8e8922a64c4ab7430fc812b4352c"
+      },
+      {
+        "id": "0aaaec241e7749f2b2ad5439e38b808d",
+        "text": "瑞银集团",
+        "href": "Level2Lite.aspx?id=0aaaec241e7749f2b2ad5439e38b808d"
+      },
+      {
+        "id": "fbf81873d26742fbb64ca2810a55ce68",
+        "text": "甲骨文公司",
+        "href": "Level2Lite.aspx?id=fbf81873d26742fbb64ca2810a55ce68"
+      },
+      {
+        "id": "6d1c5471f2e44503a47484b6909d8a54",
+        "text": "IBM集团",
+        "href": "Level2Lite.aspx?id=6d1c5471f2e44503a47484b6909d8a54"
+      },
+      {
+        "id": "b0832df5d83249a1bfcc71d983d33729",
+        "text": "戴尔（中国）有限公司",
+        "href": "Level2Lite.aspx?id=b0832df5d83249a1bfcc71d983d33729"
+      },
+      {
+        "id": "d0f8f60c33064bdbb5b3a275e6bed858",
+        "text": "西门子(中国)有限公司",
+        "href": "Level2Lite.aspx?id=d0f8f60c33064bdbb5b3a275e6bed858"
+      },
+      {
+        "id": "56f0c451e4694319b46410e505d752c7",
+        "text": "阿海珐集团",
+        "href": "Level2Lite.aspx?id=56f0c451e4694319b46410e505d752c7"
+      },
+      {
+        "id": "7188debd322940c09d27551a62c8041a",
+        "text": "美国贝克休斯公司",
+        "href": "Level2Lite.aspx?id=7188debd322940c09d27551a62c8041a"
+      },
+      {
+        "id": "11dd4f19091f48af8db0569756206a15",
+        "text": "杜邦集团",
+        "href": "Level2Lite.aspx?id=11dd4f19091f48af8db0569756206a15"
+      },
+      {
+        "id": "310741b19600486693c85e5612257125",
+        "text": "高盛集团",
+        "href": "Level2Lite.aspx?id=310741b19600486693c85e5612257125"
+      },
+      {
+        "id": "92afff2f7c564ed2844abccd84887d53",
+        "text": "国际金融公司",
+        "href": "Level2Lite.aspx?id=92afff2f7c564ed2844abccd84887d53"
+      },
+      {
+        "id": "26d8fe97e4d64e118851617940eff314",
+        "text": "家乐福集团",
+        "href": "Level2Lite.aspx?id=26d8fe97e4d64e118851617940eff314"
+      },
+      {
+        "id": "8f0d8f68ff1b4befbc9c19184722c667",
+        "text": "惠普（中国）有限公司",
+        "href": "Level2Lite.aspx?id=8f0d8f68ff1b4befbc9c19184722c667"
+      },
+      {
+        "id": "939a9c0b9c954101827102ec229726c1",
+        "text": "科特勒咨询集团",
+        "href": "Level2Lite.aspx?id=939a9c0b9c954101827102ec229726c1"
+      },
+      {
+        "id": "68aae64583a9480b90f73c9cdc6dcf13",
+        "text": "麦肯锡咨询公司",
+        "href": "Level2Lite.aspx?id=68aae64583a9480b90f73c9cdc6dcf13"
+      },
+      {
+        "id": "d0ea51f2cb7a4a6f97a809816afb197c",
+        "text": "摩根士丹利国际银行有限公司",
+        "href": "Level2Lite.aspx?id=d0ea51f2cb7a4a6f97a809816afb197c"
+      },
+      {
+        "id": "44f3570d7f2d4f1eb0839921ba2e08e2",
+        "text": "欧莱雅集团",
+        "href": "Level2Lite.aspx?id=44f3570d7f2d4f1eb0839921ba2e08e2"
+      },
+      {
+        "id": "c7c6575b4e5c42a6af4ee247b3a1378c",
+        "text": "施耐德电气有限公司",
+        "href": "Level2Lite.aspx?id=c7c6575b4e5c42a6af4ee247b3a1378c"
+      },
+      {
+        "id": "f0466cb8964143eda7eae6cc2b6371b9",
+        "text": "沃尔沃集团",
+        "href": "Level2Lite.aspx?id=f0466cb8964143eda7eae6cc2b6371b9"
+      },
+      {
+        "id": "50769bb9bd184c0ca4b303e724ef47f4",
+        "text": "雅虎公司",
+        "href": "Level2Lite.aspx?id=50769bb9bd184c0ca4b303e724ef47f4"
+      },
+      {
+        "id": "daca175cd8624486b0db1984621add4e",
+        "text": "亚马逊集团",
+        "href": "Level2Lite.aspx?id=daca175cd8624486b0db1984621add4e"
+      },
+      {
+        "id": "b52088ee8b2743fe8a8dadbcab6af092",
+        "text": "施罗德集团股份有限公司",
+        "href": "Level2Lite.aspx?id=b52088ee8b2743fe8a8dadbcab6af092"
+      },
+      {
+        "id": "8e14e939d1cf43ea8a37935ed53f7f96",
+        "text": "英特尔公司",
+        "href": "Level2Lite.aspx?id=8e14e939d1cf43ea8a37935ed53f7f96"
+      },
+      {
+        "id": "0d45b2eec9354cc082f1f70e6c10cbf7",
+        "text": "埃森哲公司",
+        "href": "Level2Lite.aspx?id=0d45b2eec9354cc082f1f70e6c10cbf7"
+      }
+    ]
+  },
+  {
+    "id": "c28173d638254cbf83b61e37ac32ad6f",
+    "text": "其他机构",
+    "href": "Level2Lite.aspx?id=c28173d638254cbf83b61e37ac32ad6f",
+    "nodes": [
+      {
+        "id": "dfc71c3939f54bcaab5ef777699f8066",
+        "text": "中国行政管理学会",
+        "href": "Level2Lite.aspx?id=dfc71c3939f54bcaab5ef777699f8066"
+      },
+      {
+        "id": "22c87fb847f9480a82f2f36d62a07d38",
+        "text": "中国国际经济交流中心",
+        "href": "Level2Lite.aspx?id=22c87fb847f9480a82f2f36d62a07d38"
+      },
+      {
+        "id": "47a1641fb9aa49598c719e21ff0f57db",
+        "text": "全国工商联",
+        "href": "Level2Lite.aspx?id=47a1641fb9aa49598c719e21ff0f57db"
+      },
+      {
+        "id": "985699651c294714a724c5e516ff5ce5",
+        "text": "路透社",
+        "href": "Level2Lite.aspx?id=985699651c294714a724c5e516ff5ce5"
+      },
+      {
+        "id": "4cae3f7720d5458b9d1d261995e5ab5d",
+        "text": "新华社",
+        "href": "Level2Lite.aspx?id=4cae3f7720d5458b9d1d261995e5ab5d"
+      },
+      {
+        "id": "f509355de7e94935857b92b1e1ccf1ec",
+        "text": "《财经》",
+        "href": "Level2Lite.aspx?id=f509355de7e94935857b92b1e1ccf1ec"
+      },
+      {
+        "id": "362e871f957d4dba840f1aeb59ea9455",
+        "text": "《东方财经》",
+        "href": "Level2Lite.aspx?id=362e871f957d4dba840f1aeb59ea9455"
+      },
+      {
+        "id": "7b4086041d984bb782807f187ecf39b8",
+        "text": "《中国证券报》",
+        "href": "Level2Lite.aspx?id=7b4086041d984bb782807f187ecf39b8"
+      },
+      {
+        "id": "08dd1d7beae644ffaae6b44888a27baf",
+        "text": "《管理学家》",
+        "href": "Level2Lite.aspx?id=08dd1d7beae644ffaae6b44888a27baf"
+      }
+    ]
+  }
+]

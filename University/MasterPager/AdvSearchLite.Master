@@ -1,0 +1,277 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdvSearchLite.master.cs" Inherits="colleges.MasterPager.AdvSearchLite" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>中经视频</title>
+    <meta name="author" content="CC" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="../Styles/jquery-ui-1.10.3.custom.css" rel="stylesheet" type="text/css" />
+    <!--[if IE 6]><link href="../Styles/DefaultLayoutIE6.css" rel="stylesheet" type="text/css" /><![endif]-->
+    <!--[if gte IE 7]><link href="../Styles/DefaultLayout.css" rel="stylesheet" type="text/css" /><![endif]-->
+    <!--[if !IE]><!-->
+    <link href="../Styles/DefaultLayoutLite.css" rel="stylesheet" type="text/css" />
+    <!--<![endif]-->
+    <%--<link href="../Styles/modalPopLite.css" rel="stylesheet" type="text/css" />--%>
+    <link href="../Styles/jquery-webox.css" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript" src="Scripts/jquery-1.9.1.js"></script>
+
+    <script type="text/javascript" src="Scripts/boot.js"></script>
+
+    <script type="text/javascript" src="Scripts/jquery-ui-1.10.3.custom.js"></script>
+
+    <script type="text/javascript" src="Scripts/jquery.timer.js"></script>
+
+    <%--<script type="text/javascript" src="Scripts/modalPopLite.js"></script>--%>
+
+    <script type="text/javascript" src="Scripts/jquery-webox.js"></script>
+
+    <script type="text/javascript">
+        function OpenWin(url) {
+            window.open("" + url);
+        }
+        function AddFavorite(sURL, sTitle) {
+            try {
+                window.external.addFavorite(sURL, sTitle);
+            }
+            catch (e) {
+                try {
+                    window.sidebar.addPanel(sTitle, sURL, "");
+                }
+                catch (e) {
+                    alert("加入收藏失败，请使用Ctrl+D进行添加");
+                }
+            }
+        }
+
+        $(document).ready(function() {
+            $('#timer').timer({ format: "yy年mm月dd日 W" });
+        });
+
+        //弹出
+        $(document).ready(function() {
+            //内嵌弹出层调用
+//            $('#LoginFrame').contents().find('#LoginClicker').click(function() {
+//                $.webox({
+//                    height: 350,
+//                    width: 310,
+//                    bgvisibel: true,
+//                    title: '',
+//                    html: $("#PopupBox").html()
+//                });
+//            });
+//            $(".LoginButton").hover(
+//                        function() {
+//                            $(this).attr("src", "images/LoginBtnHover.png");
+//                        },
+//                        function() {
+//                            $(this).attr("src", "images/LoginBtn.png");
+//                        });
+//            $('#LoginFrame').contents().find('#LoginClicker').hover(
+//                        function() {
+//                            $(this).toggleClass("TopLoginBtnHover");
+//                        },
+//                        function() {
+//                            $(this).toggleClass("TopLoginBtnHover");
+//                        });
+//            if ($.getUrlParam("showlogin") == "1") {
+//                $('#LoginFrame').contents().find('#LoginClicker').click();
+//            }
+            $('#LoginFrame').load(function() {
+                $('#LoginFrame').contents().find('#LoginClicker').click(function() {
+                    $.webox({
+                        height: 350,
+                        width: 310,
+                        bgvisibel: true,
+                        title: '',
+                        html: $("#PopupBox").html()
+                    });
+                });
+                $(".LoginButton").hover(
+                        function() {
+                            $(this).attr("src", "images/LoginBtnHover.png");
+                        },
+                        function() {
+                            $(this).attr("src", "images/LoginBtn.png");
+                        });
+                $('#LoginFrame').contents().find('#LoginClicker').hover(
+                        function() {
+                            $(this).toggleClass("TopLoginBtnHover");
+                        },
+                        function() {
+                            $(this).toggleClass("TopLoginBtnHover");
+                        });
+                if ($.getUrlParam("showlogin") == "1") {
+                    $('#LoginFrame').contents().find('#LoginClicker').click();
+                }
+            });
+        });
+        //
+        //        $(function() {
+        //            $('#popup-wrapper').modalPopLite({ openButton: '#LoginClicker', closeButton: '#close-btn', isModal: true });
+        //            $(".LoginButton").hover(
+        //                function() {
+        //                    $(this).attr("src", "images/LoginBtnHover.png");
+        //                },
+        //                function() {
+        //                    $(this).attr("src", "images/LoginBtn.png");
+        //                });
+        //            $("#LoginClicker").hover(
+        //                function() {
+        //                    $(this).toggleClass("TopLoginBtnHover");
+        //                },
+        //                function() {
+        //                    $(this).toggleClass("TopLoginBtnHover");
+        //                });
+        //                
+        //            if ($.getUrlParam("showlogin") == "1") {
+        //                $("#LoginClicker").click();
+        //            }
+        //        });
+
+        function doSubmit() {
+            var sTxt = escape($("#TopSearchInput").val()); //*CC*
+            if (sTxt == "" || sTxt.length <= 0 || sTxt == "请输入搜索关键词") { mini.alert("请先输入关键词!"); return; }
+            location.href = "SearchLite.aspx?act=n&keywords=" + sTxt;
+        }
+        function doSearch() {
+            var sTxt = escape($("#ztKeyWords").val()); //*CC*
+            if (sTxt == "" || sTxt.length <= 0 || sTxt == "请输入搜索关键词") { mini.alert("请先输入关键词!"); return; }
+            location.href = "SearchLite.aspx?act=zt&keywords=" + sTxt;
+        }
+        $(function() {
+            $("#TopSearchInput").focus(function() {
+                var sTxt = escape($(this).val()); //*CC*
+                if (sTxt == "请输入搜索关键词") $(this).val("");
+            });
+            $("#TopSearchInput").blur(function() {
+                var sTxt = escape($(this).val()); //*CC*
+                if (sTxt == "" || sTxt.length <= 0) { $(this).val("请输入搜索关键词"); }
+            });
+            $("#TopSearchInputBtn").click(function() {
+                doSubmit();
+            });
+            $("#TopSearchInputBtnAdv").click(function() {
+                location.href = "AdvanceSearchLite.aspx";
+            });
+            document.onkeydown = function(e) {
+                e = e ? e : window.event;
+                var iKeyCode = e.which ? e.which : e.keyCode;
+                if (iKeyCode == 13) {
+                    var id = $("input:focus").attr("id");
+                    if (id == "TopSearchInput") { doSubmit(); }
+                    if (id == "ztKeyWords") { doSearch(); }
+                }
+            }
+        });
+
+        (function($) {
+            $.getUrlParam = function(name) {
+                var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+                var r = window.location.search.substr(1).match(reg);
+                if (r != null) return unescape(r[2]); return null;
+            }
+        })(jQuery);
+    </script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="FullContent">
+    <div class="TopContent">
+            <div id="TopLogin" class="TopLogin">
+                <div class="TopLoginLeft">
+                <%--<iframe class="TopLoginBox" src="login.aspx"></iframe>--%>
+                <div id="timer"></div>
+                </div>
+                <div class="TopLoginRight">
+                    <span><a href="http://vod.cei.gov.cn/" target="_blank">通用版</a></span> <span>|</span>
+                    <span><a href="http://vodgov.cei.gov.cn/" target="_blank">党政版</a></span> <span>|</span>
+                    <span><a href="http://vodedu.cei.cn/SpotIndex.aspx" target="_blank">最新会议</a></span>
+                </div>
+            </div>
+            <div class="TopImage">
+                <%--<img src="images/top-zjspgxb.png" />--%>
+            </div>
+        <div class="TopSearch">
+            <div class="TopLoginBox">
+                <div id="trLogin" runat="server">
+                    <span class="TopLoginLink TopLoginLinkHome"><a href="">设为首页</a></span> <span class="TopLoginLink">
+                        |</span> <span class="TopLoginLink"><a href="#" onclick="AddFavorite(window.location,document.title);"
+                            target="_self">收藏</a></span>
+                    <div class="TopLoginBtn" id="LoginClicker">
+                        登 录</div>
+                </div>
+                <div id="trExit" class="trExit" runat="server">
+                    <span class="TopLoginLink TopLoginLinkHomeExit"><a href="">设为首页</a></span> <span
+                        class="TopLoginLink">|</span> <span class="TopLoginLink TopLoginLinkFavoriteExit"><a
+                            href="#" onclick="AddFavorite(window.location,document.title);" target="_self">收藏</a></span>
+                    <asp:Label ID="lblUser" runat="server"></asp:Label>
+                    <asp:Label ID="lblWelcome" runat="server"></asp:Label>
+                    <asp:Button ID="btnExit" runat="server" Text="注销" OnClick="btnExit_Click" CssClass="LoginBtn">
+                    </asp:Button>
+                </div>
+            </div>
+            <div class="TopSearchInputLine">
+                <div class="TopSearchInputBox">
+                    <input type="text" name="keywords" id="TopSearchInput" value="<%=string.IsNullOrEmpty(sSearchKeyWords)?"请输入搜索关键词":sSearchKeyWords %>" />
+                </div>
+                <div class="TopSearchInputBtnBox">
+                    <input type="button" name="keywords" style="cursor: pointer" id="TopSearchInputBtn" />
+                </div>
+                <div class="TopSearchInputBtnAdvBox">
+                    <input type="button" name="buttonAdvSearch" style="cursor: pointer" id="TopSearchInputBtnAdv" />
+                </div>
+            </div>
+            <div class="TopSearchKeyWord" id="divHotKey" runat="server">
+            </div>
+        </div>
+        </div>
+        <div class="IndexNav">
+          <a  class="IndexNavHome" href="HomeLite.aspx">首页</a>
+            <img src="images/NavBgSpaceLite.png">
+
+            <a  class="IndexNavHome" href="level2Lite.aspx?alias=gxchannel9&id=1c68f666dc914382b95456acf6be87a5">财经时政</a>
+            <img src="images/NavBgSpaceLite.png">
+
+            <a class="IndexNavHome" href="level2GroupLite.aspx?id=14073c0fbafe492aa2726a2034b1d454">论坛会议</a>
+            <img src="images/NavBgSpaceLite.png">
+
+            <a  class="IndexNavHome" href="level2Lite.aspx?alias=gxchannel1&id=7c5847002bff4dd5ae9215c5373e2eb9">经济专题</a>
+            <img src="images/NavBgSpaceLite.png">
+
+             <a  class="IndexNavHome" href="level2Lite.aspx?alias=gxchannel2&id=aaedaf5fad7249099d4acbf844e39298">管理专题</a>
+            <img src="images/NavBgSpaceLite.png">
+
+             <a  class="IndexNavHome" href="Level2LiteFame.aspx?alias=gxchannel10">名师讲堂</a>
+            <img src="images/NavBgSpaceLite.png">
+
+            <a  class="IndexNavHome" href="level2Lite.aspx?alias=gxchannel3&id=9036ffd75ce649b892a6dbe6c7c2e4bc">综合素养</a>
+            <img src="images/NavBgSpaceLite.png">
+        </div>
+        <div id="PopupBox">
+        <div class="LoginBox">
+            <div>
+                <span class="LoginInputTitle">用户名</span><asp:TextBox ID="txtUid" TabIndex="1" runat="server"
+                    CssClass="LoginInput"></asp:TextBox></div>
+            <div>
+                <span class="LoginInputTitle">密 码</span><asp:TextBox ID="txtPwd" TabIndex="2" runat="server"
+                    TextMode="Password" CssClass="LoginInput"></asp:TextBox></div>
+            <div class="LoginCheckBox">
+                <input type="checkbox" value="1" name="chLogAuto" /><span class="LoginCheckText">下次自动登录</span></div>
+            <asp:ImageButton ID="btnOK" ImageUrl="../images/LoginBtn.png" CssClass="LoginButton"
+                OnClick="btnOK_Click" runat="server" />
+        </div>
+    </div>
+   </form>
+       
+        <asp:ContentPlaceHolder ID="IndexMainPlaceHolder" runat="server">   
+        </asp:ContentPlaceHolder>
+        
+        
+</body>
+</html>

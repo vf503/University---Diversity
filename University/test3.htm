@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>A Simple Lightweight jQuery Modal Popup Box.</title>
+	<link href="Styles/modalPopLite.css" rel="stylesheet" type="text/css" />
+	<link href="Styles/defaultlayout.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="Scripts/jquery-1.9.1.js"></script>
+	<script type="text/javascript" src="Scripts/modalPopLite.js"></script>
+    <script type="text/javascript">
+        $(function() {
+
+            $('#popup-wrapper').modalPopLite({ openButton: '#clicker', closeButton: '#close-btn', isModal: true });
+            $(".LoginButton").hover(
+                function() {
+                $(this).attr("src", "images/LoginBtnHover.png");
+                       },
+                function() {
+                $(this).attr("src", "images/LoginBtn.png");
+                       });
+        });
+    </script>
+
+</head>
+<body>
+    <div id="clicker">
+        Click Me!
+    </div>
+    
+    <div id="popup-wrapper">
+        <a href="#" id="close-btn">
+            <img class="LoginClose" src="images/close.png"></a>
+        <div class="LoginBox">
+           <div><span class="LoginInputTitle">用户名</span><input id="Text1" type="text" /></div>
+           <div><span class="LoginInputTitle">密 码</span><input id="Text2" type="text" /></div>
+           <div class="LoginCheckBox"><input type="checkbox" value="1" name="chLogAuto" /><span class="LoginCheckText">下次自动登录</span></div>
+            <a href="#">
+                <img class="LoginButton" src="images/LoginBtn.png"></a>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>jQuery Tools standalone demo</title>
+
+    <!-- include the Tools -->
+  <script type="text/javascript" src="Scripts/jquery-1.7.2.min.js"></script>
+   <script type="text/javascript" src="Scripts/jquery.tools.min.js"></script>
+
+<!-- override styles for some of the overlays -->
+<style>
+#custom {
+    background-image:url(/media/img/global/commerce/box-512.png);
+    width:512px;
+    height:531px;
+    padding:0px;
+}
+#custom div.close {
+    right:-15px;
+    top:-10px;
+}
+/* the overlayed element */
+.apple_overlay {
+
+    /* initially overlay is hidden */
+    display:none;
+
+    /* growing background image */
+    background-image:url(/media/img/overlay/white.png);
+
+    /*
+      width after the growing animation finishes
+      height is automatically calculated
+      */
+    width:640px;
+
+    /* some padding to layout nested elements nicely  */
+    padding:35px;
+
+    /* a little styling */
+    font-size:11px;
+}
+
+/* default close button positioned on upper right corner */
+.apple_overlay .close {
+    background-image:url(images/close.png);
+    position:absolute; right:5px; top:5px;
+    cursor:pointer;
+    height:35px;
+    width:35px;
+}
+</style>
+</head>
+<body><!-- overlay triggers. overlay is referenced in the 'rel' attribute -->
+<p>
+  <button rel="#custom" type="button">custom</button>
+</p>
+
+<!-- each overlay is initialized with this single JavaScript call -->
+<script>
+    $(function() {
+        $("button[rel]").overlay({ mask: '#000', effect: 'apple' });
+    });
+</script>
+
+<div class="apple_overlay" id="custom">
+</div>
+
+
+</body>
+</html>

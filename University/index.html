@@ -1,0 +1,868 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>中经视频--高校版</title>
+    <link href="Styles/jquery-ui-1.10.3.custom.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/DefaultLayout.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="Scripts/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="Scripts/jquery-ui-1.10.3.custom.js"></script>
+    <script type="text/javascript" src="Scripts/jquery.timer.js"></script>
+    <script type="text/javascript">
+        function OpenWin(url) {
+            window.open("" + url);
+        }
+
+        $(function () {
+
+            $("#FocusTabs").tabs({
+                event: "mouseover"
+            });
+        });
+
+        $(document).ready(function () {
+            $('#timer').timer({ format: "yy年mm月dd日 W" });
+        });
+    </script>
+</head>
+<body>
+    <div class="FullContent">
+        <div class="TopContent">
+            <div id="TopLogin" class="TopLogin">
+                <div class="TopLoginLeft">
+                <div class="InlineDiv" id="timer"></div>
+                <div class="InlineDiv">用户名：<input name="UserId" type="text" value="" class="LoginInput" /></div>
+                <div class="InlineDiv">密码：<input name="UserId" type="text" value="" class="LoginInput" /></div>
+                <div class="InlineDiv" id=""><a href="#">登陆</a></div>
+                <div class="InlineDiv" id=""><a href="#">试用申请</a></div>
+                </div>
+                <div class="TopLoginRight">
+                <span><a href="#">通用版</a></span>
+                <span>|</span>
+                <span><a href="#">党政版</a></span>
+                <span>|</span>
+                <span><a href="#">企管课程库</a></span>
+                <span>|</span>
+                <span><a href="#">网络学院</a></span>
+                <span>|</span>
+                <span><a href="#">最新会议</a></span>
+                </div>
+            </div>
+            <div class="TopImage">
+                <img src="images/top-zjspgxb.png" />
+            </div>
+            <div class="TopSearch">
+                <div class="TopSearchInputLine">
+                    <div class="TopSearchInputBox">
+                        <input type="text" name="" id="TopSearchInput" value="请输入搜索关键词" />
+                    </div>
+                    <div class="TopSearchInputBtnBox">
+                        <input type="button" name="buttonSearch" id="TopSearchInputBtn" onclick="location.href('NormalSearch.html')"/>
+                    </div>
+                    <div class="TopSearchInputBtnAdvBox">
+                        <input type="button" name="buttonAdvSearch" id="TopSearchInputBtnAdv" onclick="location.href('AdvanceSearch.html')"/>
+                    </div>
+                </div>
+                <div class="TopSearchKeyWord">
+                    <span>热门关键词：<a href="#">出租车调价</a><a href="#">豪宅地流转</a><a href="#">海外金融投</a><a href="#">玉石楼市</a>
+                    </span>
+                </div>
+            </div>
+        </div>
+        <div class="IndexNav">
+            <div class="IndexNavHome">
+                <a href="index.html">首页</a>
+            </div>
+            <img src="images/NavBgSpace.png"/>
+            <div id="" class="NavContent">
+               <div class="NavItem">
+                  <span class="NavLevel1"><a href="level2.html">经济</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">形势</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">国际</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">政策</a></span>
+               </div>
+               <div class="NavItem">
+                  <span class="NavLevel1"><a href="level2.html">经济</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">形势</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">国际</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">政策</a></span>
+               </div>
+               <div class="NavItem">
+                  <span class="NavLevel1"><a href="level2.html">经济</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">形势</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">国际</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">政策</a></span>
+               </div>
+               <div class="NavItem">
+                  <span class="NavLevel1"><a href="level2.html">经济</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">形势</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">国际</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">政策</a></span>
+               </div>
+               <div class="NavItem">
+                  <span class="NavLevel1"><a href="level2.html">经济</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">形势</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">国际</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">政策</a></span>
+               </div>
+               <div class="NavItem">
+                  <span class="NavLevel1"><a href="level2.html">经济</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">形势</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">国际</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">政策</a></span>
+               </div>
+               <div class="NavItem">
+                  <span class="NavLevel1"><a href="level2.html">经济</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">形势</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">国际</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">政策</a></span>
+               </div>
+               <div class="NavItem">
+                  <span class="NavLevel1"><a href="level2.html">经济</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">形势</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">国际</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">政策</a></span>
+               </div>
+               <div class="NavItem">
+                  <span class="NavLevel1"><a href="level2.html">经济</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">形势</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">国际</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">政策</a></span>
+               </div>
+               <div class="NavItem">
+                  <span class="NavLevel1"><a href="level2.html">经济</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">形势</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">国际</a></span>
+                  <span class="NavLevel2"><a href="Level2Special.html">政策</a></span>
+               </div>
+            </div>
+        </div>
+        <!--<div id="line" class="line">
+        </div>
+        -->
+        <div id="" class="UpsideContent">
+            <div id="FocusTabs">
+                <ul id="TabsList">
+                    <li><a href="#tabs-1" onclick="OpenWin('PicFocusTxt.html')">经济</a></li>
+                    <li><a href="#tabs-2" onclick="OpenWin('PicFocusTxt.html')">管理</a></li>
+                    <li><a href="#tabs-3" onclick="OpenWin('PicFocusTxt.html')">社会</a></li>
+                    <li><a href="#tabs-4" onclick="OpenWin('PicFocusTxt.html')">时事</a></li>
+                    <li><a href="#tabs-5" onclick="OpenWin('PicFocusTxt.html')">政策</a></li>
+                    <li><a href="#tabs-6" onclick="OpenWin('PicFocusTxt.html')">名家</a></li>
+                </ul>
+                <div id="tabs-1">
+                   <a href="PicFocusPic.html" target="_blank"><img src="images/TempFocus5.png" /></a>
+                </div>
+                <div id="tabs-2">
+                   <a href="PicFocusPic.html" target="_blank"><img src="images/TempFocus1.png" /></a>
+                </div>
+                <div id="tabs-3">
+                   <a href="PicFocusPic.html" target="_blank"><img src="images/TempFocus2.png" /></a>
+                </div>
+                <div id="tabs-4">
+                    <a href="PicFocusPic.html" target="_blank"><img src="images/TempFocus3.png" /></a>
+                </div>
+                <div id="tabs-5">
+                    <a href="PicFocusPic.html" target="_blank"><img src="images/TempFocus5.png" /></a>
+                </div>
+                <div id="tabs-6">
+                    <a href="PicFocusPic.html" target="_blank"><img src="images/TempFocus4.png" /></a>
+                </div>
+            </div>
+            <div id="" class="SpecialFocus">
+                <div id="SpecialAttentionTitle">
+                   <span>特别关注</span>
+                   <div class="IndexMore"><a href="SpecialAttentionIndex.html" target="_blank">更多>></a>
+                   </div>
+                </div>
+                <div id="" class="SpecialFocusContent">
+                     <ul>
+                        <li class="SpecialFocusTop"><a href="SpecialAttentionLevel2.html">加快推进绿色低碳无处可逃建设着…</a></li>
+                        <li class="SpecialFocusLi"><a href="#">建设人水和谐的城市02</a></li>
+                        <li class="SpecialFocusLi"><a href="#">建设水文化特色的魅力城市</a></li>
+                    </ul>
+                    <ul>
+                        <li class="SpecialFocusTop"><a href="SpecialAttentionLevel2.html">加快推进绿色低碳无处可逃建设着…</a></li>
+                        <li class="SpecialFocusLi"><a href="#">建设人水和谐的城市02</a></li>
+                        <li class="SpecialFocusLi"><a href="#">建设水文化特色的魅力城市</a></li>
+                    </ul>
+                    <ul>
+                        <li class="SpecialFocusTop"><a href="SpecialAttentionLevel2.html">加快推进绿色低碳无处可逃建设着…</a></li>
+                        <li class="SpecialFocusLi"><a href="#">建设人水和谐的城市02</a></li>
+                        <li class="SpecialFocusLi"><a href="#">建设水文化特色的魅力城市</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="DailyVideo">
+                <div class="DailyVideoTitle">
+                  <span>凤凰时政</span>
+                  <div class="IndexMore"><a href="SpecialAttentionIndex.html" target="_blank">更多>></a>
+                  </div>
+                </div>
+                <div class="DailyVideoPlayer">
+                        <img src="images/TempItem31.png" />
+                </div>
+                <div class="DailyVideoInfo">
+                    <a href="#">凤凰早班车</a>
+                </div>
+            </div>
+            <div class="DailyVideoPadding"> </div>
+            <div class="DailyVideo">
+                <div class="DailyVideoTitle">
+                  <span>凤凰时政</span>
+                  <div class="IndexMore"><a href="SpecialAttentionIndex.html" target="_blank">更多>></a>
+                  </div>
+                </div>
+                <div class="DailyVideoPlayer">
+                        <img src="images/TempItem32.png" />
+                </div>
+                <div class="DailyVideoInfo">
+                    <a href="#">凤凰早班车</a>
+                </div>
+            </div>
+            <div class="MainContentNav">
+                <div class="MainContentNavTitle">
+                    <span>导航</span>
+                    <div class="IndexMore"><a href="navigate.html">更多>></a>
+                </div>
+                </div>        
+                <div class="MainContentNavMain">
+                    <div class="MainContentNavSort">
+                        <div class="MainContentNavSortName">
+                            学科
+                        </div>
+                        <div class="MainContentNavItem">
+                            <ul>
+                                <li><a href="Level3Navigate.html">哲学</a></li>
+                                <li><a href="Level3Navigate.html">理论经济学</a></li>
+                                <li><a href="Level3Navigate.html">应用经济学</a></li>
+                                <li><a href="Level3Navigate.html">管理科学与工程</a></li>
+                                <li><a href="Level3Navigate.html">工商管理</a></li>
+                                <li><a href="Level3Navigate.html">图书馆、情报与档案管理</a></li>
+                                <li><a href="Level3Navigate.html">法学</a></li>
+                                <li><a href="Level3Navigate.html">政治学</a></li>
+                                <li><a href="Level3Navigate.html">社会学</a></li>
+                                <li><a href="Level3Navigate.html">马克思主义理论</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div id="specNav" class="MainContentNavSort">
+                        <div id="Div111" class="MainContentNavSortName">
+                            专业
+                        </div>
+                        <div id="Div112" class="MainContentNavItem">
+                            <ul>
+                                <li><a href="Level3Navigate.html">经济学</a></li>
+                                <li><a href="Level3Navigate.html">管理学</a></li>
+                                <li><a href="Level3Navigate.html">法学</a></li>
+                                <li><a href="Level3Navigate.html">哲学</a></li>
+                                <li><a href="Level3Navigate.html">文学</a></li>
+                                <li><a href="Level3Navigate.html">教育学</a></li>
+                                <li><a href="Level3Navigate.html">历史学</a></li>
+                                <li><a href="Level3Navigate.html">艺术学</a></li>
+                                <li><a href="Level3Navigate.html">工学</a></li>
+                                <li><a href="Level3Navigate.html">农学</a></li>
+                                <li><a href="Level3Navigate.html">医学</a></li>
+                                <li><a href="Level3Navigate.html">经济学</a></li>
+                                <li><a href="Level3Navigate.html">管理学</a></li>
+                                <li><a href="Level3Navigate.html">法学</a></li>
+                                <li><a href="Level3Navigate.html">哲学</a></li>
+                                <li><a href="Level3Navigate.html">文学</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div id="Div113" class="MainContentNavSort">
+                        <div id="Div114" class="MainContentNavSortName">
+                            机构
+                        </div>
+                        <div id="Div115" class="MainContentNavItem">
+                            <ul>
+                                <li><a href="Level3Navigate.html">国务院发展研究中心</a></li>
+                                <li><a href="Level3Navigate.html">世行</a></li>
+                                <li><a href="Level3Navigate.html">工信部</a></li>
+                                <li><a href="Level3Navigate.html">科技部</a></li>
+                                <li><a href="Level3Navigate.html">财政部</a></li>
+                                <li><a href="Level3Navigate.html">中央党校</a></li>
+                                <li><a href="Level3Navigate.html">中国社会科学院</a></li>
+                                <li><a href="Level3Navigate.html">国家行政学院</a></li>
+                                <li><a href="Level3Navigate.html">知识产权局</a></li>
+                                <li><a href="Level3Navigate.html">能源局</a></li>
+                                <li><a href="Level3Navigate.html">发改委</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="" class="MainContent">
+                <div id="" class="MainContentLeft">   
+                    <div id="Column" class="ColumnShow">
+                        <div id="" class="ColumnShowTitle">
+                            <span>经济</span>
+                            <div class="IndexMore">
+                                <a href="level2.html">更多>></a>
+                            </div>
+                            <div class="ColumnShowSort">
+                                <a href="level3.html">经济形势</a>|<a href="level3.html">财政金融</a>|<a href="level3.html">产业发展</a>|<a href="level3.html">区域发展</a>
+                            </div>                 
+                        </div>
+                        <div id="" class="ColumnVideoContent">
+                            <div id="" class="ColumnVideo">
+                                <div id="" class="ColumnVideoPicBox">
+                                    <img src="images/speakerL1.png" />
+                                </div>
+                                <div id="" class="ColumnVideoLink">
+                                    <a href="">[<span>刘树坤</span>]加快推进绿色低碳公路建…</a>
+                                </div>
+                            </div>
+                            <div id="" class="ColumnVideo">
+                                <div id="" class="ColumnVideoBorder">
+                                    <img src="images/speakerL2.png" />
+                                </div>
+                                <div class="ColumnVideoLink">
+                                    <a href="">[<span>刘树坤</span>]建设不怕水的城市建设不怕水的城市</a>
+                                </div>
+                            </div>
+                            <div id="" class="ColumnVideo">
+                                <div id="" class="ColumnVideoBorder">
+                                    <img src="images/speakerL3.png" />
+                                </div>
+                                <div id="" class="ColumnVideoLink">
+                                    <a href="">[<span>张永军</span>]宏观经济形势与宏观调控…</a>
+                                </div>
+                            </div>
+                            <div id="" class="ColumnVideo">
+                                <div id="" class="ColumnVideoBorder">
+                                    <img src="images/speakerL1.png" />
+                                </div>
+                                <div class="ColumnVideoLink">
+                                    <a href="">[<span>张永军</span>]中国稀土出口的问题与政…</a>
+                                </div>
+                            </div>
+                            <div id="ColumnVideo5" class="ColumnVideo">
+                                <div id="" class="ColumnVideoBorder">
+                                    <img src="images/speakerL2.png" />
+                                </div>
+                                <div class="ColumnVideoLink">
+                                    <a href="">[<span>张永军</span>]我国大气霾污染形成的机…</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="">
+                            <div id="" class="ColumnOther">
+                                <div id="" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设不怕水的城市建设不怕水的城市</a>
+                                </div>
+                                <div id="" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设人水和谐的城市01</a>
+                                </div>
+                                <div id="Div1" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设人水和谐的城市01</a>
+                                </div>
+                            </div>
+                            <div id="" class="ColumnOther">
+                                <div id="" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设人水和谐的城市01</a>
+                                </div>
+                                <div id="" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设有水文化特色的魅力城市</a>
+                                </div>
+                                <div id="Div2" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设人水和谐的城市01</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>  
+                    <div id="Div3" class="ColumnShow">
+                        <div id="Div4" class="ColumnShowTitle">
+                            <span>经济</span>
+                            <div class="IndexMore">
+                                <a href="level2.html">更多>></a>
+                            </div>
+                            <div class="ColumnShowSort">
+                                <a href="level3.html">经济形势</a>|<a href="level3.html">财政金融</a>|<a href="level3.html">产业发展</a>|<a href="level3.html">区域发展</a>
+                            </div>                 
+                        </div>
+                        <div id="Div5" class="ColumnVideoContent">
+                            <div id="Div6" class="ColumnVideo">
+                                <div id="Div7" class="ColumnVideoPicBox">
+                                    <img src="images/speakerL1.png" />
+                                </div>
+                                <div id="Div8" class="ColumnVideoLink">
+                                    <a href="">[<span>刘树坤</span>]加快推进绿色低碳公路建…</a>
+                                </div>
+                            </div>
+                            <div id="Div9" class="ColumnVideo">
+                                <div id="Div10" class="ColumnVideoBorder">
+                                    <img src="images/speakerL2.png" />
+                                </div>
+                                <div class="ColumnVideoLink">
+                                    <a href="">[<span>刘树坤</span>]建设不怕水的城市</a>
+                                </div>
+                            </div>
+                            <div id="Div11" class="ColumnVideo">
+                                <div id="Div12" class="ColumnVideoBorder">
+                                    <img src="images/speakerL3.png" />
+                                </div>
+                                <div id="Div13" class="ColumnVideoLink">
+                                    <a href="">[<span>张永军</span>]宏观经济形势与宏观调控…</a>
+                                </div>
+                            </div>
+                            <div id="Div14" class="ColumnVideo">
+                                <div id="Div15" class="ColumnVideoBorder">
+                                    <img src="images/speakerL1.png" />
+                                </div>
+                                <div class="ColumnVideoLink">
+                                    <a href="">[<span>张永军</span>]中国稀土出口的问题与政…</a>
+                                </div>
+                            </div>
+                            <div id="Div16" class="ColumnVideo">
+                                <div id="Div17" class="ColumnVideoBorder">
+                                    <img src="images/speakerL2.png" />
+                                </div>
+                                <div class="ColumnVideoLink">
+                                    <a href="">[<span>张永军</span>]我国大气霾污染形成的机…</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="Div18">
+                            <div id="Div19" class="ColumnOther">
+                                <div id="Div20" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设不怕水的城市</a>
+                                </div>
+                                <div id="Div21" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设人水和谐的城市01</a>
+                                </div>
+                                <div id="Div22" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设人水和谐的城市01</a>
+                                </div>
+                            </div>
+                            <div id="Div23" class="ColumnOther">
+                                <div id="Div24" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设人水和谐的城市01</a>
+                                </div>
+                                <div id="Div25" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设有水文化特色的魅力城市</a>
+                                </div>
+                                <div id="Div26" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设人水和谐的城市01</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>                
+                    <div class="IndexAdvert">
+                      <img src="images/TempItem11.png" />
+                    </div>    
+                    <div id="Div27" class="ColumnShow">
+                        <div id="Div28" class="ColumnShowTitle">
+                            <span>经济</span>
+                            <div class="IndexMore">
+                                <a href="level2.html">更多>></a>
+                            </div>
+                            <div class="ColumnShowSort">
+                                <a href="level3.html">经济形势</a>|<a href="level3.html">财政金融</a>|<a href="level3.html">产业发展</a>|<a href="level3.html">区域发展</a>
+                            </div>                 
+                        </div>
+                        <div id="Div29" class="ColumnVideoContent">
+                            <div id="Div30" class="ColumnVideo">
+                                <div id="Div31" class="ColumnVideoPicBox">
+                                    <img src="images/speakerL1.png" />
+                                </div>
+                                <div id="Div32" class="ColumnVideoLink">
+                                    <a href="">[<span>刘树坤</span>]加快推进绿色低碳公路建…</a>
+                                </div>
+                            </div>
+                            <div id="Div33" class="ColumnVideo">
+                                <div id="Div34" class="ColumnVideoBorder">
+                                    <img src="images/speakerL2.png" />
+                                </div>
+                                <div class="ColumnVideoLink">
+                                    <a href="">[<span>刘树坤</span>]建设不怕水的城市</a>
+                                </div>
+                            </div>
+                            <div id="Div35" class="ColumnVideo">
+                                <div id="Div36" class="ColumnVideoBorder">
+                                    <img src="images/speakerL3.png" />
+                                </div>
+                                <div id="Div37" class="ColumnVideoLink">
+                                    <a href="">[<span>张永军</span>]宏观经济形势与宏观调控…</a>
+                                </div>
+                            </div>
+                            <div id="Div38" class="ColumnVideo">
+                                <div id="Div39" class="ColumnVideoBorder">
+                                    <img src="images/speakerL1.png" />
+                                </div>
+                                <div class="ColumnVideoLink">
+                                    <a href="">[<span>张永军</span>]中国稀土出口的问题与政…</a>
+                                </div>
+                            </div>
+                            <div id="Div40" class="ColumnVideo">
+                                <div id="Div41" class="ColumnVideoBorder">
+                                    <img src="images/speakerL2.png" />
+                                </div>
+                                <div class="ColumnVideoLink">
+                                    <a href="">[<span>张永军</span>]我国大气霾污染形成的机…</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="Div42">
+                            <div id="Div43" class="ColumnOther">
+                                <div id="Div44" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设不怕水的城市</a>
+                                </div>
+                                <div id="Div45" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设人水和谐的城市01</a>
+                                </div>
+                                <div id="Div46" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设人水和谐的城市01</a>
+                                </div>
+                            </div>
+                            <div id="Div47" class="ColumnOther">
+                                <div id="Div48" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设人水和谐的城市01</a>
+                                </div>
+                                <div id="Div49" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设有水文化特色的魅力城市</a>
+                                </div>
+                                <div id="Div50" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设人水和谐的城市01</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="Div51" class="ColumnShow">
+                        <div id="Div52" class="ColumnShowTitle">
+                            <span>经济</span>
+                            <div class="IndexMore">
+                                <a href="level2.html">更多>></a>
+                            </div>
+                            <div class="ColumnShowSort">
+                                <a href="level3.html">经济形势</a>|<a href="level3.html">财政金融</a>|<a href="level3.html">产业发展</a>|<a href="level3.html">区域发展</a>
+                            </div>                 
+                        </div>
+                        <div id="Div53" class="ColumnVideoContent">
+                            <div id="Div54" class="ColumnVideo">
+                                <div id="Div55" class="ColumnVideoPicBox">
+                                    <img src="images/speakerL1.png" />
+                                </div>
+                                <div id="Div56" class="ColumnVideoLink">
+                                    <a href="">[<span>刘树坤</span>]加快推进绿色低碳公路建…</a>
+                                </div>
+                            </div>
+                            <div id="Div57" class="ColumnVideo">
+                                <div id="Div58" class="ColumnVideoBorder">
+                                    <img src="images/speakerL2.png" />
+                                </div>
+                                <div class="ColumnVideoLink">
+                                    <a href="">[<span>刘树坤</span>]建设不怕水的城市</a>
+                                </div>
+                            </div>
+                            <div id="Div59" class="ColumnVideo">
+                                <div id="Div60" class="ColumnVideoBorder">
+                                    <img src="images/speakerL3.png" />
+                                </div>
+                                <div id="Div61" class="ColumnVideoLink">
+                                    <a href="">[<span>张永军</span>]宏观经济形势与宏观调控…</a>
+                                </div>
+                            </div>
+                            <div id="Div62" class="ColumnVideo">
+                                <div id="Div63" class="ColumnVideoBorder">
+                                    <img src="images/speakerL1.png" />
+                                </div>
+                                <div class="ColumnVideoLink">
+                                    <a href="">[<span>张永军</span>]中国稀土出口的问题与政…</a>
+                                </div>
+                            </div>
+                            <div id="Div64" class="ColumnVideo">
+                                <div id="Div65" class="ColumnVideoBorder">
+                                    <img src="images/speakerL2.png" />
+                                </div>
+                                <div class="ColumnVideoLink">
+                                    <a href="">[<span>张永军</span>]我国大气霾污染形成的机…</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="Div66">
+                            <div id="Div67" class="ColumnOther">
+                                <div id="Div68" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设不怕水的城市</a>
+                                </div>
+                                <div id="Div69" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设人水和谐的城市01</a>
+                                </div>
+                                <div id="Div70" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设人水和谐的城市01</a>
+                                </div>
+                            </div>
+                            <div id="Div71" class="ColumnOther">
+                                <div id="Div72" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设人水和谐的城市01</a>
+                                </div>
+                                <div id="Div73" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设有水文化特色的魅力城市</a>
+                                </div>
+                                <div id="Div74" class="ColumnOtherLink">
+                                    <a href="">[<span>刘树坤</span>]建设人水和谐的城市01</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>                              
+                </div>
+                <div id="" class="MainContentRight">
+                    <div class="NotableShow">
+                        <div id="" class="NotableShowTitle">
+                            <span>名家</span>
+                            <div class="IndexMore">
+                                <a href="">更多>></a>
+                            </div>
+                        </div>
+                        <div id="" class="NotableShowItem">
+                            <img class="NotableShowPic" src="images/TempItem12.png" />
+                            <div id="" class="NotableShowInfo">
+                               <div class="NotableShowInfoTitle"><a href="">资本项目自由化和人…</a></div>
+                               <div class="NotableShowInfoOther">余永定</div>
+                               <div class="NotableShowInfoOther">社科院世经所原所长</div>
+                               <div class="NotableShowInfoOther">2013-10-10</div>
+                            </div>
+                        </div>
+                        <div id="Div105" class="NotableShowItem">
+                            <img class="NotableShowPic" src="images/TempItem12.png" />
+                            <div  class="NotableShowInfo">
+                               <div class="NotableShowInfoTitle"><a href="">资本项目自由化和人…</a></div>
+                               <div class="NotableShowInfoOther">余永定</div>
+                               <div class="NotableShowInfoOther">社科院世经所原所长</div>
+                               <div class="NotableShowInfoOther">2013-10-10</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="MainVerticalShow">
+                        <div class="MainVerticalShowTitle">
+                            <span>案例</span>
+                            <div class="IndexMore"><a href="" >更多>></a></div>
+                        </div>
+                        <div class="MainVerticalShowVideo">
+                            <img class="MainVerticalShowVideoPic" src="images/TempItem26.png" />
+                            <div class="MainVerticalShowInfo">
+                               <div class="MainVerticalShowInfoTitle">资本项目自由化和人…</div>
+                               <div class="MainVerticalShowInfoOther">余永定</div>
+                               <div class="MainVerticalShowInfoOther">社科院世经所原所长</div>
+                               <div class="MainVerticalShowInfoOther">2013-10-10</div>
+                            </div>
+                        </div>
+                        <ul class="MainVerticalShowList">
+                            <li>
+                                <a href="http://…"><span>[刘树坤]</span>高房价的水的城市</a>
+                            </li>
+                            <li>
+                                 <a href="http://…"><span>[刘树坤]</span>发给客户的高市01</a>
+                            </li>
+                            <li>
+                                <a href="http://…"><span>[刘树坤]</span>建韩国立法大概</a>
+                            </li>
+                            <li>
+                                <a href="http://…"><span>[刘树坤]</span>建设有水文刚回来打电话</a>
+                            </li>
+                            <li>
+                                <a href="http://…"><span>[王跃思]</span>和客户工地染形成的机制</a>
+                            </li>
+                            <li>
+                                <a href="http://…"><span>[王跃思]</span>我国在就好过发话</a>
+                            </li>
+                            <li>
+                                <a href="http://…"><span>[王跃思]</span>和客户工地染形成的机制</a>
+                            </li>
+                            <li>
+                                <a href="http://…"><span>[王跃思]</span>我国在就好过发话</a>
+                            </li>
+                        </ul>                        
+                    </div>
+                    <div class="MainVerticalShowSpace2"></div>
+                    <div class="MainVerticalShow">
+                        <div class="MainVerticalShowTitle">
+                            <span>政策</span>
+                            <div class="IndexMore"><a href="" >更多>></a></div>
+                        </div>
+                        <div class="MainVerticalShowVideo">
+                            <div class="MainVerticalShowVideoPic"><img src="images/TempItem26.png" /></div>
+                            <div class="MainVerticalShowInfo">
+                               <div class="MainVerticalShowInfoTitle">资本项目自由化和人…</div>
+                               <div class="MainVerticalShowInfoOther">余永定</div>
+                               <div class="MainVerticalShowInfoOther">社科院世经所原所长</div>
+                               <div class="MainVerticalShowInfoOther">2013-10-10</div>
+                            </div>
+                        </div>
+                        <ul class="MainVerticalShowList">
+                            <li>
+                                <a href="http://…"><span>[刘树坤]</span>高房价的水的城市</a>
+                            </li>
+                            <li>
+                                 <a href="http://…"><span>[刘树坤]</span>发给客户的高市01</a>
+                            </li>
+                            <li>
+                                <a href="http://…"><span>[刘树坤]</span>建韩国立法大概</a>
+                            </li>
+                            <li>
+                                <a href="http://…"><span>[刘树坤]</span>建设有水文刚回来打电话</a>
+                            </li>                         
+                        </ul>                        
+                    </div>
+                    <div class="MainVerticalShowSpace"></div>
+                    <div class="MainVerticalShow">
+                        <div class="MainVerticalShowTitle">
+                            <span>公开课</span>
+                            <div class="IndexMore"><a href="">更多>></a></div>
+                        </div>
+                        <div class="MainVerticalShowVideo">
+                            <div class="MainVerticalShowVideoPic"><img src="images/TempItem26.png" /></div>
+                            <div class="MainVerticalShowInfo">
+                               <div class="MainVerticalShowInfoTitle">资本项目自由化和人…</div>
+                               <div class="MainVerticalShowInfoOther">余永定</div>
+                               <div class="MainVerticalShowInfoOther">社科院世经所原所长</div>
+                               <div class="MainVerticalShowInfoOther">2013-10-10</div>
+                            </div>
+                        </div>
+                        <div class="MainVerticalShowVideo">
+                            <div class="MainVerticalShowVideoPic"><img src="images/TempItem26.png" /></div>
+                            <div class="MainVerticalShowInfo">
+                               <div class="MainVerticalShowInfoTitle">资本项目自由化和人…</div>
+                               <div class="MainVerticalShowInfoOther">余永定</div>
+                               <div class="MainVerticalShowInfoOther">社科院世经所原所长</div>
+                               <div class="MainVerticalShowInfoOther">2013-10-10</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+        <div class="MainSkill">
+            <div class="MainContentNavTitle">
+                <span>技能</span>
+                <div class="IndexMore">
+                  <a href="#">更多>></a>
+                </div>
+            </div>
+            <div class="MainSkillContent">
+              <div class="MainSkillContentItem">
+                <img class="MainSkillContentImg"  src="images/Skill1.png" />
+                <div class="MainSkillContentText">语言技能语言是交流思想的工具是表达内容的形式。语言技能语言是交流思想</div>
+              </div>    
+              <div class="MainSkillContentItem">
+                <img class="MainSkillContentImg"  src="images/Skill2.png" />
+                <div class="MainSkillContentText">语言技能语言是交流思想的工具是表达内容的形式。语言技能语言是交流思想</div>
+              </div>
+              <div class="MainSkillContentItem">
+                <img class="MainSkillContentImg"  src="images/Skill3.png" />
+                <div class="MainSkillContentText">语言技能语言是交流思想的工具是表达内容的形式。语言技能语言是交流思想</div>
+              </div>
+              <div class="MainSkillContentItem">
+                <img class="MainSkillContentImg"  src="images/Skill4.png" />
+                <div class="MainSkillContentText">语言技能语言是交流思想的工具是表达内容的形式。语言技能语言是交流思想</div>
+              </div>
+              <div class="MainSkillContentItem">
+                <img class="MainSkillContentImg"  src="images/Skill5.png" />
+                <div class="MainSkillContentText">语言技能语言是交流思想的工具是表达内容的形式。语言技能语言是交流思想</div>
+              </div>
+              <div class="MainSkillContentItem">
+                <img class="MainSkillContentImg"  src="images/Skill6.png" />
+                <div class="MainSkillContentText">语言技能语言是交流思想的工具是表达内容的形式。语言技能语言是交流思想</div>
+              </div>
+              <div class="MainSkillContentItem">
+                <img class="MainSkillContentImg"  src="images/Skill7.png" />
+                <div class="MainSkillContentText">语言技能语言是交流思想的工具是表达内容的形式。语言技能语言是交流思想</div>
+              </div>  
+              <div class="MainSkillContentItem">
+                <img class="MainSkillContentImg"  src="images/Skill8.png" />
+                <div class="MainSkillContentText">语言技能语言是交流思想的工具是表达内容的形式。语言技能语言是交流思想</div>
+              </div>      
+            </div>
+        </div>
+        <div class="MainTrain">
+            <div class="MainContentNavTitle">
+                <span>培训</span>
+                <div class="IndexMore">
+                <a href="#">更多>></a>
+                </div>
+            </div>        
+            <div class="MainTrainContent">
+              <div class="MainTrainContentItem">
+                <img class="MainTrainContentImg"  src="images/train1.png" />
+                <ul class="MainTrainList">
+                  <li>第一讲 切实增强理性认同，自…</li>
+                  <li>第二讲 坚持群体路线，改进党</li>  
+                  <li>第三讲 群众路线的新问题与新突</li>  
+                  <li>第四讲 保持党的先进性和纯洁…</li>  
+                </ul>
+              </div> 
+              <div class="MainTrainContentItem">
+                <img class="MainTrainContentImg"  src="images/train2.png" />
+                <ul class="MainTrainList">
+                  <li>第一讲 切实增强理性认同，自…</li>
+                  <li>第二讲 坚持群体路线，改进党</li>  
+                  <li>第三讲 群众路线的新问题与新突</li>  
+                  <li>第四讲 保持党的先进性和纯洁…</li>  
+                </ul>
+              </div>
+              <div class="MainTrainContentItem">
+                <img class="MainTrainContentImg"  src="images/train3.png" />
+                <ul class="MainTrainList">
+                  <li>第一讲 切实增强理性认同，自…</li>
+                  <li>第二讲 坚持群体路线，改进党</li>  
+                  <li>第三讲 群众路线的新问题与新突</li>  
+                  <li>第四讲 保持党的先进性和纯洁…</li>  
+                </ul>
+              </div>
+              <div class="MainTrainContentItem">
+                <img class="MainTrainContentImg"  src="images/train4.png" />
+                <ul class="MainTrainList">
+                  <li>第一讲 切实增强理性认同，自…</li>
+                  <li>第二讲 坚持群体路线，改进党</li>  
+                  <li>第三讲 群众路线的新问题与新突</li>  
+                  <li>第四讲 保持党的先进性和纯洁…</li>  
+                </ul>
+              </div>
+              <div class="MainTrainContentItem">
+                <img class="MainTrainContentImg"  src="images/train5.png" />
+                <ul class="MainTrainList">
+                  <li>第一讲 切实增强理性认同，自…</li>
+                  <li>第二讲 坚持群体路线，改进党</li>  
+                  <li>第三讲 群众路线的新问题与新突</li>  
+                  <li>第四讲 保持党的先进性和纯洁…</li>  
+                </ul>
+              </div>
+              <div class="MainTrainContentItem">
+                <img class="MainTrainContentImg"  src="images/train6.png" />
+                <ul class="MainTrainList">
+                  <li>第一讲 切实增强理性认同，自…</li>
+                  <li>第二讲 坚持群体路线，改进党</li>  
+                  <li>第三讲 群众路线的新问题与新突</li>  
+                  <li>第四讲 保持党的先进性和纯洁…</li>  
+                </ul>
+              </div>
+            </div>
+        </div>
+        <div id="Footer">
+          <div class="FooterNav">
+                <a href="#">关于我们</a>
+                <span>|</span> 
+                <a href="#">产品介绍</a>
+                <span>|</span> 
+                <a href="#">内容资源</a>
+                <span>|</span> 
+                <a href="#">核心优势</a>
+                <span>|</span> 
+                <a href="#">业务类型</a>
+                <span>|</span> 
+                <a href="#">服务方式</a>
+                <span>|</span> 
+                <a href="#">成功案例</a>
+                <span>|</span> 
+                <a href="#">联系方式</a>
+                <span>|</span> 
+                <a href="#">版权声明</a>
+                <span>|</span> 
+                <a href="#">使用方式</a>
+          </div>
+          <div class="FooterCopyright">版权所有 中国经济信息网 中经视频-高校版</div>
+        </div>
+    </div>
+</body>
+</html>

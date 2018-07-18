@@ -1,0 +1,1193 @@
+﻿[
+  {
+    "id": "ba0817ac36634d7a8240e89a47f0720b",
+    "text": "经济学",
+    "href": "Level2Lite.aspx?alias=gxchannel1&id=ba0817ac36634d7a8240e89a47f0720b",
+    "nodes": [
+      {
+        "id": "944273be1a6a49eeaea8309ad08a1b75",
+        "text": "政治经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=944273be1a6a49eeaea8309ad08a1b75"
+      },
+      {
+        "id": "478231b584644e1093d32904fb895f0e",
+        "text": "宏观经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=478231b584644e1093d32904fb895f0e",
+        "nodes": [
+          {
+            "id": "3bd92373c6d34b19b169c838e25ecb36",
+            "text": "西方宏观经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=3bd92373c6d34b19b169c838e25ecb36"
+          },
+          {
+            "id": "f81b909196bf40d0b18808aceabe0f4c",
+            "text": "社会主义宏观经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=f81b909196bf40d0b18808aceabe0f4c"
+          }
+        ]
+      },
+      {
+        "id": "1a215c0a41bb4fc091375c607f228d40",
+        "text": "微观经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=1a215c0a41bb4fc091375c607f228d40",
+        "nodes": [
+          {
+            "id": "ebc14c9896dc4148bec99c020fdeaeb3",
+            "text": "西方微观经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=ebc14c9896dc4148bec99c020fdeaeb3"
+          },
+          {
+            "id": "8216255bfabf4d57a899303e01990abd",
+            "text": "社会主义微观经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=8216255bfabf4d57a899303e01990abd"
+          }
+        ]
+      },
+      {
+        "id": "2a4126551a0b484a94cd58ece7f46663",
+        "text": "经济史及经济思想史",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=2a4126551a0b484a94cd58ece7f46663"
+      },
+      {
+        "id": "0d27e538b3f94d0d80cc1fdfd8f1cfeb",
+        "text": "财政学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=0d27e538b3f94d0d80cc1fdfd8f1cfeb"
+      },
+      {
+        "id": "ab77ac661f7d45aba9a7b018deebd477",
+        "text": "金融学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=ab77ac661f7d45aba9a7b018deebd477",
+        "nodes": [
+          {
+            "id": "e0ead59aa5b246fe8fe8587f07368a65",
+            "text": "货币经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=e0ead59aa5b246fe8fe8587f07368a65"
+          },
+          {
+            "id": "dc6d8576378e4e01a0095cf3707e09c2",
+            "text": "银行学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=dc6d8576378e4e01a0095cf3707e09c2"
+          },
+          {
+            "id": "8a900f3424df4190b01240b6310bfa73",
+            "text": "金融资产管理学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=8a900f3424df4190b01240b6310bfa73"
+          },
+          {
+            "id": "5ba15dca3ff84bd88b0539c7ea620259",
+            "text": "信贷理论",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=5ba15dca3ff84bd88b0539c7ea620259"
+          },
+          {
+            "id": "bd8daa4f487b4d038439850cbc185e61",
+            "text": "投资理论",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=bd8daa4f487b4d038439850cbc185e61"
+          },
+          {
+            "id": "cb49192bed6e42b098a3094bf0c83e0e",
+            "text": "金融市场",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=cb49192bed6e42b098a3094bf0c83e0e"
+          },
+          {
+            "id": "5845d687ecc54128b29ef23cbb644f28",
+            "text": "公司金融",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=5845d687ecc54128b29ef23cbb644f28"
+          },
+          {
+            "id": "b36b625e1798429d9788c414a7d34867",
+            "text": "金融发展学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=b36b625e1798429d9788c414a7d34867"
+          },
+          {
+            "id": "55c411c919444376b69f9636d307368a",
+            "text": "金融制度学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=55c411c919444376b69f9636d307368a"
+          },
+          {
+            "id": "1234c59ae7f84d89ba565c1128950a6f",
+            "text": "保险学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=1234c59ae7f84d89ba565c1128950a6f"
+          },
+          {
+            "id": "d2840964777a465680ad015016ab464f",
+            "text": "金融学其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=d2840964777a465680ad015016ab464f"
+          }
+        ]
+      },
+      {
+        "id": "4d815dad3f6e4db5b326f827dfc5373c",
+        "text": "世界经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=4d815dad3f6e4db5b326f827dfc5373c",
+        "nodes": [
+          {
+            "id": "55ca107e6d854607b8a3f129aab714e1",
+            "text": "国际经济关系",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=55ca107e6d854607b8a3f129aab714e1"
+          },
+          {
+            "id": "6f8965e58a70438795123b1fd7589fb7",
+            "text": "国际贸易学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=6f8965e58a70438795123b1fd7589fb7"
+          },
+          {
+            "id": "92904379b0614fd9b33ef392b256f6a4",
+            "text": "国际货币经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=92904379b0614fd9b33ef392b256f6a4"
+          },
+          {
+            "id": "3495ee902a1b404e829abc756b129d9d",
+            "text": "国际金融学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=3495ee902a1b404e829abc756b129d9d"
+          },
+          {
+            "id": "6e20ae2bd81a47059da5fe34b7264111",
+            "text": "国际投资学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=6e20ae2bd81a47059da5fe34b7264111"
+          },
+          {
+            "id": "b82946ee37da4efcab138a6aabc3f10f",
+            "text": "国际收支理论",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=b82946ee37da4efcab138a6aabc3f10f"
+          },
+          {
+            "id": "25e79737ce07435196ae16aa2dca4495",
+            "text": "美国经济",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=25e79737ce07435196ae16aa2dca4495"
+          },
+          {
+            "id": "7863653c3a914854989e83816135cf49",
+            "text": "欧洲经济",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=7863653c3a914854989e83816135cf49"
+          },
+          {
+            "id": "f7bb9c0066af4fc4a2d5ace09b2b71f4",
+            "text": "亚太经济",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=f7bb9c0066af4fc4a2d5ace09b2b71f4"
+          },
+          {
+            "id": "048799047f814e339bd8890a25a08832",
+            "text": "美洲经济",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=048799047f814e339bd8890a25a08832"
+          },
+          {
+            "id": "76fd7d0ea2034453ad14ddebbd70f69c",
+            "text": "非洲经济",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=76fd7d0ea2034453ad14ddebbd70f69c"
+          },
+          {
+            "id": "28e28d7e2aaa4d27958e8b626f572e08",
+            "text": "中亚、西亚经济",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=28e28d7e2aaa4d27958e8b626f572e08"
+          },
+          {
+            "id": "39eb2dd02056454fa5f952af7d8f0650",
+            "text": "世界经济其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=39eb2dd02056454fa5f952af7d8f0650"
+          }
+        ]
+      },
+      {
+        "id": "0d9eec3f91c74a5f9905e7d0879f4986",
+        "text": "国民经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=0d9eec3f91c74a5f9905e7d0879f4986",
+        "nodes": [
+          {
+            "id": "97bbaadb59cc460a8836f6c1b1d017dd",
+            "text": "区域经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=97bbaadb59cc460a8836f6c1b1d017dd"
+          },
+          {
+            "id": "c322629e80bb4e0eba108666c20ae59d",
+            "text": "消费经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=c322629e80bb4e0eba108666c20ae59d"
+          },
+          {
+            "id": "daa9c349c0ae4dbdb4af575909f5f606",
+            "text": "投资经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=daa9c349c0ae4dbdb4af575909f5f606"
+          },
+          {
+            "id": "1567ca8f9be7463e9a1aecb8fbd425ed",
+            "text": "国民经济学其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=1567ca8f9be7463e9a1aecb8fbd425ed"
+          }
+        ]
+      },
+      {
+        "id": "2e640f224fca4f9b9a154932d9045688",
+        "text": "技术经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=2e640f224fca4f9b9a154932d9045688",
+        "nodes": [
+          {
+            "id": "84713371eb8a4beabb2125dfef02c4e8",
+            "text": "工业技术经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=84713371eb8a4beabb2125dfef02c4e8"
+          },
+          {
+            "id": "691701916df24707a293cf4c47d5e0f2",
+            "text": "农业技术经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=691701916df24707a293cf4c47d5e0f2"
+          },
+          {
+            "id": "858b8ad3538640029faa8e149ce59724",
+            "text": "能源技术经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=858b8ad3538640029faa8e149ce59724"
+          },
+          {
+            "id": "1b9746f8ee514dcc97485dea21394f5a",
+            "text": "交通运输技术经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=1b9746f8ee514dcc97485dea21394f5a"
+          },
+          {
+            "id": "dc3385d21a8d4f48a9355956f9833fad",
+            "text": "建筑技术经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=dc3385d21a8d4f48a9355956f9833fad"
+          },
+          {
+            "id": "e8e62c4d2ced49d5ac7921195ec5a634",
+            "text": "物流技术经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=e8e62c4d2ced49d5ac7921195ec5a634"
+          },
+          {
+            "id": "4277afa89cec4812948b9dfa2c268ed9",
+            "text": "服务技术经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=4277afa89cec4812948b9dfa2c268ed9"
+          },
+          {
+            "id": "873ed7c7b43044e79c6343b05ac27bc5",
+            "text": "贸易技术经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=873ed7c7b43044e79c6343b05ac27bc5"
+          },
+          {
+            "id": "43e45ad44e874109a62f5f764531db23",
+            "text": "技术进步经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=43e45ad44e874109a62f5f764531db23"
+          },
+          {
+            "id": "4fc63698424d4e72b3e184e9cb2654fa",
+            "text": "资源开发利用技术经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=4fc63698424d4e72b3e184e9cb2654fa"
+          },
+          {
+            "id": "bb050543cf934c8b837f274eb4435fd4",
+            "text": "环境保护技术经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=bb050543cf934c8b837f274eb4435fd4"
+          },
+          {
+            "id": "766b083c517148c4b96d2e53da96bb62",
+            "text": "技术经济学其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=766b083c517148c4b96d2e53da96bb62"
+          }
+        ]
+      },
+      {
+        "id": "d4369a5e4ced493ead4a445332f02a0e",
+        "text": "生态经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=d4369a5e4ced493ead4a445332f02a0e",
+        "nodes": [
+          {
+            "id": "4fdb0eb8d3104090a6e4fa9decac24ca",
+            "text": "森林生态经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=4fdb0eb8d3104090a6e4fa9decac24ca"
+          },
+          {
+            "id": "f890b177f62943ba96b58d599ceeaf53",
+            "text": "草原生态经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=f890b177f62943ba96b58d599ceeaf53"
+          },
+          {
+            "id": "ca8a665381364b968155a4b20b5f9cc2",
+            "text": "水域生态经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=ca8a665381364b968155a4b20b5f9cc2"
+          },
+          {
+            "id": "26c45ff1de954cf0bf1480f4194f01ef",
+            "text": "城市生态经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=26c45ff1de954cf0bf1480f4194f01ef"
+          },
+          {
+            "id": "abfa447e96c14bf9b337cd09818bd56e",
+            "text": "区域生态经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=abfa447e96c14bf9b337cd09818bd56e"
+          },
+          {
+            "id": "aa2b93bff3774547ba6472f77ddbbd10",
+            "text": "生态经济学其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=aa2b93bff3774547ba6472f77ddbbd10"
+          }
+        ]
+      },
+      {
+        "id": "9dbbfafc766748fda42a5482b2bfd161",
+        "text": "环境经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=9dbbfafc766748fda42a5482b2bfd161"
+      },
+      {
+        "id": "13afa99b0ed14cccb65307ec91737d25",
+        "text": "资源经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=13afa99b0ed14cccb65307ec91737d25",
+        "nodes": [
+          {
+            "id": "181296217cd64c59bf79cb3150fc1dcc",
+            "text": "海洋资源经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=181296217cd64c59bf79cb3150fc1dcc"
+          },
+          {
+            "id": "3583494678e04a418ca2015eeeffc702",
+            "text": "生物资源经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=3583494678e04a418ca2015eeeffc702"
+          },
+          {
+            "id": "e1fde28b0b924719872c94119d81f0d9",
+            "text": "矿产资源经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=e1fde28b0b924719872c94119d81f0d9"
+          },
+          {
+            "id": "0d9bf13c95824751b320a1ddc84dc624",
+            "text": "能源经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=0d9bf13c95824751b320a1ddc84dc624"
+          },
+          {
+            "id": "c4c6818876d4462092fe2417df1811a5",
+            "text": "资源开发与利用",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=c4c6818876d4462092fe2417df1811a5"
+          },
+          {
+            "id": "81080d65124946bd92ba3ebb6b636768",
+            "text": "资源经济学其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=81080d65124946bd92ba3ebb6b636768"
+          }
+        ]
+      },
+      {
+        "id": "39bc417a4e48491f877d6abdafc4e89a",
+        "text": "可持续发展经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=39bc417a4e48491f877d6abdafc4e89a"
+      },
+      {
+        "id": "5ad94f9dec744f0cba34e6abb215795c",
+        "text": "城市经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=5ad94f9dec744f0cba34e6abb215795c",
+        "nodes": [
+          {
+            "id": "95034bb38e5d40288e2b9641b2354ea9",
+            "text": "城市经济管理学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=95034bb38e5d40288e2b9641b2354ea9"
+          },
+          {
+            "id": "69199ddad0374c879cb4e5574ead82a9",
+            "text": "城市土地经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=69199ddad0374c879cb4e5574ead82a9"
+          },
+          {
+            "id": "27fd8ebbe19448019cd85a12c0a887c2",
+            "text": "市政经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=27fd8ebbe19448019cd85a12c0a887c2"
+          },
+          {
+            "id": "c33c179fcce74cb58328fbcf75c3bd27",
+            "text": "房地产经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=c33c179fcce74cb58328fbcf75c3bd27"
+          },
+          {
+            "id": "a60dffb3ff8a4f27b228d9affd5ab606",
+            "text": "城市经济学其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=a60dffb3ff8a4f27b228d9affd5ab606"
+          }
+        ]
+      },
+      {
+        "id": "1aa59cb5d5b2457fbd516340ed9f9362",
+        "text": "物流经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=1aa59cb5d5b2457fbd516340ed9f9362"
+      },
+      {
+        "id": "db5b6fef1083482eae1c89ad0f257356",
+        "text": "工业经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=db5b6fef1083482eae1c89ad0f257356",
+        "nodes": [
+          {
+            "id": "aaad4f54c8e945ed979ab9529da57794",
+            "text": "工业发展经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=aaad4f54c8e945ed979ab9529da57794"
+          },
+          {
+            "id": "e897ec1f7e3945aeabffeb319f8cf722",
+            "text": "工业企业经营管理学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=e897ec1f7e3945aeabffeb319f8cf722"
+          },
+          {
+            "id": "7dbec8ad28f7415cb1e3d20c22db5b3a",
+            "text": "工业经济学其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=7dbec8ad28f7415cb1e3d20c22db5b3a"
+          }
+        ]
+      },
+      {
+        "id": "f0a40d8bc17d43529a4ec1438b46ddb4",
+        "text": "农村经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=f0a40d8bc17d43529a4ec1438b46ddb4"
+      },
+      {
+        "id": "58f6e9bec2d14d97bc09766d1c344da5",
+        "text": "农业经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=58f6e9bec2d14d97bc09766d1c344da5",
+        "nodes": [
+          {
+            "id": "10aac46ec4c849fb841dd1e0af5b189a",
+            "text": "农业生态经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=10aac46ec4c849fb841dd1e0af5b189a"
+          },
+          {
+            "id": "5cd025d1e9d14d27b6d43d8ee50f6a7c",
+            "text": "农业生产经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=5cd025d1e9d14d27b6d43d8ee50f6a7c"
+          },
+          {
+            "id": "1bbd17b468b94d989e62fc83472acf02",
+            "text": "世界农业经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=1bbd17b468b94d989e62fc83472acf02"
+          },
+          {
+            "id": "0cee2fd5fe1b4a5db37122a6cfc39123",
+            "text": "农业经济学其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=0cee2fd5fe1b4a5db37122a6cfc39123"
+          }
+        ]
+      },
+      {
+        "id": "269c2cac5f2c454a8ac892806b7d7bc3",
+        "text": "交通运输经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=269c2cac5f2c454a8ac892806b7d7bc3",
+        "nodes": [
+          {
+            "id": "3f8aa722dd13494abe55fbd4d1a89b5e",
+            "text": "城市运输经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=3f8aa722dd13494abe55fbd4d1a89b5e"
+          },
+          {
+            "id": "52763d4ef8ff4f4f93854f4558d22881",
+            "text": "铁路运输经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=52763d4ef8ff4f4f93854f4558d22881"
+          },
+          {
+            "id": "0fd06955524d4b5a8b6ddc359ed3c8e3",
+            "text": "航空运输经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=0fd06955524d4b5a8b6ddc359ed3c8e3"
+          },
+          {
+            "id": "9d715d6ff70c40c2b89dbe4d166a2a8f",
+            "text": "公路运输经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=9d715d6ff70c40c2b89dbe4d166a2a8f"
+          },
+          {
+            "id": "608a03f3465f423caf28eeea30fa06f1",
+            "text": "水路运输经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=608a03f3465f423caf28eeea30fa06f1"
+          },
+          {
+            "id": "faf114950b5f432299fe7ac9f5a021aa",
+            "text": "综合运输经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=faf114950b5f432299fe7ac9f5a021aa"
+          },
+          {
+            "id": "95596f0ea52344e9a10ed697fcfa5ad4",
+            "text": "交通运输经济学其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=95596f0ea52344e9a10ed697fcfa5ad4"
+          }
+        ]
+      },
+      {
+        "id": "2712fea5e938486ab9de88c10d13cc32",
+        "text": "商业经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=2712fea5e938486ab9de88c10d13cc32",
+        "nodes": [
+          {
+            "id": "0e028e4282f04e25ab40ebf92cada249",
+            "text": "商业企业管理学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=0e028e4282f04e25ab40ebf92cada249"
+          },
+          {
+            "id": "2f0bdc2e8b964bd8bdb34772ff698988",
+            "text": "服务经济学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=2f0bdc2e8b964bd8bdb34772ff698988"
+          },
+          {
+            "id": "64442c2f06c64973a7f3cf0388ff7048",
+            "text": "市场学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=64442c2f06c64973a7f3cf0388ff7048"
+          },
+          {
+            "id": "ae47e5fad9034879a039b2a3429001e8",
+            "text": "价格学",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=ae47e5fad9034879a039b2a3429001e8"
+          },
+          {
+            "id": "312e084f5235417cb812d81f7d1d9fd0",
+            "text": "商业经济学其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel1&id=312e084f5235417cb812d81f7d1d9fd0"
+          }
+        ]
+      },
+      {
+        "id": "02c710edfc4541eab23a633d6244e789",
+        "text": "旅游经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=02c710edfc4541eab23a633d6244e789"
+      },
+      {
+        "id": "63f6aefc6eb84b5fb4b76a08c8a133ae",
+        "text": "信息经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=63f6aefc6eb84b5fb4b76a08c8a133ae"
+      },
+      {
+        "id": "c536765432f0436ca1e8ea8ec84bb900",
+        "text": "劳动经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=c536765432f0436ca1e8ea8ec84bb900"
+      },
+      {
+        "id": "becb106dd4a94eb896471745434a2526",
+        "text": "比较经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=becb106dd4a94eb896471745434a2526"
+      },
+      {
+        "id": "82da420671b94a2ab96cc6ccaac90445",
+        "text": "发展经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=82da420671b94a2ab96cc6ccaac90445"
+      },
+      {
+        "id": "280f60a914c340eea6ed4ca3ffc1da4b",
+        "text": "管理经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=280f60a914c340eea6ed4ca3ffc1da4b"
+      },
+      {
+        "id": "06fc863c9fcd4605b09032f6ec212e5d",
+        "text": "数量经济学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=06fc863c9fcd4605b09032f6ec212e5d"
+      },
+      {
+        "id": "899f81a42a7b40e1871f35843bf4f7bf",
+        "text": "会计学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=899f81a42a7b40e1871f35843bf4f7bf"
+      },
+      {
+        "id": "7896ac78666e49b789df9e11944d0333",
+        "text": "审计学",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=7896ac78666e49b789df9e11944d0333"
+      },
+      {
+        "id": "a6ef2dd7c5e440f598f6b470fedbc375",
+        "text": "经济学其他学科",
+        "href": "Level2Lite.aspx?alias=gxchannel1&id=a6ef2dd7c5e440f598f6b470fedbc375"
+      }
+    ]
+  },
+  {
+    "id": "489b761f8bbb47c1b6abf5696783e95f",
+    "text": "管理学",
+    "href": "Level2Lite.aspx?alias=gxchannel2&id=489b761f8bbb47c1b6abf5696783e95f",
+    "nodes": [
+      {
+        "id": "3ca693ce85894af297b220fa2a7fc732",
+        "text": "管理思想史",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=3ca693ce85894af297b220fa2a7fc732"
+      },
+      {
+        "id": "ee320c4bfe5b4465b4ff226605bc9803",
+        "text": "管理理论",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=ee320c4bfe5b4465b4ff226605bc9803",
+        "nodes": [
+          {
+            "id": "116c127275ee44db9275d4027d59520a",
+            "text": "管理哲学",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=116c127275ee44db9275d4027d59520a"
+          },
+          {
+            "id": "e8a99a22ba91496b892a5f265592f506",
+            "text": "组织理论",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=e8a99a22ba91496b892a5f265592f506"
+          },
+          {
+            "id": "dcc4bc9c3a49440b886aae6b3387d003",
+            "text": "决策理论",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=dcc4bc9c3a49440b886aae6b3387d003"
+          },
+          {
+            "id": "3013da142fdf42369cd876eeb42dfccb",
+            "text": "系统管理理论",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=3013da142fdf42369cd876eeb42dfccb"
+          },
+          {
+            "id": "9579300a7cbd4a1e88502659e9e2ef58",
+            "text": "管理理论其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=9579300a7cbd4a1e88502659e9e2ef58"
+          }
+        ]
+      },
+      {
+        "id": "7d9c8436e4134218be08832ccb516a45",
+        "text": "部门经济管理",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=7d9c8436e4134218be08832ccb516a45"
+      },
+      {
+        "id": "29d63e0348fc4c8cbd97dc6f599beb9a",
+        "text": "区域经济管理",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=29d63e0348fc4c8cbd97dc6f599beb9a"
+      },
+      {
+        "id": "7574b08dde84403595f54a44a385195f",
+        "text": "科学学与科技管理",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=7574b08dde84403595f54a44a385195f"
+      },
+      {
+        "id": "914bc262f4954628b5496a2c1ce6a473",
+        "text": "企业管理",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=914bc262f4954628b5496a2c1ce6a473",
+        "nodes": [
+          {
+            "id": "fb3531906cd949b4a73e04fecd4de980",
+            "text": "生产经营管理",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=fb3531906cd949b4a73e04fecd4de980"
+          },
+          {
+            "id": "176dc5b0356e4df8bbc51be45ec4efb5",
+            "text": "劳动人事管理",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=176dc5b0356e4df8bbc51be45ec4efb5"
+          },
+          {
+            "id": "68043915f6104dd7a90e39937ee87cfd",
+            "text": "财务税务管理",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=68043915f6104dd7a90e39937ee87cfd"
+          },
+          {
+            "id": "a4b3f9270b3e4438897df6976f67a326",
+            "text": "市场营销管理",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=a4b3f9270b3e4438897df6976f67a326"
+          },
+          {
+            "id": "03d59cd2fb23444ab865703750a8b053",
+            "text": "设备物资管理",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=03d59cd2fb23444ab865703750a8b053"
+          },
+          {
+            "id": "742faec19c0e48d5b157de574eff5d30",
+            "text": "企业管理其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=742faec19c0e48d5b157de574eff5d30"
+          }
+        ]
+      },
+      {
+        "id": "79f9df84f60b4d70b338397c86d206b5",
+        "text": "公共管理",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=79f9df84f60b4d70b338397c86d206b5",
+        "nodes": [
+          {
+            "id": "efa938dbc1dc4bf78122fa0297482e96",
+            "text": "行政管理",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=efa938dbc1dc4bf78122fa0297482e96"
+          },
+          {
+            "id": "cabfbda7a33547dea1c1578b39b0e053",
+            "text": "危机管理",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=cabfbda7a33547dea1c1578b39b0e053"
+          },
+          {
+            "id": "eed9926c52374c85a440db2df22c2073",
+            "text": "公共管理其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=eed9926c52374c85a440db2df22c2073"
+          }
+        ]
+      },
+      {
+        "id": "22a29ca7726c446bb94ba551df138499",
+        "text": "管理工程",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=22a29ca7726c446bb94ba551df138499",
+        "nodes": [
+          {
+            "id": "d57829b6c70f4301ab4bc6549dc1ee17",
+            "text": "生产系统管理",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=d57829b6c70f4301ab4bc6549dc1ee17"
+          },
+          {
+            "id": "e4c601794a0a49da8616165deb84aba1",
+            "text": "研究与开发管理",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=e4c601794a0a49da8616165deb84aba1"
+          },
+          {
+            "id": "7ff2fec2239d4a4aac59fe8709ed2473",
+            "text": "质量控制与可控性管理",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=7ff2fec2239d4a4aac59fe8709ed2473"
+          },
+          {
+            "id": "00e857a55c0d437e98ede3c71f32e377",
+            "text": "物流系统管理",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=00e857a55c0d437e98ede3c71f32e377"
+          },
+          {
+            "id": "45fc2adbf8e444e09589fbf91f97fc0d",
+            "text": "战略管理",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=45fc2adbf8e444e09589fbf91f97fc0d"
+          },
+          {
+            "id": "c306cb47a0334d90b9ef8262f6355bdd",
+            "text": "决策分析",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=c306cb47a0334d90b9ef8262f6355bdd"
+          },
+          {
+            "id": "04b636d876274a1d8eb8beded3fead31",
+            "text": "决策支持系统",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=04b636d876274a1d8eb8beded3fead31"
+          },
+          {
+            "id": "a400a453388b4d848cd6c2c19cfeaf8d",
+            "text": "管理信息系统",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=a400a453388b4d848cd6c2c19cfeaf8d"
+          },
+          {
+            "id": "c1460bfe9e974eeea1b49812dd68aeda",
+            "text": "管理系统仿真",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=c1460bfe9e974eeea1b49812dd68aeda"
+          },
+          {
+            "id": "a2fa7670a9b944e6b590b24627569a4a",
+            "text": "工效学",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=a2fa7670a9b944e6b590b24627569a4a"
+          },
+          {
+            "id": "26417bd7dfb94272ae413bae5652a273",
+            "text": "部门管理工程",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=26417bd7dfb94272ae413bae5652a273"
+          },
+          {
+            "id": "15cdbd1ea30f4732af7aef140db7853a",
+            "text": "管理工程其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=15cdbd1ea30f4732af7aef140db7853a"
+          }
+        ]
+      },
+      {
+        "id": "8f86b578fc7c4abc8aa8756b1495a38a",
+        "text": "人力资源开发与管理",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=8f86b578fc7c4abc8aa8756b1495a38a"
+      },
+      {
+        "id": "d5e8e301e84b4f5192b56aeb10826901",
+        "text": "未来学",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=d5e8e301e84b4f5192b56aeb10826901"
+      },
+      {
+        "id": "6b755191d06e40fda451fcc0809fd117",
+        "text": "管理学其他学科",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=6b755191d06e40fda451fcc0809fd117"
+      }
+    ]
+  },
+  {
+    "id": "eb0f7dfa9160488aa9a4c2c2652fcf08",
+    "text": "社会学",
+    "href": "Level2Lite.aspx?alias=gxchannel2&id=eb0f7dfa9160488aa9a4c2c2652fcf08",
+    "nodes": [
+      {
+        "id": "717e274fc12c445d9b019f059fb8e65e",
+        "text": "社会学理论",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=717e274fc12c445d9b019f059fb8e65e"
+      },
+      {
+        "id": "2322bb6f072149c0929328dd6597ef55",
+        "text": "应用社会学",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=2322bb6f072149c0929328dd6597ef55",
+        "nodes": [
+          {
+            "id": "bf417794262f4aa2b7682eb15e2f95d6",
+            "text": "医学社会学",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=bf417794262f4aa2b7682eb15e2f95d6"
+          },
+          {
+            "id": "72fe3ac2bb3d4fc3a819e4c28671afdd",
+            "text": "城市社会学",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=72fe3ac2bb3d4fc3a819e4c28671afdd"
+          },
+          {
+            "id": "69e377f1e8574ad08363741d8fc5c757",
+            "text": "农村社会学",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=69e377f1e8574ad08363741d8fc5c757"
+          },
+          {
+            "id": "2af3b69ce7ff49ae9b0501cf7a1f8242",
+            "text": "环境社会学",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=2af3b69ce7ff49ae9b0501cf7a1f8242"
+          },
+          {
+            "id": "6d77e51a53e648e0b15cf2c62e29c815",
+            "text": "家庭社会学",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=6d77e51a53e648e0b15cf2c62e29c815"
+          },
+          {
+            "id": "009d31c8ce824af2890a5e3ceda928b7",
+            "text": "老年社会学",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=009d31c8ce824af2890a5e3ceda928b7"
+          },
+          {
+            "id": "183794f39abc4e0da47630ab481fa10d",
+            "text": "社会问题研究",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=183794f39abc4e0da47630ab481fa10d"
+          },
+          {
+            "id": "01d46fd31f53465dbc6f0e73035c1398",
+            "text": "社会保障研究",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=01d46fd31f53465dbc6f0e73035c1398"
+          },
+          {
+            "id": "b4603959500242819d2dba3710eb21bc",
+            "text": "应用社会学其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel2&id=b4603959500242819d2dba3710eb21bc"
+          }
+        ]
+      },
+      {
+        "id": "3f368bbdf9c94ef8af57465f5ca697e7",
+        "text": "文化社会学",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=3f368bbdf9c94ef8af57465f5ca697e7"
+      },
+      {
+        "id": "241aa6ec2cf3477b8ea99e8dcdb4df8c",
+        "text": "经济社会学",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=241aa6ec2cf3477b8ea99e8dcdb4df8c"
+      },
+      {
+        "id": "163a8c6612764903ba8af5e0eb3bf1b2",
+        "text": "社会心理学",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=163a8c6612764903ba8af5e0eb3bf1b2"
+      },
+      {
+        "id": "b82bfa4d76cf46deb110c8195b52f063",
+        "text": "公共关系学",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=b82bfa4d76cf46deb110c8195b52f063"
+      },
+      {
+        "id": "909dffde37414f54b417251e147e8c6e",
+        "text": "发展社会学",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=909dffde37414f54b417251e147e8c6e"
+      },
+      {
+        "id": "4806714b0fa44c6e9f0a9c14c9b97100",
+        "text": "福利社会学",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=4806714b0fa44c6e9f0a9c14c9b97100"
+      },
+      {
+        "id": "0c9bed4ae49f4842b276062dfc2c8e64",
+        "text": "人口学",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=0c9bed4ae49f4842b276062dfc2c8e64"
+      },
+      {
+        "id": "19e85e7a188941c8a129d5d3ca74bd80",
+        "text": "劳动科学",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=19e85e7a188941c8a129d5d3ca74bd80"
+      },
+      {
+        "id": "73e06b949b8240859f85f09e3655cc6c",
+        "text": "社会学其他学科",
+        "href": "Level2Lite.aspx?alias=gxchannel2&id=73e06b949b8240859f85f09e3655cc6c"
+      }
+    ]
+  },
+  {
+    "id": "022aedfe934b49fb92e8f6677df1bd23",
+    "text": "政治学",
+    "href": "Level2Lite.aspx?alias=gxchannel3&id=022aedfe934b49fb92e8f6677df1bd23",
+    "nodes": [
+      {
+        "id": "b4bcc0ba3f4d40e6b1930ae5ee9adb8e",
+        "text": "政治学理论",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=b4bcc0ba3f4d40e6b1930ae5ee9adb8e"
+      },
+      {
+        "id": "cf110586785e4d519e13755f73e329d8",
+        "text": "政治制度",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=cf110586785e4d519e13755f73e329d8",
+        "nodes": [
+          {
+            "id": "aa6747de69024d0dac0179ef3917c590",
+            "text": "政治制度理论",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=aa6747de69024d0dac0179ef3917c590"
+          },
+          {
+            "id": "f5845b458bca40c89a8d257502bca1a2",
+            "text": "行政制度",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=f5845b458bca40c89a8d257502bca1a2"
+          },
+          {
+            "id": "aee78a5af441490a8db2fbf43ee4b6fd",
+            "text": "司法制度",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=aee78a5af441490a8db2fbf43ee4b6fd"
+          },
+          {
+            "id": "ddf067eb619a4118bac15ff698f0da46",
+            "text": "政党制度",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=ddf067eb619a4118bac15ff698f0da46"
+          },
+          {
+            "id": "675d56bc4c7d487c95dba9537cd17f0d",
+            "text": "选举制度",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=675d56bc4c7d487c95dba9537cd17f0d"
+          },
+          {
+            "id": "6e41a4be43a34c07886e4ddc531a39d1",
+            "text": "中国政治制度",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=6e41a4be43a34c07886e4ddc531a39d1"
+          },
+          {
+            "id": "4511693ed75044fe872882606bb1ecb2",
+            "text": "外国政治制度",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=4511693ed75044fe872882606bb1ecb2"
+          },
+          {
+            "id": "474ef942ccea4004b4962f1b8af9171e",
+            "text": "政治制度其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=474ef942ccea4004b4962f1b8af9171e"
+          }
+        ]
+      },
+      {
+        "id": "3ef5a6b5752146a087109dc3f0b4fe6c",
+        "text": "行政学",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=3ef5a6b5752146a087109dc3f0b4fe6c",
+        "nodes": [
+          {
+            "id": "a6fbfd66dc8a4e259fcdb8a02345c6d4",
+            "text": "行政理论",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=a6fbfd66dc8a4e259fcdb8a02345c6d4"
+          },
+          {
+            "id": "fd4cbcb2d4034f2ca10b9148a68f6bf0",
+            "text": "行政组织",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=fd4cbcb2d4034f2ca10b9148a68f6bf0"
+          },
+          {
+            "id": "ae8f004712e3461788c227ec6a451433",
+            "text": "人事行政",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=ae8f004712e3461788c227ec6a451433"
+          },
+          {
+            "id": "48bf8f3e4b404cf19c1eef96d3a08fd1",
+            "text": "行政决策",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=48bf8f3e4b404cf19c1eef96d3a08fd1"
+          },
+          {
+            "id": "cf9576909df14dfc92940dae9c58f93f",
+            "text": "行政学其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=cf9576909df14dfc92940dae9c58f93f"
+          }
+        ]
+      },
+      {
+        "id": "c4f67e6a9bad494a8f27ce1225219d10",
+        "text": "国际政治学",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=c4f67e6a9bad494a8f27ce1225219d10",
+        "nodes": [
+          {
+            "id": "3bfb85fef5d44109a63266eb26d2f7b3",
+            "text": "国际关系理论",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=3bfb85fef5d44109a63266eb26d2f7b3"
+          },
+          {
+            "id": "ebb7a4858cde497ca98d0c9aeb7aa74d",
+            "text": "国际关系史",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=ebb7a4858cde497ca98d0c9aeb7aa74d"
+          },
+          {
+            "id": "eed15de3baca4b8da619b4c36bfc076b",
+            "text": "外交学",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=eed15de3baca4b8da619b4c36bfc076b"
+          },
+          {
+            "id": "b8893fc742a948e883ceb4bb35688b06",
+            "text": "欧美政治",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=b8893fc742a948e883ceb4bb35688b06"
+          },
+          {
+            "id": "c71bbf1d68fd4d8480966e34cecedd08",
+            "text": "亚太政治",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=c71bbf1d68fd4d8480966e34cecedd08"
+          },
+          {
+            "id": "3f7f3c28729248bba10db676994353ff",
+            "text": "非洲政治",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=3f7f3c28729248bba10db676994353ff"
+          },
+          {
+            "id": "bc2def431e2d48718f26d57b0b7a3b8a",
+            "text": "中亚、西亚政治",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=bc2def431e2d48718f26d57b0b7a3b8a"
+          },
+          {
+            "id": "e00361e1f42940748dfca061387e6370",
+            "text": "国际政治其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=e00361e1f42940748dfca061387e6370"
+          }
+        ]
+      },
+      {
+        "id": "a4da5d1b98fb4ff1a63d21e44b36a8b6",
+        "text": "政治学其他学科",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=a4da5d1b98fb4ff1a63d21e44b36a8b6"
+      }
+    ]
+  },
+  {
+    "id": "36ce6b9393a94a88b8fa40aab363b86e",
+    "text": "法学",
+    "href": "Level2Lite.aspx?alias=gxchannel3&id=36ce6b9393a94a88b8fa40aab363b86e",
+    "nodes": [
+      {
+        "id": "62183ca3d9374327b361d59db8562f0f",
+        "text": "理论法学",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=62183ca3d9374327b361d59db8562f0f"
+      },
+      {
+        "id": "07d63b449c814b6eb50138ca276546a3",
+        "text": "法律史学",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=07d63b449c814b6eb50138ca276546a3"
+      },
+      {
+        "id": "dcdb548e0aa64154a9190c84b53cbd73",
+        "text": "部门法学",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=dcdb548e0aa64154a9190c84b53cbd73",
+        "nodes": [
+          {
+            "id": "697a5802cd2242c2822388d0d91c9a09",
+            "text": "宪法学",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=697a5802cd2242c2822388d0d91c9a09"
+          },
+          {
+            "id": "818479deb2944630a262b75f9ef6a934",
+            "text": "行政法学",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=818479deb2944630a262b75f9ef6a934"
+          },
+          {
+            "id": "4aadf722cdc34d078ab2b96681984d48",
+            "text": "民法学",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=4aadf722cdc34d078ab2b96681984d48"
+          },
+          {
+            "id": "5fe011ee2dbf41aa983e833fe28a81dd",
+            "text": "经济法学",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=5fe011ee2dbf41aa983e833fe28a81dd"
+          },
+          {
+            "id": "f1cea2e573c24fecbac6129dd6798d47",
+            "text": "劳动法学",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=f1cea2e573c24fecbac6129dd6798d47"
+          },
+          {
+            "id": "da7ec602ad9f48049f7446577f87991b",
+            "text": "诉讼法学",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=da7ec602ad9f48049f7446577f87991b"
+          },
+          {
+            "id": "3f80832e4fbb42138ca9e1ec0f15eede",
+            "text": "刑法学",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=3f80832e4fbb42138ca9e1ec0f15eede"
+          },
+          {
+            "id": "1e27295a093041fa8176c869ec6eac29",
+            "text": "环境法学",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=1e27295a093041fa8176c869ec6eac29"
+          },
+          {
+            "id": "9ec101f5ba274dc2ba8002b9b5c4079b",
+            "text": "安全法学",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=9ec101f5ba274dc2ba8002b9b5c4079b"
+          },
+          {
+            "id": "1968c02e6d3b401fbb18adb4109db97d",
+            "text": "知识产权法学",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=1968c02e6d3b401fbb18adb4109db97d"
+          },
+          {
+            "id": "9c35b781612149bd8972b5f50bc516c1",
+            "text": "部门法学其他学科",
+            "href": "Level2Lite.aspx?alias=gxchannel3&id=9c35b781612149bd8972b5f50bc516c1"
+          }
+        ]
+      },
+      {
+        "id": "cdf2be699bc44b8e992fc2aa46a24998",
+        "text": "国际法学",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=cdf2be699bc44b8e992fc2aa46a24998"
+      },
+      {
+        "id": "ed5308adea2048aaa10900fcae0d4f04",
+        "text": "法学其他学科",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=ed5308adea2048aaa10900fcae0d4f04"
+      }
+    ]
+  },
+  {
+    "id": "1a9bef3843634bf1939a47e0a9c5b8a5",
+    "text": "其他学科",
+    "href": "Level2Lite.aspx?alias=gxchannel3&id=1a9bef3843634bf1939a47e0a9c5b8a5",
+    "nodes": [
+      {
+        "id": "654d275907e445769c74dd4c132a4b46",
+        "text": "哲学",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=654d275907e445769c74dd4c132a4b46"
+      },
+      {
+        "id": "86e2489feaa6430784e4c99a8e6e66c8",
+        "text": "文学",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=86e2489feaa6430784e4c99a8e6e66c8"
+      },
+      {
+        "id": "41ead244de484b24a02fb749db6dc225",
+        "text": "语言学",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=41ead244de484b24a02fb749db6dc225"
+      },
+      {
+        "id": "f8b6dc528c2e4bbeacdc960d2eb74155",
+        "text": "艺术学",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=f8b6dc528c2e4bbeacdc960d2eb74155"
+      },
+      {
+        "id": "589b6c3fb8b94fccb7fe67e65be3cf82",
+        "text": "历史学",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=589b6c3fb8b94fccb7fe67e65be3cf82"
+      },
+      {
+        "id": "2e7752734d3b451e91921c114c679758",
+        "text": "民族学",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=2e7752734d3b451e91921c114c679758"
+      },
+      {
+        "id": "f54d061eb1ca4d59ae73b59668d66e27",
+        "text": "宗教学",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=f54d061eb1ca4d59ae73b59668d66e27"
+      },
+      {
+        "id": "d714cdc3c6e046c59fc570709529a44c",
+        "text": "军事学",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=d714cdc3c6e046c59fc570709529a44c"
+      },
+      {
+        "id": "d3df7da928234272bb2e752533b0dabd",
+        "text": "新闻与传播学",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=d3df7da928234272bb2e752533b0dabd"
+      },
+      {
+        "id": "f6849702aee141f6b6d43fd7ddfa5d2f",
+        "text": "情报与文献学",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=f6849702aee141f6b6d43fd7ddfa5d2f"
+      },
+      {
+        "id": "34289a422d73414f8c31e11bc4a36a49",
+        "text": "数学与统计学",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=34289a422d73414f8c31e11bc4a36a49"
+      },
+      {
+        "id": "65744fafae814981940bbf5cd8d96525",
+        "text": "其他",
+        "href": "Level2Lite.aspx?alias=gxchannel3&id=65744fafae814981940bbf5cd8d96525"
+      }
+    ]
+  }
+]
